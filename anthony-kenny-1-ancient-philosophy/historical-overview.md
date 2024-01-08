@@ -52,3 +52,66 @@
   * The universe is both divisible and indivisible, generated and
     ungenerated, mortal and immortal.
   * The way up and the way down are one and the same.
+
+## Parmenides (c. late 6th century BC)
+
+* Nothing is in motion, nothing changes.
+* Whatever changes there might be, they are not changes from being to
+  non-being. They are all changes within Being. Being is everlastingly the
+  same and time is unreal because past, present, and future are all one.
+* The first to speak of metaphysics.
+* Earth is a sphere.
+
+## Melissus (fl. c. 500 BC)
+
+* Pupil of Parmenides.
+* The universe is unlimited, unchangeable, immovable, indivisible, and
+  homogeneous.
+* Pain is unreal because it implies (impossibly) a deficiency of being.
+* There is no such thing as vacuum since it would have to be a piece of
+  Unbeing. Local motion is therefore impossible, for the bodies that occupy
+  space have no room to move into.
+
+## Zeno of Elea (c. 490 – c. 430 BC)
+
+* Another pupil of Parmenides.
+* Zeno's paradoxes.
+
+## Empedocles (c. 494 – c. 434 BC, fl. 444–443 BC)
+
+* All four elements (earth, water, air, fire) are fundamental “roots” of
+  matter.
+* A cosmological theory must not just identify the elements of the universe,
+  but must assign causes for the development and intermingling of the
+  elements to make the living and inanimate compounds of the actual world.
+  E. assigns these roles to Love and Strife. Love combines the elements,
+  Strife forces them apart.
+* Evolution of survival of the fittest. First flesh and bone emerged as
+  chemical mixtures of the elements, then out of these constituents limbs
+  and organs emerged: unsocketed eyes, arms without shoulders, and faces
+  without necks. These roamed around until they chanced to find partners;
+  they formed unions, which were often, at this preliminary stage, quite
+  unsuitable. Thus there arose various monstrosities: human-headed oxen,
+  ox-headed humans, androgynous creatures with faces and breasts on front
+  and back. Most of these fortuitous organisms were fragile and sterile;
+  only the fittest structures survived to be the human and animal species we
+  know.
+
+## Anaxagoras (c. 500 – c. 428 BC)
+
+* Account of the beginning of the universe : “All things were together,
+  infinite in number and infinite in smallness; for the small too was
+  infinite. While all things were together, nothing was recognizable because
+  of its smallness. Everything lay under air and ether, both infinite.” This
+  primeval pebble began to rotate, throwing off the surrounding ether and
+  air and forming out of them the stars and the sun and the moon. The
+  rotation caused the of dense from rare, of hot from cold, of dry from wet,
+  and bright from dark. But the separation was never complete, and to this
+  day there remains in every single thing a portion of everything else (a
+  little whiteness in black, etc.).
+* The idea of multiverse.
+* All things were together: then Mind came and gave them order. Mind is
+  infinite and separate, and has no part in the general commingling of
+  elements; if it did, it would get drawn into the evolutionary process and
+  could not control it.
+* The first writers to include diagrams in his text.
