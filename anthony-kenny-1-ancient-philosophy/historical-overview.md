@@ -115,3 +115,35 @@
   elements; if it did, it would get drawn into the evolutionary process and
   could not control it.
 * The first writers to include diagrams in his text.
+
+## Democritus (c. 460 – c. 370 BC)
+
+* Matter is not infinitely divisible. The tiniest parts of matter are called
+  atoms (indivisible). I found the argument for this (the version of
+  Aristotle) unconvincing, since it assumes that the process of infinite
+  division can happen in finite time and we can then make some final
+  examination of the result.
+* Atoms are in constant movement in vacuum. They differ in shape, in order,
+  in posture. Some of them are concave and some convex, some are like hooks,
+  some are like eyes. In their ceaseless motion they bang into each other
+  and join up with each other.
+* D. was a believer in plural worlds.
+
+## Socrates (c. 470–399 BC)
+
+* Inductive arguments.
+* Search for general definitions in various Platonic dialogues.
+* Virtue and moral knowledge are the same thing. No one who really knows
+  what is the best thing to do can do otherwise, and all wrongdoing is the
+  result of ignorance.
+* Socrates' method does not claim that we cannot ever know whether some
+  particular action is or is not, say, pious unless we can give a watertight
+  definition of piety. Socrates' method involves only the weaker claim that
+  unless we have a general definition of a virtue we will not
+  * be able to say whether the virtue universally has a particular
+  property, such as being teachable, or being beneficial, or
+  * be able to decide difficult borderline cases.
+* The inductive argument from particular instances to general truths is a
+  contribution to the universal definition, even though the contribution in
+  the dialogues is forever incomplete, never leading to an exception-proof
+  definition.
