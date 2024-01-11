@@ -147,3 +147,36 @@
   contribution to the universal definition, even though the contribution in
   the dialogues is forever incomplete, never leading to an exception-proof
   definition.
+
+## Plato (428/427 or 424/423 – 348 BC)
+
+* The theory of ideas.
+* The thesis of recollection (ideas are acquired in a previous life).
+* For each thing there is three things are necessary if we are to come by
+  knowledge: first, the name, secondly, the definition, and thirdly, the
+  image. Knowledge itself is a fourth thing, and there is a fifth thing that
+  we have to postulate, which is that which is knowable and truly real (the
+  idea). The idea is an objective reality that is not the property of any
+  individual mind.
+* Republic—a dialogue outlining the ideal organization (according to Plato)
+  of a city-state. Three classes: guardians (soldiers best fitted to rule),
+  auxiliaries (other soldiers), farmers and artisans. Women are to be held
+  in common and all sexual intercourse is to be public.
+* There are 5 possible types of political constitution. The first and best
+  constitution is monarchy or aristocracy: if wisdom rules it does not
+  matter whether is it incarnate in one or many rules. There are 4 inferior
+  types of constitution: timocracy, oligarchy, democracy, and despotism.
+  Each of these constitutions declines into the next because of the
+  downgrading of one of the virtues of the ideal state. If the rules cease
+  to be persons of wisdom, aristocracy gives place to timocracy, which is
+  essentially rule by a milliary junta. Oligarchy differs from timocracy
+  because oligarchic rules lack fortitude and military virtues. Oligarchs do
+  possess, in a rather miserly form, the virtue of temperance; when this is
+  abandoned oligarchy gives way to democracy. For Plato any step away from
+  aristocracy of the ideal republic is a step away from justice; but it is
+  the step from democracy to despotism that marks the enthronement of
+  injustice incarnate.
+* In *Laws* Plato makes up yet another perfect state Magnesia, to be founded
+  in the south of Crete.
+* Proponent of the idea that our universe is the only one. World is made of
+  4 elements as usual, accepted the atomist theory of Democritus.
