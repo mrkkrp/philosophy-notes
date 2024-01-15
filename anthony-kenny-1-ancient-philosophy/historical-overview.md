@@ -180,3 +180,36 @@
   in the south of Crete.
 * Proponent of the idea that our universe is the only one. World is made of
   4 elements as usual, accepted the atomist theory of Democritus.
+* Wrote in the form of dialogues.
+
+## Aristotle (384–322 BCE)
+
+* Founded logic as a discipline.
+* Criticism of Plato's theory of ideas: “The theory does not confer
+  intelligibility on particulars, because immutable and everlasting forms
+  cannot explain how particulars come into existence and undergo change.
+  Moreover, they do not contribute anything either to the knowledge or to
+  the being of other things. All the theory does is to bring in new entities
+  equal in number to the entities to be explained: as if one could solve a
+  problem by doubling it.”
+* Significant contributions to biology, particularly in zoology and marine
+  biology. His detailed observations of organisms were without precedent and
+  in many cases they were not superseded until the seventeenth century.
+* Wrote in prose monologue.
+* There are three kinds of sciences: productive, practical, and theoretical.
+  Productive sciences are sciences that have a product. They include
+  engineering and architecture, with products like bridges and houses, but
+  also disciplines such as strategy and rhetoric, where the product is
+  something less concrete, such as victory on the battlefield or in the
+  courts. Practical sciences are ones that guide behavior, most notable
+  ethics and politics. Theoretical sciences are those that have no product
+  and no practical goal, but in which information and understanding is
+  sought for its own sake.
+* An idea of state with division of power in 3 branches: the deliberative,
+  the official, and the judicial.
+* Less impressive contributions to chemistry and physics than to biology.
+* The four causes: material, formal, efficient, and final. When Alfredo
+  cooks a risotto, the material causes of the risotto are the ingredients
+  that go into it, the efficient cause is the chef himself, the recipe is
+  the formal cause, and the satisfaction of the clients of his restaurant is
+  the final cause.
