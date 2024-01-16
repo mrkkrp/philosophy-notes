@@ -213,3 +213,25 @@
   that go into it, the efficient cause is the chef himself, the recipe is
   the formal cause, and the satisfaction of the clients of his restaurant is
   the final cause.
+
+## Epicurus (341–270 BC)
+
+* The aim of E. philosophy is to make happiness possible by removing the
+  fear of death, which is the greatest obstacle to tranquillity.
+* The terrors held out by religion are fairy tales, which we must give up in
+  favor of a scientific account of the world.
+* Followed Democritus' atomism.
+* Proponent of the theory of an infinite number of worlds.
+* Like everything else the soul consists of atoms.
+* Gods exist, but we are masters of our own fate: the gods neither impose
+  necessity nor interfere with our choices.
+* Senses are reliable sources of information. Sense-impressions are never,
+  in themselves, false, though we may make false judgments on the basis of
+  genuine appearances.
+* Pleasure is the beginning and the end of the happy life. This does not
+  mean, however, that E. was an epicure. His life and that of his followers
+  was far from luxurious: a good piece of cheese, he said, was as good as a
+  feast.
+* Satisfaction of the desires for food, drink, and sex is itself painful and
+  leads to a renewal of desire. The pleasures to be aimed at are quiet
+  pleasures such as those of private friendship.
