@@ -262,3 +262,10 @@
   cannibalism.
 * For a Stoic it was acceptable, indeed praiseworthy, to take part in public
   life.
+
+## Skepticism in the Academy
+
+* Arcesilaus (316/5–241/0 BC) is the founder of Academic skepticism.
+* He and Timon denied the possibility of finding any self-evident principles
+  to serve as the foundation of sciences. In the absence of such axioms, all
+  lines of reasoning must be circular or endless.
