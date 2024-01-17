@@ -235,3 +235,30 @@
 * Satisfaction of the desires for food, drink, and sex is itself painful and
   leads to a renewal of desire. The pleasures to be aimed at are quiet
   pleasures such as those of private friendship.
+
+## Stoicism
+
+* Founded by Zeno of Citium (344-262 BC).
+* God is not separate from the universe but is a material constituent of the
+  cosmos (pantheism).
+* Stoic physical system can be summarized as follows. Once upon a time,
+  there was nothing but fire; gradually there emerged the other elements and
+  the familiar furniture of the universe. Later, the world will return to
+  fire in a universal conflagration, and then the whole cycle of its history
+  will be repeated over and over again. All this happens in accordance with
+  a system of laws which may be called ‘fate’ (because the laws admit of no
+  exception), or ‘providence’ (because the laws were laid down by God for
+  beneficent purposes). The divinely designed system is called Nature, and
+  our aim in life should be to live in accord with Nature.
+* A problem: if everything is fated, then how could we not live in accord
+  with Nature? Apparently, despite the determinism of fate human beings are
+  free and responsible. If the will obeys reason it will live in accordance
+  with Nature. It is this voluntary acceptance of Nature's laws that
+  constitutes virtue, and virtue is both necessary and sufficient for
+  happiness. This leaves a big question about what exactly these “laws of
+  Nature” mean when applied to human society. It seems like Stoics accepted
+  that society is natural to human beings, but that's a very general thing
+  to claim. Indeed, it looks like Chrysippus allegedly defended incest and
+  cannibalism.
+* For a Stoic it was acceptable, indeed praiseworthy, to take part in public
+  life.
