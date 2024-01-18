@@ -288,3 +288,19 @@
   specific prescriptions to individuals. This distinction enabled Stoics to
   counter the allegation that their system was too elevated to be of any
   practical use.
+
+## Plotinus (205-270 CE)
+
+* Neoplatonist.
+* The idea of One. The One is, in a mysterious way, identical with the
+  Platonic Idea of the Good: it is the basis for all being and the standard
+  of all value, but it is itself beyond being and beyond goodness. Below
+  this supreme and ineffable summit, the next places are occupied by Mind
+  (the locus of Ideas) and Soul, which is the creator of time and space.
+  Soul looks upward to Mind, but downward to Nature, which in turn creates
+  the physical world. At the lowest level of all is bare matter, the
+  outermost limit of reality.
+* These levels of reality are not independent of each other. Each level
+  depends for its existence and activity on the level above it. Everything
+  has its place in a single downward progress of successive emanations from
+  the One.
