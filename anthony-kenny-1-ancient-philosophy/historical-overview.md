@@ -269,3 +269,22 @@
 * He and Timon denied the possibility of finding any self-evident principles
   to serve as the foundation of sciences. In the absence of such axioms, all
   lines of reasoning must be circular or endless.
+
+## Seneca (4 BC–AD 65)
+
+* Urges us to strive towards liberation from passions.
+* None of those things that strike the mind fortuitously should be called
+  passions: they are not things that mind causes but things that happen to
+  it. It is not passion to be affected by the appearances of things that
+  present themselves; passion consists in surrendering oneself to them and
+  following up this fortuitous impact. Weeping, turning pale, sudden intakes
+  of breath, and sexual arousal are not passions, but mere bodily phenomena:
+  it is what happens in the mind that matters.
+* S. was a materialist accepting the Stoic doctrine that the human mind was
+  a material part of a material divine world-soul.
+* S. made popular the distinction between doctrines and precepts. The
+  doctrines provided the general philosophical framework; the precepts
+  enabled the true concept of the highest good to find expression in
+  specific prescriptions to individuals. This distinction enabled Stoics to
+  counter the allegation that their system was too elevated to be of any
+  practical use.
