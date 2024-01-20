@@ -174,3 +174,52 @@ man, such-and-such a horse.
 substances belong. Thus, such-and-such a man belongs in the species human,
 and the genus of this species is animal; so both human and animal are called
 second substances.
+
+## Aristotle on time and modality
+
+A. nowhere puts forward a theory according to which tensed sentences are
+incompletely explicit expressions of timeless propositions. There is, for
+A., nothing in the nature of the proposition as such that prevents it from
+changing its truth-value. Logicians in later ages distinguished between
+propositions that can, and propositions that cannot, change their
+truth-value, calling the former *contingent* and the latter *necessary*
+propositions. The roots of this distinction are to be found in A., but he
+speaks by preference of predicates, or properties, necessarily or
+contingently belonging to their subjects. He discusses propositions such as
+‘A must be B’ and ‘A can be not B’: propositions later called by logicians
+‘modal propositions’.
+
+In the *de interpretatione* A. introduces the topic of modal propositions by
+saying that whereas ‘A is not B’ is the negation of ‘A is B’, ‘A can be not
+B’ is not the negation of ‘A can be B’; its negation is ‘A cannot be B’. In
+the straightforward categorical statement, whether we take the ‘not’ as
+going with the ‘is’ or the ‘B’ makes no practical difference. Is the modal
+statement, whether we take the ‘not’ as going with the ‘can’ or the ‘B’
+makes a great difference.
+
+```
+It is necessary for A to be B               It is necessary for A not to be B
+It is impossible for A not to be B  <-----> It is impossible for A to be B
+             \                                            /
+              \                                          /
+               X                                        X
+              /                                          \
+             /                                            \
+It is possible for A to be B                It is possible for A to be B
+It is not necessary for A not to be B       It is not necessary for A to be B
+```
+
+In *Prior Analytics* A. explores the possibility of constructing syllogisms
+out of modal propositions, but it is universally considered a failure. The
+reason for the lack of success is A.'s indecision about the best way to
+analyze modal propositions.
+
+If modal words modify predicates, there is no need for a special theory of
+*modal* syllogisms. For these are only ordinary assertoric syllogisms of
+which the premises have peculiar predicates. On the other hand, if modal
+words modify the whole statements to which they are attached, there is no
+need for a special modal *syllogistic*, since the rules determining the
+logial relations between modal statements are independent of the character
+of the propositions governed by the modal words. The necessary basis for a
+modal logic is a logic of unanalyzed propositions such as was developed by
+the Stoics.
