@@ -126,3 +126,51 @@ not cope with inferences in which words like ‘all’, ‘every’, ‘some’ 
 not in subject place but somewhere in the grammatical predicate, e.g. ‘every
 boy loves some girl’ or ‘nobody can avoid every mistake’. It took more than
 12 centuries before such inferences were satisfactorily formalized.
+
+## Aristotle's de interpretatione
+
+The *de Interpretatione* is principally interested like the *Prior
+Analytics*, in general propositions beginning with ‘every’, ‘no’, or ‘some’.
+Its main concern is not to link them to each other in syllogisms, but to
+explore the relations of compatibility and incompatibility between them.
+
+* Two statements that cannot be both true together are *contraries*. They
+  can, however, be both false. (‘Every man is white’ and ‘no man is white’.)
+* Two statements that cannot both be true and both be false together are
+  *contradictory*. (‘Every man is white’ and ‘some man is not white’.)
+* Universal affirmative is contradictory to the corresponding particular
+  negative; a universal negative is contradictory to a particular
+  affirmative.
+* Two corresponding particular affirmatives are neither contrary nor
+  contradictory to each other: ‘some men is white’ and ‘some man is not
+  white’ can be, and in fact are, both true together. The propositions
+  cannot, however, both be false together. Later followers called this the
+  relationship of *subcontrariety*.
+
+```
+Universal affirmative                           Universal negative
+‘Every man is white’       <-- contrary -->     ‘No man is white’
+             \                                       /
+              \                                     /
+               X            Contradictory          X
+              /                                     \
+             /                                       \
+Particular affirmative                          Particular negative
+‘Some man is white’        <-- subcontrary -->  ‘Some man is not white’
+```
+
+## Aristotle's categories
+
+A. lists 10 things that can appear in the predicate of a sentence:
+substance, quantity, quality, relation, place, time, posture, vesture,
+activity, passivity. A. makes a classification of extra-linguistic entities,
+things specified as opposed to signs that specify them.
+
+*First substance*—strictly so called, primarily and *par excellence*—is that
+which is neither said of a subject nor is in a subject, e.g. such-and-such a
+man, such-and-such a horse.
+
+*Second substances* are the species and genera to which the primary
+substances belong. Thus, such-and-such a man belongs in the species human,
+and the genus of this species is animal; so both human and animal are called
+second substances.
