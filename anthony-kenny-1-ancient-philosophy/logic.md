@@ -223,3 +223,96 @@ logial relations between modal statements are independent of the character
 of the propositions governed by the modal words. The necessary basis for a
 modal logic is a logic of unanalyzed propositions such as was developed by
 the Stoics.
+
+## Stoic logic
+
+For Diodorus Cronos a proposition is possible iff it either is or will be
+true, is impossible iff it is false and will never be tru, and is necessary
+if it is true and will never be false. ‘The Persian Empire has been
+destroyed’ was untrue but possible when Socrates was alive; after
+Alexander's victories it was true and necessary. For Diodorus, as for
+Aristotle, a special necessity applies to the past.
+
+It is a feature of D.'s definition of possibility that there are no
+possibilities that are forever unrealized: whatever is possible is or will
+be one day true. This appears to involve a form of fatalism: no one can ever
+do anything other than what they in fact do.
+
+The Master Argument:
+
+1. Past truths are necessary.
+2. Nautilus will not ever be seen.
+3. It has always been the case that Nautilus will not ever be seen. (A
+   plausible consequence of 2.)
+4. It is necessary that Nautilus will not even be seen. (From 3 and 1.)
+5. It is impossible that Nautilus will ever be seen. (Necessarily not =
+   impossible that.)
+
+Only what will happen can happen.
+
+This argument is flawed by an ambiguity in the premise that past truths are
+necessary. What is a past truth?
+
+* If it means a true proposition in the past tense, then there is no
+  guarantee that it is necessary.
+* If it is a proposition that is made true by an event in the past, then
+  past truths are indeed necessary; but a proposition such as 3 is not a
+  past truth and hence does not entail 4.
+
+Diodorus' pupil Philo defines the conditional. ‘If p, then q’, he said, was
+false in the case in which *p* was true and *q* false and true in the 3
+other cases.
+
+On the other hand, there are passages suggesting that at least some Stoics
+took a different view of the truth-conditions. Chrysippus is reported as
+saying that in ‘If p then q’ the connective declared that *q followed from
+p*. A conditional is true when the contradictory of its consequent conflicts
+with its antecedent. For instance, ‘If it is day, it is light’ is true
+because ‘It is not light’, the contradictory of the consequent, conflicts
+with ‘It is day’. A conditional is false when the contradictory of its
+consequent does not conflict with the antecedent, such as ‘If it is day,
+Dion is walking’ because ‘Not: Dion is walking’ does not conflict with ‘It
+is day’.
+
+Stoics introduced a new term, *lekton*, literally *thing said*. The *lekton*
+plays an important part in the Stoic treatment of the distinction between
+signs and what they signify. The Stoics said that three items are linked
+together, the signification, the signifier, and the topic. The signifier is
+a sound, such as ‘Dion’, the signification is the matter that is portrayed
+by it, the topic is the external object such as Dion himself. Of these three
+items two, the sound and the topic are material, but one is intangible, the
+matter signified, i.e. the *lekton*, which is what is true or false.
+
+The *lekton* is what said by the sentence, namely that ‘Dion is walking’.
+This is not a tangible entity like Dion himself, or the name ‘Dion’, or the
+whole sentence ‘Dion is walking’. Whether the sentence is true or false
+depends on whether the matter it portrays obtains or not, i.e. on whether
+Dion is or is not walking. On this bases we can say that a *lekton* is the
+content of a sentence in the indicative.
+
+Stoics realized the importance of scope when they were treating negations.
+‘It is day and it is light’ was not contradictory to ‘It is day and it is
+not light’. The contradictory must be formed by attaching the negation sign
+at the beginning so that it governs the whole proposition.
+
+The criterion for the invalidity of an inference was analogous to the one
+Chrysippus offered for the truth-value of a conditional. An inference was
+valid if the contradictory of the conclusion conflicted with the conjunction
+of the premises; if it did not conflict, then the inference was invalid. A
+typical invalid inference was ‘If it is day, it is light. But it is day.
+Therefore Dion is walking.’ Nowadays we are accustomed to distinguish valid
+inferences and sound inferences. An inference may be valid but unsound if
+one or more of its premises is untrue. The Stoics made a similar
+distinction, but used the Greek word for ‘true’ to correspond to ‘sound’ and
+‘false’ to correspond to ‘unsound’. An inference was unsound if either it
+was invalid or it contained some falsity in its premises.
+
+Inferences came in various forms, called ‘moods’:
+
+(A) If 1 then 2; but 1; therefore 2.
+(B) If 1 then 2; but not 2; therefore not 1.
+(C) Not both 1 and 2; but 1; therefore not 2.
+(D) Either 1 or 2; but 1; therefore not 2.
+(E) Either 1 or 2; but not 2; therefore 1.
+
+All valid inferences, Chrysippus believed, can be reduced to these forms.
