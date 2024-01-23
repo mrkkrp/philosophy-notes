@@ -43,3 +43,28 @@ belief?
   one. Thus, I can know that a computer is not alive without being able to
   produce a watertight criterion to separate life from non-life. (MK: Can
   you?)
+
+## Knowledge in the Theaetetus
+
+* Knowledge = perception. There are cases of perception without knowledge
+  and knowledge without perception. ‘Colors are not the same as sounds.’
+  What does that piece of knowledge come from? It cannot come from the eyes,
+  since they cannot see sounds; it cannot come from the ears, since they
+  cannot hear colors. Moreover, there are no organs for detecting sameness,
+  in the way that there are organs for seeing and hearing. The soul itself
+  contemplates the common terms that apply to the deliverances of all of the
+  senses.
+* Knowledge = thought, and thought is an activity of the soul by itself.
+  Knowledge cannot be identified outright with thought, because there are
+  false thoughts, but perhaps we can say that knowledge is true thought.
+* There are cases when people have true thoughts and form true opinions
+  without having actual knowledge.
+* Knowledge = true thought + logos. *Logos* is a kind of analysis. If so,
+  the ultimate, unanalyzable elements of the universe cannot be known. And
+  if elements of a complex cannot be known, how can the complex itself be
+  known? Moreover, a mere listing of the elements of a complex is
+  insufficient for knowledge unless the elements are put together in the
+  correct order.
+* Logos = a detailed description that is uniquely true of that object. That
+  is a necessary condition for having any thought about X, but it is not
+  sufficient for turning a true thought into a piece of genuine knowledge.
