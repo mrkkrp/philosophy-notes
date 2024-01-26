@@ -68,3 +68,47 @@ belief?
 * Logos = a detailed description that is uniquely true of that object. That
   is a necessary condition for having any thought about X, but it is not
   sufficient for turning a true thought into a piece of genuine knowledge.
+
+## Knowledge and Ideas
+
+* What is known must be true; knowledge can only be of what *is*.
+* If knowledge must be knowledge of what *is*, and only an Idea utterly
+  *is*, then knowledge must be knowledge of Ideas.
+* If there is anything at the opposite pole from an Idea, something that
+  utterly *is not*, that is totally unknowable. Most things are only partly
+  F for any given idea F, so they are a mix of knowable and unknowable, and
+  thus are objects of thought (doxa) as apposed to knowledge.
+* Knowledge and thought are powers (dynameis), just as sight and hearing are
+  powers. Powers do not have colors or shapes by which we can tell one from
+  another. ‘In the case of a power I look only at what it is concerned with
+  and what it does to it, and by reference to that I call each the power it
+  is.’ Sight is a power to discriminate color, and hearing a power to
+  discriminate sound: it is the difference between the objects, color and
+  sound, that distinguishes these two powers from each other. Similarly, the
+  difference between knowledge and belief is to be determined by noting the
+  differences between the two kinds of object with which they deal.
+* Doxa (thought) has the visible world as its realm. It has 2 different
+  forms and 2 different objects. One form is imagination, whose objects are
+  shadows and reflections; another form is belief, whose objects are the
+  living creatures about us and the works of nature or of human hands.
+* The realm of gnosis (knowledge) is also divided in 2. Knowledge par
+  excellence is noesis, or understanding, whose object is the Ideas that are
+  the province of the philosopher. But there is also another kind of
+  knowledge, typical of the mathematician, to which Plato gives the name
+  *dianoia*. The abstract objects of the mathematician share with the Ideas
+  the characteristic of eternity and unchangeability: they belong to the
+  world of being, not of becoming. But they also share a characteristic with
+  ordinary terrestrial objects, namely they are multiple and not single. The
+  geometer's circles, unlike the Ideal Circle, can intersect with each
+  other.
+* The philosophical method is called by Plato ‘dialectic’. It treats
+  assumptions not as first principles, but literally as hypotheses, like
+  stepping stones or starting points on a journey up to an unhypothetical
+  first principle. Having grasped this principle, dialectic goes into
+  reverse and, keeping hold of what follows from the principle, finally
+  comes down to a conclusion.
+* What is it to have knowledge of an Idea, and how such knowledge is
+  acquired is never explained. Other dialogues (the Phaedo, the Meno)—put
+  forward a startling suggestion to fill this gap. Knowledge of Ideas is
+  essentially recollection of acquaintance in an earlier, more spiritual
+  life.
