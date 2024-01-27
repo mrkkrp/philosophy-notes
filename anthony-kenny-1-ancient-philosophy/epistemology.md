@@ -112,3 +112,37 @@ belief?
   forward a startling suggestion to fill this gap. Knowledge of Ideas is
   essentially recollection of acquaintance in an earlier, more spiritual
   life.
+
+## Aristotle on Science and Illusion
+
+* We cannot treat majority opinion as the criterion of truth. If a worldwide
+  epidemic broke out, those now called healthy might be outnumbered, and
+  there would no longer be reason to accept as true their opinion that honey
+  is sweet.
+* Aristotle offers a number of criteria for ranking sense-appearances when
+  it is necessary to choose between them, the most important of which is
+  that a sense has priority when it is judging its proper object. The proper
+  object of each sense is defined as being that which cannot be perceived by
+  another sense, and that about which it is impossible to be deceived: color
+  is the proper sense of sight, sound of hearing, and flavor of taste.
+  Statements made on the basis of a given sense can only be corrected by a
+  further use of the same sense. If we are not sure whether a thing really
+  is the color it looks from here to me now, we check by having a better
+  look, by looking closer, by looking in a better light. Each sense is the
+  final judge in the case of its proper object, though it has to get into
+  the right condition and position to judge.
+* Aristotle seeks to avoid both Protagoras' phenomenalism and Plato's
+  intellectualism. First there is sensation, and then there is memory;
+  memories build up into experience and out of individual experience we form
+  a universal concept, which is the basis of both practical skill (techne)
+  and theoretical knowledge (episteme).
+* For Aristotle, to know something is to be genuinely acquainted with the
+  explanation of its being the case and to be aware that it cannot be
+  otherwise. It is necessary for demonstrative knowledge to depend on things
+  that are true and primitive and immediate and better known than the
+  conclusion, to which they must also be prior and of which they must be
+  explanatory. A body of scientific knowledge is built up out of
+  demonstrations. A demonstration is a particular kind of syllogism: one
+  whose premises can be traced back to principles that are true, necessary,
+  universal, and immediately intuited. These first, self-evident principles
+  are related to the conclusions of science as axioms to theorems.
