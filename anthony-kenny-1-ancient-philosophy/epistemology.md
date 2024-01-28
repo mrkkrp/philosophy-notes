@@ -146,3 +146,34 @@ belief?
   whose premises can be traced back to principles that are true, necessary,
   universal, and immediately intuited. These first, self-evident principles
   are related to the conclusions of science as axioms to theorems.
+
+## Epicurean epistemology
+
+* The 3 criteria of truth are sensations, concepts (prolepsis), and
+  feelings.
+* Sensation is the foundation for knowledge; senses are infallible with
+  regard to their proper objects. A sense cannot even correct its own
+  impressions: each impression is of equal reliability and hence whatever
+  appears to a sense at any time is true.
+* On conflict of impressions: we have two equally valid impressions, but of
+  different objects. It is rather the belief that 2 impressions are of the
+  same object that is ‘distorted’.
+* A concept (prolepsis) is a general notion of what kind of thing is
+  signified by a word, e.g. ‘body’, ‘man’, ‘cow’, ‘red’. The ‘pro’ in
+  ‘prolepsis’ is meant to indicate that a concept of X is not a set of
+  information about X derived from experience, but rather a template by
+  which we recognize in advance whether an individual presented in
+  experience is or is not an X. Concepts are not things that have to be
+  proved: they are themselves employed in any proof. It remains obscure
+  whence concepts originate. They cannot be all result of experience since
+  they provide the means by which we sort sensations, which are the basis of
+  experience. But some of them do seem to be the result of
+  experience—perhaps misinterpreted experience, like the concept of God.
+* Sensations and concepts are both evident. It is on these evident elements
+  that we must base our beliefs in what is not evident. Conjectures and
+  theories are false if the senses bear witness against them; they are true
+  if they are confirmed by the senses. May not more than one incompatible
+  theory be consistent with the evidence? The Epicureans accepted this
+  possibility. In such a case all such theories should be accepted: each of
+  them is likely to be true in one or other of the many worlds in the
+  universe, even if we do not know which is true in our world.
