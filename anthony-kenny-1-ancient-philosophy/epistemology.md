@@ -177,3 +177,35 @@ belief?
   possibility. In such a case all such theories should be accepted: each of
   them is likely to be true in one or other of the many worlds in the
   universe, even if we do not know which is true in our world.
+
+## Stoic Epistemology
+
+* The early Stoics shared a number of assumptions about the nature of
+  knowledge with Epicureans. Like them, they believed that it must have a
+  dual basis of infallible sense-perception and primitive and acquired
+  concepts. Stoics gave an account of origin of concepts close to that of
+  Aristotle.
+* The Stoics developed a more elaborate classification of mental states than
+  ever the Epicureans did. They wanted to propound epistemology that would
+  withstand skeptical challenge. In addition to the two states of knowledge
+  (episteme) and belief (doxa) that had been contrasted since Plato, they
+  introduced a third state, cognition (katalepsis). Knowledge is cognition
+  that is sound and firm and unchangeable by argument; belief is weak and
+  false assent, and cognition is in between the two: it is assent to a
+  cognitive appearance.
+* ‘Appearance’ is a broad term, including not only what appears to the
+  senses but candidates for belief of other kinds. Cognitions, likewise, may
+  result from the senses or from reason. An appearance is not the same thing
+  as a belief: belief involves an extra term, namely assent; assent, unlike
+  appearance, is a voluntary matter. An appearance is congnitive if it is
+  worthy of assent. Cognition is between knowledge and belief in that,
+  unlike belief, it is never false, and unlike knowledge, it does not
+  involve the resolution never to change one's mind. MK: this does not make
+  any sense at all. How is one supposed to be able to tell which appearances
+  are cognitive? Further, if a cognitive appearance is never false, then why
+  would one ever want to change their mind about it? It is then simply
+  knowledge.
+* The Stoics classified impressions in terms of their persuasiveness,
+  however persuasiveness is not a guarantee of truth.
+* There are also reasonable impressions which are compatible with falsehood.
+  As if the system wasn't complicated enough.
