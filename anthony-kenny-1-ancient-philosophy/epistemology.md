@@ -209,3 +209,45 @@ belief?
   however persuasiveness is not a guarantee of truth.
 * There are also reasonable impressions which are compatible with falsehood.
   As if the system wasn't complicated enough.
+
+## Academic Skepticism
+
+* Skeptics are inspired by Socrates.
+* There is no true impression arising from sensation that cannot be paired
+  with another impression, indistinguishable from it, which is
+  non-cognitive. But if two impressions are indistinguishable, it cannot be
+  the case that one of them is cognitive and the other not. Therefore no
+  impression, even if true, is cognitive. To illustrate this argument,
+  consider the case of identical twins, Publius Geminus and Quintus Geminus.
+  If someone looking at Publius thinks he is looking at Quintus, he has an
+  impression that corresponds in every detail to the one he would have if he
+  were if fact looking at Quintus. Hence, his impression is not a cognitive
+  one: it does not answer to the final clause of Zeno's definition: ‘of such
+  a kind as could not arise from what is not.’
+* In reply, the Stoics seem to have denied the possibility of any pair of
+  objects resembling each other in every respect. They propounded the thesis
+  later known as the identity of indiscernibles: no two grains of sand, no
+  two wisps of hair, were totally alike. The Academics complained that the
+  thesis was gratuitous; but it surely no more gratuitous than their own
+  claim that true impressions are *always* liable to be confused with false
+  replicas.
+* Arcesilaus: ‘no one should assert or affirm anything or offer it assent;
+  instead we should curb our rashness and hold it back from any slip. It
+  would be rash indeed to approve something false or unknown, and nothing is
+  more disgraceful than to allow assent and approval to outrun cognition.’
+* Carneades was less radical. While he rejected the possibility of
+  knowledge, he accepted that the wise man could legitimately hold mere
+  belief.
+* The two Academics focus their attack on Zeno at different points. Zeno
+  held that no wise man would hold mere belief, but if he relied only on
+  cognitive impressions his assents would all count as knowledge. Arcesilaus
+  and Carneades agree with each other that there are no cognitive
+  impressions and therefore no knowledge, but the former concludes that the
+  wise man will give no assent, while the later concludes that the wise man
+  will hold mere belief.
+* If the skeptic suspends judgment, how can they live a normal life? To
+  answer this question a new notion of *impulse* is introduced. While assent
+  is voluntary and can be withheld, appearance, we know, is outside of our
+  control. But appearance is inevitably followed by impulse, and it is
+  possible to follow this without the mental assent in which truth is to be
+  found and falsehood to be avoided.
