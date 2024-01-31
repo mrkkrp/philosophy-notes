@@ -251,3 +251,31 @@ belief?
   control. But appearance is inevitably followed by impulse, and it is
   possible to follow this without the mental assent in which truth is to be
   found and falsehood to be avoided.
+
+## General conclusions
+
+* Knowledge can only be of what is true.
+* Knowledge is only knowledge if it can appeal implicitly or explicitly to
+  some kind of support, whether from experience, reasoning, or some other
+  source.
+* Knowledge must be resolute, excluding the possibility of being rightly
+  converted, at a later stage, to a different view.
+* A fallacy: ‘Whatever is knowledge must be true’ may be interpreted in two
+  ways:
+  1. Necessarily, if p is known, p is true
+  2. If p is known, p is necessarily true.
+  (1) is true but (2) is false.
+* Epicureans and Stoics are prepared to countenance knowledge not just of
+  eternal truths, but of mundane contingencies. But this is only possible if
+  we have faculties capable of infallible operation. This Hellenistic
+  fallacy is just the mirror image of the classical fallacy. Let F stand for
+  some faculty. Then it is true that:
+
+  > It is impossible, if F knows that p, that F has gone wrong.
+
+  But that is not the same as, nor is it true that:
+
+  > If F knows that p, then it was impossible for F to go wrong.
+
+  The epistemological fallacy, both in its classical and in its Hellenistic
+  form, would cast long shadows through philosophy's history.
