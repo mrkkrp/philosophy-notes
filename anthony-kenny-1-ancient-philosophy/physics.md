@@ -39,3 +39,19 @@
   continuous can be divided at *every* point (Democritus' supposition).
 * MK: does it even make sense that 2 items are continuous? Surely it is not
   the items but the magnitude between them that is continuous.
+
+## Aristotle on place
+
+* Place cannot be identified with the body that occupies it. What is it,
+  then?
+* The universe is not anywhere; for whatever is somewhere must not only
+  exist itself, but also have something alongside it in which it is and
+  which contains it. But there is nothing outside the entire universe.
+* Is it clear that place as described by Aristotle is quite different from
+  space as often conceived since Newton as an infinite extension or cosmic
+  grid. Newtonian space would exist whether or not the material universe had
+  been created. For Aristotle, if there were no bodies there would be no
+  place; there can, however, be a vacuum, a place empty of bodies, but only
+  if the place is bounded by actual bodies. His concept of place, therefore,
+  can avoid the difficulties that have led philosophers such as Kant to deny
+  the reality of space.
