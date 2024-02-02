@@ -55,3 +55,16 @@
   if the place is bounded by actual bodies. His concept of place, therefore,
   can avoid the difficulties that have led philosophers such as Kant to deny
   the reality of space.
+
+## Aristotle on motion
+
+* ‘Motion’ for Aristotle is a broad term, including changes in several
+  different categories, such as growth in size or change in color.
+* Motion is the actuality of what is in potentiality, in so far as it is in
+  potentiality. Motion is a notion difficult to grasp, and this is because
+  it is as it were halfway between straight potentiality and straight
+  actuality.
+* Motion is a continuum: a mere series of positions between A and B is not a
+  motion from A to B. At any point at which X is moving, there will be an
+  earlier point at which it was already moving. It follows that there is no
+  such thing as a first instant of motion.
