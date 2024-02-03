@@ -68,3 +68,34 @@
   motion from A to B. At any point at which X is moving, there will be an
   earlier point at which it was already moving. It follows that there is no
   such thing as a first instant of motion.
+
+## Aristotle on time
+
+* Motion acquires its continuity from the continuum of spatial extension.
+  Time, in its turn, derives its continuity from the continuity of motion.
+* Time is the number of motion in respect of before and after.
+* Where there is no motion there is no time. (MK: love this, this is very
+  deep and indeed compatible with the modern theories of relativity.)
+* It is the *before* and *after* in motion that provides the *earlier* and
+  *later* in time.
+* We say ‘earlier’ and ‘later’ with reference to distance from the now; and
+  the now is the boundary between the past and the future. But ‘earlier’ is
+  used in the opposite ways in respect to past time and future time: in the
+  past we call earlier that which is further from the now, and later that
+  which in nearer to the now; in the future we call earlier that which in
+  nearer to the now, and later that which is further away.
+* Aristotle uses ‘now’ in two ways: to indicate the present time, and as a
+  synonym for ‘instant’ or ‘moment’. In the above passage he appears to be
+  amalgamating the two uses to mean ‘the present instant’. This is
+  unfortunate because *the present instant* is an incoherent notion.
+  ‘Present’ is an adjective applicable only to periods, such as the present
+  year or the present century. Instants are the boundaries of periods, and
+  future periods are bounded by future instants, and past intervals by past
+  instants. But present periods are bounded not by present instants, but by
+  two instants, one of which is past and the other future. There is no
+  instantaneous present.
+* ‘There can be no motion at an instant.’ If now is an instant and there is
+  no motion at an instant, then nothing is in motion now. Thus, motion must
+  be forever unreal. Truth that lies behind Aristotle's claim is that we can
+  only talk of X moving at time t if t is a moment within a period of time,
+  t' to t'', during which X is in movement.
