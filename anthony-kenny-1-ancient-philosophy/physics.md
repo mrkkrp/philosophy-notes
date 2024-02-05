@@ -99,3 +99,34 @@
   be forever unreal. Truth that lies behind Aristotle's claim is that we can
   only talk of X moving at time t if t is a moment within a period of time,
   t' to t'', during which X is in movement.
+
+## Aristotle on causation and change
+
+* The four causes: material, formal, efficient, and final. When Alfredo
+  cooks a risotto, the material causes of the risotto are the ingredients
+  that go into it, the efficient cause is the chef himself, the recipe is
+  the formal cause, and the satisfaction of the clients of his restaurant is
+  the final cause.
+* We have a case of alteration when the subject of change is perceptible and
+  persists, and merely change its properties… A body, for instance, while
+  remaining the same body, is now healthy and now ill; some bronze may be
+  now circular and now angular, and yet the same bronze. But when nothing
+  perceptible persists in its identity as a subject of change, and the thing
+  changes as a whole (when e.g. semen becomes blood, or water changes into
+  air, or air totally into water), such an occurrence is a case of one
+  substance coming to be and another substance ceasing to be… Matter, in the
+  most proper sense of the term, is to be identified with the underlying
+  subject which is receptive of coming-to-be and passing away.
+* ‘By matter I mean what in itself is neither of any kind nor of any size
+  nor describable by any of the categories of being. For it is something of
+  which all these things are predicated, and therefore its essence is
+  different from that of all the predicates. All the other categories are
+  predicated of substance, but substance of matter. Therefore the ultimate
+  subject itself is of itself neither of any kind or any size nor anything
+  else.’
+* Aristotle's ultimate/prime matter is not in and of itself of any kind. It
+  is not in and of itself any particular size, because it can grow or
+  shrink; it is not in and of itself water, and it is not in and of itself
+  steam, because it is each of these in turn. This does not mean that there
+  is any time at which it is not of any size, or any time in which it is
+  neither water nor steam nor anything else.
