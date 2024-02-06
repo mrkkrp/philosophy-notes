@@ -130,3 +130,32 @@
   steam, because it is each of these in turn. This does not mean that there
   is any time at which it is not of any size, or any time in which it is
   neither water nor steam nor anything else.
+
+## The Stoics on causality
+
+* The Stoics say that every cause is a body (A) that becomes for another
+  body (B) a cause of something non-bodily (F). For instance a scalpel,
+  which is a body, becomes for the flesh, another body, a cause of the
+  non-bodily predicate *being cut*.
+* The Stoics used the term ‘matter’ specifically to refer to B, the passive
+  element in causation. So in Stoic causation we have a triad of cause,
+  matter, and effect.
+* The Stoics introduced the notions of joint causes and auxiliary causes.
+  This was important, because it shows that it can often be misleading to
+  speak of *the* cause of a particular state or event. Causes form not a
+  chain, but a network.
+* There are also sustaining causes that bring it about that things continue
+  in existence. Bodies of all kinds, for instance, are held together by an
+  active and tenuous fluid called *pneuma*, literally ‘breath’, which is
+  responsible for the cohesion of the universe. Living bodies are kept
+  together alive by the soul, which is their sustaining cause. It is
+  characteristic of such causes that if they cease to operate, their effects
+  cease to obtain.
+* Zeno, indeed, stated this characteristic as a feature of all causes, but
+  other Stoics seem to have allowed another category of antecedent causes,
+  whose effect remained after they had been removed. An antecedent cause
+  brings it about that an object possesses an internal feature that is
+  itself a sustaining cause simultaneous with the effect to be explained.
+  For example, when a patient catches a chill, the coldness of the air is an
+  antecedent cause, and the patient's fever is the internal and enduring
+  state that is the sustaining cause of his symptoms.
