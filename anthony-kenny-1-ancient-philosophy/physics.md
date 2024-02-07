@@ -159,3 +159,20 @@
   For example, when a patient catches a chill, the coldness of the air is an
   antecedent cause, and the patient's fever is the internal and enduring
   state that is the sustaining cause of his symptoms.
+
+## Causation and determinism
+
+* The Stoics believed in universal causation and universal casual
+  determinism, that is to say, that everything has a cause by which it was
+  determined.
+* Every cause is a necessitating cause: given the cause, the effect cannot
+  but happen.
+* The inescapable series of necessitating causes was called by Stoics and
+  their critics Fate.
+* Lazy argument: if determinism is true, there is no point in doing
+  whatever. MK: of course this argument is too simplistic: everyone is
+  caused to do what they do by the sum of the external stimuli they were
+  subjected to up to the moment of the action. Even if someone decided to do
+  nothing because they wanted to prove that the lazy argument is true, they
+  would be caused to do so by exposition to the idea of determinism and the
+  lazy argument itself, plus their own character.
