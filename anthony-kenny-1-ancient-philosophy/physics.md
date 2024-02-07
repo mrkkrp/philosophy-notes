@@ -176,3 +176,30 @@
   nothing because they wanted to prove that the lazy argument is true, they
   would be caused to do so by exposition to the idea of determinism and the
   lazy argument itself, plus their own character.
+
+## Determinism and freedom
+
+* If determinism is true, human responsibility for action evaporates. This
+  argument was mounted by both Epicureans and Academics.
+* Lucretius tried to counter with ‘random quantum jerk’, but neither in
+  antiquity nor in modern times has it been clear how such an event would be
+  a sufficient condition for human freedom.
+* Chrysippus argued that even though everything was deterministic in the
+  world, when a stimulus is presented to the mind it is given (or not given)
+  assent based on the mind's own nature. The assent falls under the
+  overarching rule of fate if it is the only possible outcome of the joint
+  causes, the external stimulus and the agent's own nature. But it is not
+  necessitated by the external, antecedent cause, and in this sense
+  Chrysippus can deny that it is necessary.
+* Chrysippus is not claiming that liberty of indifference is compatible with
+  fate: he is interested in liberty of spontaneity. Chrysippus' humans do
+  enjoy liberty of spontaneity, because they do X because they assent to X,
+  and they assent to X because of their own nature and character. The
+  responsibility that he defends is the autonomy of the agent to act
+  unforced by external causes and stimuli.
+* MK: quite obviously if there are ‘free’ agents like Chrysippus's humans
+  they break the idea of Fate. It does not really matter whether they enjoy
+  liberty of indifference or spontaneity. The situation would be fixed if
+  Stoics also said that the character and nature of a person is also
+  completely determined by the environment in which that person appeared and
+  evolved.
