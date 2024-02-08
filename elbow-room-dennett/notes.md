@@ -95,3 +95,38 @@
   alone the same microphysical state) on two different occasions, simply
   because time passes and unless one is comatose or in some other sort of
   Rip Van Winkle state, one *notices* and hence is constantly changing.’
+* Does *thinking about beliefs and desires*, this reflexive, meta-thinking,
+  have to be conscious thinking, or could it be merely behavioral
+  “thinking”—the sort of reflexive “information processing” a computer can
+  accomplish, for instance? A lot would seem to hang on the answer, for some
+  of our strongest intuitions about freedom hinge on consciousness.
+* Could one be self-conscious, but only unconsciously self-conscious, or has
+  the gulf between unconscious and conscious processes already been crossed
+  once we have arrived at systems that are capable of treating some of their
+  own internal “belief” and “desire” states as objects of “scrutiny”,
+  running their pattern recognition mechanisms over them, and so forth? MK:
+  not sure where Dennett was going with this, he simply says that
+  ‘intuitions and feelings run high on this question’ and abandons the topic
+  of unconscious self-consciousness saying that ‘whatever “genuine
+  consciousness” or “real intentionality” comes to, it must lie at the
+  reachable top of that pyramid of natural, physical processes’. As if
+  unconscious processes are not natural and physical.
+* Next, Dennett takes the opportunity to tell us a story of how
+  consciousness could develop. It goes like this. First, there are a species
+  of creatures who are social enough to have a kind of vocabulary of
+  messages that they can exchange and a certain awareness of the context in
+  which this or that message can be used. Then, one day, perhaps by
+  accident, such a creature sends a messages and hears/perceives it itself.
+  Since such a creature is also a potential receiver of messages of this
+  sort, it would understand itself and try to answer the message. This could
+  stir some associations that could help it to solve the problem at hand.
+  This ability to talk to oneself develops and becomes consciousness.
+* Next, Dennett talks about morality. Morality is a new set of reasons that
+  is not directly dictated by nature and primitive needs of living
+  organisms. E.g. altruism is not in our genes, it is a product of social
+  living.
+* Nietzsche: we need a critique of moral values, the value of these values
+  themselves must just be called in question. Foot (1973) comments: “But how
+  can one value values? The idea of such a thing is enough to make one's
+  head spin.” Perhaps this is where the limit of our reason starts to
+  manifest itself, that's where we start to reveal our sphexish streak.
