@@ -189,3 +189,22 @@
   information in order to avoid being controlled by the way it is filtered.
 * All things considered we are entitled to want a bit of “radical freedom”
   in order to remain in control, avoid being too fully understood.
+* Counterbalancing the perennial persuasiveness of the ideal of freedom as
+  *obeying the dictates of reason* is the subterranean unattractiveness of
+  the selfsame idea. There seems in it no room for spontaneity, for whim,
+  for individuality, for art.
+* The apparent conflict (expressed by Rilke) between the ideal of
+  spontaneity and the ideal of rational deliberation is an illusion. While
+  no one of sound mind would choose a totally chaotic policy of decision and
+  deliberation, it is equally true that the purest devotee of reason will be
+  led, by that very devotion, to a policy that includes a fair measure of
+  “letting yourself go” (MK: in order to made a decision when a proper
+  analysis is not possible or would take too long, to behave in a less
+  predictable way so as to avoid being controlled by others, etc.).
+* Determinism in itself does not erode control. Deterministic systems are
+  able to control themselves. If we are also deterministic systems, we need
+  not on that account fear that we cannot be in control of ourselves and our
+  destinies.
+* The past does not control us. Casual links are not enough for control.
+  There must be an agent with desires to exercise control and feedback for
+  informing that agent.
