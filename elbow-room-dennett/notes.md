@@ -130,3 +130,62 @@
   can one value values? The idea of such a thing is enough to make one's
   head spin.” Perhaps this is where the limit of our reason starts to
   manifest itself, that's where we start to reveal our sphexish streak.
+
+## 3. Control and self-control
+
+* What we fear—or at any rate a very important part of what we fear—in
+  determinism is the prospect that determinism would rule out control, and
+  we very definitely do not want to lose control or be out of control or be
+  controlled by something or someone else—like a marionette or puppet. What
+  we must do, then, is perform a long overdue bit of “ordinary language
+  philosophy”, to see what we actually have in mind when we yearn for
+  control and fear its loss.
+* A controls B if and only if the relation between A and B is such that A
+  can drive B into whichever of B's normal range of states A wants B to be
+  in. For something to be controllee it just needs to have a variety of
+  different states it can be in, but for something to be a controller its
+  states must include desires—or something “like” desires—about the states
+  of something else.
+* Control can be verified empirically.
+* Foreknowledge is what permits control.
+* Control can be indirect. For example we can control Y by controlling X
+  that controls Y. We can exercise control by introducing intentional
+  changes to the environment of the thing we want to control, provided we
+  know how that thing is going to react to the changes to the environment.
+* Can we view the environment itself as a sort of minimal agent, and say
+  that it does the controlling? Skinner: “We may disagree as to the nature
+  or extent of the control which the world around us holds over us, but some
+  control is obvious. Behavior must be appropriate to the occasion.” Thus
+  Skinner would say that the goal of the NASA engineers was to design the
+  explorer vehicles so that they would come to be controlled appropriately
+  by the Martian world about them.
+* Next, Dennett talks about what it would mean to be controlled by the
+  environment in the “right” way, in “benevolent” way, etc. Finally, he
+  rightly agrees that the environment per se does not exercise any control
+  since it lacks any desires, so it is not an agent in that sense.
+* Causation can be entirely inscrutable—utterly cost in a tangled web of
+  coincidence—and still be causation. MK: it looks like Dennett wants to say
+  that causation is not necessarily a reliable means of control?
+* Laplace's superior intelligence would presumably fail to see the
+  difference [between traceable and untraceable causation], and if offered a
+  job at casino, would be just as capable of controlling a game of roulette
+  as any billiards experts would be capable of controlling a game of
+  billiards. Such a superhuman intelligence could also, no doubt, control
+  one of us as easily as we control Sphex.
+* We always want to have some elbow room, we plan in such a way to remain in
+  control.
+* If agent A is to control object B, A must solve the epistemic problem of
+  identifying the parameters of B's operation. When two agents compete, each
+  trying to control the other, there is thus competition for information,
+  which each trying to conceal as much as possible about its own plans, its
+  knowledge of the other's plans, and so forth, while obtaining as such
+  “intelligence” as possible about the other. “If my opponent gets the edge,
+  it may be able to find some way of treating me the way the biologist
+  treated poor Sphex, some way of controlling my activity *in the wrong of
+  sort of way*, a way that is contrary to my interests.”
+* We are not so opposed to being controlled by an agent that only tells us
+  the truth and provides argumentation of its entire evidence-gathering
+  operation. But even then we might want first-hand access to the
+  information in order to avoid being controlled by the way it is filtered.
+* All things considered we are entitled to want a bit of “radical freedom”
+  in order to remain in control, avoid being too fully understood.
