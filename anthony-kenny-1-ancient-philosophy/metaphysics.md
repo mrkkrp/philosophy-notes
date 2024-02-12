@@ -165,3 +165,14 @@ Metaphysics is the study of Being. Being (with a capital B) is all that is.
   other totally without being identical with each other. Two peas, however
   alike they are, are two peas and not one pea because they are two
   different parcels of matter.
+
+## Being and existence
+
+* To be something is not the same as to be, period.
+* To be is not part of the substance of anything, because *what is* is not a
+  genus.
+* The things that something currently is, or is doing, are called Aristotle
+  its actualities; the things that it can be, or can do, are its
+  potentialities.
+* It is not the substance, but the matter, that has the potentiality to take
+  on different substantial forms.
