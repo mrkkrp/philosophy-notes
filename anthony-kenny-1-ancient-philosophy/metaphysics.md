@@ -99,3 +99,69 @@ Metaphysics is the study of Being. Being (with a capital B) is all that is.
   per se, while everything else is F per accidens.
 * Relations in the realm of Ideas are per se, while in our world they are
   only per accidens.
+
+## Aristotelian forms
+
+* The difference between Aristotelian forms and Platonic forms is that for
+  Aristotle forms are not separate: any form is the form of some actual
+  individual.
+* Form is paired with matter and the paradigm examples of forms are the
+  substantial or accidental form of material substances.
+* Aristotle, like Plato, must also offer an account of universal terms.
+* What is Being? = What is substance? Are there separate substances of any
+  kind, distinct from those we can perceived with our senses?
+
+## Essence and quiddity
+
+* Quiddity = essence = ‘the what-is-it to be’ of a thing.
+* ‘Substance’ has 4 principal meanings: the quiddity, the universal, the
+  genus, and the subject.
+* The subject is the same as the first substance of categories: it is of
+  which everything is predicated and which is itself predicated of nothing.
+  Such first substances are composites of matter and form in the way that a
+  statue is related to its bronze and its shape. But matter is not substance
+  (because it cannot exit alone, MK: without form?), and if we are to
+  discover whether form is substance, we have to investigate its relation to
+  quiddity.
+* Entities in all ten of the categories are examples of per se beings. A
+  thing's color or shape is as much a per se being as the thing itself.
+  Accidents, confusingly, are per se beings. It is a
+  substance-qualified-by-an-accident is a per accidens being. So while the
+  wisdom of Socrates is a per se being, wise Socrates is not; he is a being
+  per accidens.
+* A quiddity is what a thing is said to be per se.
+* A quiddity is given by a definition. However, we do not always have a
+  definition of X when we have a series of words equivalent to X. A
+  definition must be in terms of species and genus, and only such a
+  definition will generate quiddity. MK: what about inanimate objects? What
+  gives their definition?
+* A thing and its quiddity are identical. This takes a by surprise, since a
+  thing is surely concrete and quiddity is surely abstract. This seems to be
+  motivated by a version of The Third Man argument: if a horse was distinct
+  from its quiddity, the horse's quiddity would have its own distinct
+  quiddity, and so on forever. MK: I understand Aristotle's predicament
+  here, but saying that a thing and its quiddity are identical is just
+  wrong. Aristotle identifies quiddity with form, but any concrete thing
+  according to him is a pair matter-form. So, where did the matter go? On a
+  second thought, perhaps what Aristotle means here is that any given thing
+  is defined by its form rather than its matter? Socrates ceases to exist if
+  he ceases to possess his form, that is, if he ceases to be a human being.
+* When a thing comes into being neither its from nor its quiddity begins to
+  exit. If I manufacture a bronze sphere, I do not thereby make either the
+  bronze or the spherical shape. What come into existence must always be
+  divisible, and there must be two identifiable components, one matter and
+  the other form. It is clear that the part which is called substance does
+  not come into existence; what comes into existence is the composite entity
+  which bears its name.
+* Aristotle draws an anti-Platonic conclusion: if everyday enmattered forms
+  do not come into existence at all, there is no need to invoke separate,
+  ideal forms to explain how forms come into existence. MK: this is pretty
+  illogical. Obviously there are such things as forms, so if they do not
+  come into existence, they must be pre-existing in a Platonic way.
+* Matter is the principle of individualization. According to this thesis,
+  however different two thins may be from each other, it is not the
+  differences between their properties or characteristics that make them
+  distinct from each other. For it is possible for things to resemble each
+  other totally without being identical with each other. Two peas, however
+  alike they are, are two peas and not one pea because they are two
+  different parcels of matter.
