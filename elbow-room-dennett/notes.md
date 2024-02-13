@@ -208,3 +208,57 @@
 * The past does not control us. Casual links are not enough for control.
   There must be an agent with desires to exercise control and feedback for
   informing that agent.
+
+## 4. Self-made selves
+
+* Do we *do* anything? What is it to be an agent, as opposed to a mere
+  thread in the fabric of causation?
+* Chisholm: If we are responsible… then we have a prerogative which some
+  would attribute only to God: each of us, when we act, is a prime mover
+  unmoved. In doing what we do, we cause certain events to happen, and
+  nothing—or no one—causes us to cause those events to happen.
+* Can we find a naturalistic account of the self or agent that avoids this
+  “obscure and panicky metaphysics” while distinguishing agents sufficiently
+  within the casual fabric?
+* Whatever else we are, we are information-processing systems, and all
+  information-processing systems rely on amplifiers of a sort. Relatively
+  small causes are made to yield relatively large effects. In particular,
+  the expenditure of large amounts of stored energy is controlled by
+  modulation of lower-energy events. We see the dramatic effects leaving; we
+  don't see the causes entering; we are tempted by the hypothesis that there
+  are no causes.
+* The invisibility of casual paths is not just a matter of the invisibility
+  (to us) of other minds. From our own first-person “introspective” vantage
+  point the casual paths are equally untraceable. When we decide our
+  decision bubbles up to consciousness from we know not where.
+* Is it not perhaps an illusion that I can grant or withhold acceptance of
+  some proposition “at will”?
+* Control is the ultimate criterion in defining self: I'm the sum total of
+  the parts I control directly.
+* Are all self-controllers selves?
+* It would help us understand the difference between ourselves and lesser
+  creatures if we had some developmental story to tell about the critical
+  features in the intervening process that led from those lesser creatures
+  to us.
+* Edwards: Let us suppose that both A and B are compulsive and suffer
+  intensely from their neuroses. Let us assume that there is a therapy that
+  could help them, which could materially change their character structure,
+  but that it takes a great deal of energy and courage to undertake the
+  treatment. Let us suppose that A has the necessary energy and courage
+  while B lacks it. A undergoes the therapy and changes in the desired way.
+  B just gets more and more compulsive and more and more miserable. Now it
+  is true that A helped form his own later character. But his starting
+  point, his desire to change, his energy and courage, were already there.
+  They may or may not have been the result of previous effects on his own
+  part. But there must have been a first effort, and the effort at that time
+  was the result of factors that were not of his making.
+* I may not be controlled by the past, but my current capacity to make
+  decisions and control myself is not, it seems, something I can take credit
+  for. How could any deterministic process of “character transformation”
+  beginning with a being that was *not* responsible for any of its
+  “decisions” ever yield a being who was not only responsible for its
+  decisions, but responsible for having the sort of character that would
+  make those decisions? For that matter, how could an indeterministic
+  process from the same starting point yield anything better?
+* Perhaps the error is this: it presupposes that one could not take full
+  responsibility for something unless it was entirely of one's making.
