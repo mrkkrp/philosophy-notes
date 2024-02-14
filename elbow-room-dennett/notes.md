@@ -262,3 +262,59 @@
   process from the same starting point yield anything better?
 * Perhaps the error is this: it presupposes that one could not take full
   responsibility for something unless it was entirely of one's making.
+* In what ways are we products of acts of self-creation then?
+* However much one considers and evaluates and reflects, there is always
+  logical room for more. Since we are thus inevitably confronted with the
+  need for a limited and incomplete survey of considerations, it becomes
+  important to us that the “right” considerations occur to us *early* in the
+  deliberation process. But we cannot directly control this ordering; we
+  cannot play parade marshal for the queue of considerations-to-be-reviewed,
+  putting each in its proper place in line. For such control takes time and
+  effort, and we are rushed. We must relinquish control over the very
+  process that generates the incomplete set of considerations on which we
+  act, and hence we are always somewhat at the mercy of that process.
+  However, knowing that we are and always will be at the mercy of that
+  process, we can take steps to improve—if not guarantee—its reliability.
+* But even this process of reflective self-criticism and meta-level control
+  reasoning must have its limits. If a complacent or sphexish rejection of
+  all opportunities for reflection would be ill-advised, it would clearly
+  also be irrational to embark on a limitless round of self-evaluation.
+* Why are we inclined to think, then, that further level of reflection,
+  further bouts of self-evaluation, *tend* to lead to improvements in the
+  “character” of the agent?
+* One can see that up to some ill-defined point, the acquisition of
+  self-knowledge must be a good thing. A necessary feature of this task of
+  self-evaluation is that it has no objective upper bound but at the same
+  time gets more difficult the higher up the evaluation proceeds.
+* Finite agents must use heuristic methods when faced with large problems
+  and limited time (and other resources). The larger the search space of a
+  problem, the larger and messier the haystack in which the needle must be
+  found, the more risky any heuristic method (with its inevitably blind
+  leaps) must be.
+* Self-formation represents the gradual development of self to be
+  importantly unlike other process of material transformation that might
+  seem to be appropriate metaphors to those hylephobes (hylephobia is
+  Dennet's term for the fear of materialism) with lazy imaginations: crystal
+  formation, erosion, ripening, the formation of scar tissue.
+  Self-formation, unlike these, is informationally sensitive, amenable to
+  indefinitely many levels of meta-level criticism, and “creative” in the
+  way that art is: the forms that emerge contribute to the constitution of
+  the canons by which they are judged.
+* This proposition is still vulnerable to a version of Edwards' skeptical
+  challenge: if I happen to have defined myself so as to be able to listen
+  to the voice of reason (on occasion) that is just my good luck, and if
+  another person is unlucky enough to start life with a character tainted by
+  ancestral shortcomings, his misdeeds are similarly only a product of his
+  bad luck. Neither of us was responsible for being who we were the day we
+  were born, and neither of us is, or could be, responsible for anything we
+  subsequently do, so long as our characters today are deterministic
+  outgrowths, however constructive or creative, of our characters yesterday
+  and the day before.
+* Is it “just luck” that some of us were born with enough artistic talent,
+  in effect, to have developed “good” characters while some of us have
+  turned out less well?
+* Further Dennett talks at length about luck, but in my opinion this does
+  not advance the discussion at all. He calls fortunate events in the
+  causation links “luck” and unfortunate “bad luck”. Further he says that
+  what is considered lucky varies per individual and their “skill level”,
+  etc. A pretty useless section.
