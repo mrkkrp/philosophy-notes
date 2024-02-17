@@ -50,3 +50,51 @@
   thought. Thinking itself consists of nothing else but being busy about
   such universals. Thus the actualization of the object of thought, and the
   operation of the thinker of thought, are one and the same.
+
+## Will, mind, and soul in late antiquity
+
+* Aristotle defined voluntariness as follows: something was voluntary if it
+  was originated by an agent free from compulsion or error.
+* Prohairesis (purposive choice): the choice of an action as part of an
+  overall plan of life.
+* Augustine: We have to distinguish three senses of ‘necessity’: nature,
+  certainty, and compulsion. Nature and compulsion are incompatible with
+  voluntariness, and only voluntary acts are blameable. Certainty is
+  compatible with voluntariness: it may be certain that X will sin, and yet
+  X will sin voluntarily and will rightly be blamed.
+* Augustine offers to prove that wanting is in our power. On one
+  interpretation his proof goes like this. Doing X is in our power if we do
+  X whenever we want. But whenever we want, we want. Therefore wanting is in
+  our power. This sees too easy: surely the first premise is incomplete. It
+  should read: Doing X is in our power if we do X whenever we want to do X.
+  The second premise would then have to read: whenever we want to want to do
+  X we want to do X. This would give us Augustine's conclusion: whatever X
+  is, wanting X is in our power. But one may question the second premise.
+  May we not have a second-order want to want something, without having the
+  first-order want itself?
+* If it is in my power to do X, then it must be in my power not to do X.
+  This weakens his argument to show that wanting is in our power. For
+  whatever plausibility there is in the claim that if I want to want
+  something I want it, there is none in the claim that if I want not to want
+  something then I do not want it. I may very sincerely want to give up
+  smoking: that does not prevent my passionate want for a cigarette at this
+  moment.
+* Augustine believed that at any moment God foreknew all future events. He
+  can then construct the following argument against the possibility of
+  voluntary sin.
+  1. God foreknew that Adam was going to sin.
+  2. If God foreknew that Adam was going to sin, necessarily Adam was going
+     to sin.
+  3. If Adam was necessarily going to sin, then Adam sinned necessarily.
+  4. If Adam sinned necessarily, Adam did not sin of his own free will.
+  5. Adam did not sin of his own free will.
+* Augustine tries to disarm the argument by distinguishing between
+  certainty, on one hand, and natural causation or compulsion, on the other.
+  I can be certain that someone is about to do something without in any way
+  compelling him to do it. Accordingly, we can distinguish the senses of
+  ‘necessity’ in the argument above. In (2) and the antecedent of (3)
+  necessarily must be taken as ‘certainly’. In (4) and the consequent of (3)
+  ‘necessarily’ must be taken as ‘under compulsion’. Because of the
+  resulting equivocation in (3), the argument fails. MK: but ‘under
+  compulsion’ is not compatible with voluntariness, so even in that case
+  Adam would not have sinned out of his own free will?!
