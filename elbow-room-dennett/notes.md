@@ -315,6 +315,41 @@
   turned out less well?
 * Further Dennett talks at length about luck, but in my opinion this does
   not advance the discussion at all. He calls fortunate events in the
-  causation links “luck” and unfortunate “bad luck”. Further he says that
+  causation chain “luck” and unfortunate “bad luck”. Further he says that
   what is considered lucky varies per individual and their “skill level”,
   etc. A pretty useless section.
+
+## 5. Acting under the idea of freedom
+
+* If determinism is true, then any belief we ever have about there being
+  more than one possible future for us is false. If determinism is true,
+  then only the actual is possible; whatever did happen was the only thing
+  that could have happened, and whatever will happen will be the sole
+  possibility the future ever held in store for us. But then, since
+  deliberation surely presupposes that there are multiple possibilities to
+  be decided amongst, determinism and deliberation are incompatible. But
+  what could this supposed incompatibility come to?
+* If determinism were true, people sometimes say, deliberation would be
+  impossible. But this cannot be right. People deliberate every day. What is
+  actual is possible, but this manifest actuality of deliberation hardly
+  shows that determinism is false.
+* If determinism were true, the deliberation that people engage in wouldn't
+  be *effective* deliberation, wouldn't “make any difference”. If we think
+  of making a difference as simply *being efficacious*, this must also be
+  false. Even in a perfectly determined world there is plenty of room for a
+  distinction between bouts of deliberation that contribute importantly to
+  the causation of an event deliberated about and bouts of deliberation that
+  are without important issue. (Rather obvious examples follow.)
+* However effective such determined deliberation might be in contributing to
+  a casual chain, it wouldn't be *real* deliberation, since its outcome
+  would be just as determined as its inauguration. But why is this the mark
+  of phony, unreal deliberation? Wouldn't a determined thunderstorm be a
+  real thunderstorm? Wouldn't a determined traffic accident be a real
+  traffic accident?
+* Dennett urges us not to confuse determinism with fatalism—a rather
+  mystical and superstitious view that at certain checkpoints in our lives,
+  we will necessarily find ourselves in particular circumstances no matter
+  what the intervening vagaries of our personal trajectories are.
+  Determinism does not imply fatalism.
+* Local fatalism might be true, e.g. no deliberation could make any
+  difference if the person deliberating is falling off a bridge.
