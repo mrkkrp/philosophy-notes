@@ -353,3 +353,42 @@
   Determinism does not imply fatalism.
 * Local fatalism might be true, e.g. no deliberation could make any
   difference if the person deliberating is falling off a bridge.
+* We cannot help acting under the idea of freedom, it seems; we are stuck
+  deliberating as if our futures were open. But is there anything to
+  criticize or regret in this irresistible proclivity of ours? We may be
+  able to assess the rationality or wisdom behind our way of deliberating by
+  taking Mother Nature's view of us—or what comes to the same thing: by
+  asking what constraints there are on the design of a finite, physical
+  deliberator.
+* In what follows Dennett talks in detail about the design of a physically
+  implementable deliberator, what kind of trade-offs it could make and when.
+  The main point is this: for a physical deliberator there is really no
+  other way to come to its conclusions (on which its very existence often
+  depends!) but do to the actual deliberation. There is no shortcuts. Thus,
+  even if determinism is true, we have to deliberate as if the future is not
+  fixed in order to behave intelligently.
+* The little chapter on opportunities does not really add much new or
+  interesting. Its focal point, it seems, is the comparison between
+  pseudo-randomness (as implemented e.g. in programming languages) and true
+  randomness (as implemented e.g. by an actual Geiger counter). Dennett
+  highlights that opportunities that are enabled by either type of
+  randomness are genuine opportunities. For example, a lottery where the
+  numbers are drawn even before the tickets are sold is still fair in the
+  same way as a lottery where they draw the numbers after selling all the
+  tickets. This thought hardly needed a chapter of its own—it is obvious.
+* Next, Dennett considers the notions of ‘avoidable’ and ‘inevitable’.
+  Dennet: If determinism is true, all our acts are inevitable, because they
+  are the inevitable effects of events in the past that are themselves quite
+  beyond revision. This line of reasoning is as familiar as it is
+  incoherent. It involves illicit slide from “determined” or “casually
+  necessary” to “inevitable”.
+* We view world, when we are deliberating and planning, always in terms of
+  those features of the world that are going to continue “normally” and
+  those that might change or will change or that we plan to change or hope
+  to change. We categorize some of those projected things as things that
+  will happen *unless* we take certain steps, and others as things that will
+  happen *because* we will take certain steps, and some of them as things
+  that will happen *no matter what steps we take*. We call the latter
+  “inevitable”, because nothing *we do* makes any difference to them, and
+  hence it is pointless to deliberate about them. This is what “inevitable”
+  means.
