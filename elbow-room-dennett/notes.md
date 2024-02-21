@@ -392,3 +392,68 @@
   “inevitable”, because nothing *we do* makes any difference to them, and
   hence it is pointless to deliberate about them. This is what “inevitable”
   means.
+
+## 6. “Could have done otherwise”
+
+* Dennett argues that one could take a strong moral stance in a particular
+  situation so that they truly would not do otherwise in that situation.
+  This is however not regarded as devoid of free will; quite the opposite—it
+  is praised in our culture.
+* What good would it do to know, about a particular agent, that on some
+  occasion (or on every occasion) he could have done otherwise than he did?
+  Or that he could not have done otherwise than he did? Let us take the
+  latter case first. Suppose you knew that when Jones pulled the trigger and
+  murdered his wife at time *t*, he could *not* have done otherwise. That
+  is, given Jones' microstate at *t* and the complete microstate of Jones'
+  environment (including the gravitational effects of distant stars, and so
+  on) at *t*, no other Jones-trajectory was possible than the trajectory he
+  took. If Jones were ever put back into exactly that state again, in
+  exactly that circumstance, he would pull the trigger again. And if he were
+  put in that state a million times, he would pull the trigger a million
+  times.
+
+  Now if you learned this, would you have learned anything about Jones?
+  Would you have learned anything about his character, for instance, or his
+  likely behavior on merely similar occasions? No. Although people are
+  physical objects which, like atoms or ball bearings or bridges, obey the
+  laws of physics, they are not only more complicated than anything else we
+  know in the universe, they are also designed to be so sensitive to the
+  passing show that they never can be in the same microstate twice. One
+  doesn't even have to descend to the atomic level to establish this. People
+  learn, and remember, and get bored, and shift their attention, and change
+  their interests so incessantly, that it is as good as infinitely unlikely
+  that any person is ever in the same (gross) *psychological* or *cognitive*
+  state on two occasions. And this would be true even if we engineered the
+  surrounding environment to be “utterly the same” on different occasions—if
+  only because the second time around the agent would no doubt think
+  something that went unthought the first time, like “Oh my, this all seems
+  so utterly familiar; now what did I do last time?”
+
+  There is some point in determining how a bridge is caused to react to some
+  very accurately specified circumstances, since those may be circumstances
+  it will actually encounter *in its present state* on a future occasion.
+  But there would be no payoff in understanding to be gained by determining
+  the micro-causation of the behavior of a human being in some particular
+  circumstance, since he will certainly never confront that
+  micro-circumstance again, and even if he did, he would certainly be in a
+  significantly different reactive state at the time.
+
+  Learning that a particular agent was *not* thus determined to act would be
+  learning something equally idle, from the point of view of character
+  assessment or planning for the future. The undetermined agent will be no
+  more flexible, no move versatile, no more sensitive to nuances, no more
+  reformable, than his deterministic cousin.
+* Why should determinism still seem so appalling? Is that what we want—to
+  have our cake and eat it too? To have chosen *both* to marry and to remain
+  unmarried, *both* to pull the trigger and to drop the gun? If that is the
+  variety of free will we want, then whether or not it might be worth
+  wanting, we can be quite confident that it must elude us.
+* If we let go of that fantasy and ask what we really, soberly want, we find
+  a more modest hope: while there are indeed times when we would give
+  anything to be able to go back and undo something in the past, we
+  recognize that the past is closed for us, and we would gladly settle for
+  an “open future”. But what would an open future be? A future in which our
+  deliberation is effective: a future in which if I decide to do A then I
+  will do A, and if I decide to do B then I will do B; a future in
+  which—since only one future is possible—the only possible thing that can
+  happen is the thing I decide in the end to do.
