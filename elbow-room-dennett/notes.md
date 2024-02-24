@@ -547,3 +547,35 @@
   predictable systems and unstable, chaotic systems; it is a fact about the
   world itself—because it is a factor about the world's predictability by
   any predicting system at all, however powerful.
+
+## 7. Why do we want free will?
+
+* The varieties of free will we deem worth wanting are those—if there are
+  any—that will secure for us our dignity and responsibility.
+* It is interesting that when people hit upon the suggestion that there may
+  be no responsibility, they do not as a rule view it as the prospect of a
+  welcome holiday, a change to do whatever they like without running the
+  risk of feeling—or being—guilty. Strangely enough, it seems that we want
+  to be held responsible. Why?
+* Perhaps our dignity is threatened by the prospect that we ourselves might
+  not be responsible agents. What is this *dignity* that is so special?
+* Perhaps there are other reasons for our allegiance? How should we
+  interpret the fact that we want to hold others responsible? But why? Could
+  it be a streak of sheer vindictiveness or vengefulness in us, rationalized
+  and made presentable in civilized company by a gloss by moral doctrine?
+* It is *rational* for us to esteem free will and covet responsibility. No
+  other sort of argument could be a *defense* of those concepts;
+  nevertheless, such an argument must inevitably appear to be
+  question-begging in its appeal to the rational judgment of an audience of
+  fellow agents.
+* (Here Dennett starts considering nihilism.) If it were true that we ought
+  to take the possibility of nihilism that seriously, then nihilism would be
+  false, for if we *ought* to do *anything* nihilism is false. But then we
+  may as well assume that it is false, since either it is false or, if it
+  isn't, nothing matters and we may do whatever we want. Nihilism is, quite
+  literally, a *negligible* position.
+* Since there could be nothing better to do, we might just as well affirm
+  our confidence in our starting point. We may assume that something
+  matters, and that we are rational enough so that there can be a point to
+  our attempts to understand the world. I do not see how those assumptions
+  could be coherently criticized—which is not to say that they must be true.
