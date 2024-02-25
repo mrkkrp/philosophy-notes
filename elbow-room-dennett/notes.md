@@ -579,3 +579,64 @@
   matters, and that we are rational enough so that there can be a point to
   our attempts to understand the world. I do not see how those assumptions
   could be coherently criticized—which is not to say that they must be true.
+* A task that faces us is drawing and defending a line between exculpating
+  pathology and varieties of falling-short that still leave agents genuinely
+  culpable. We are looking, then, for some elbow room for us sinners in
+  between the saints and the monsters.
+* Dennett decides to consider the question of responsibility by looking at
+  the institution of criminal law. Why do we want to punish people who
+  “commit crimes”? Because we can readily identify sorts of harms we would
+  like to see minimized in our society and we have reason to believe that if
+  we prohibit the causing of these harms, and give force to the prohibition
+  by threatening sanctions, we will thereby diminish the frequency of those
+  harms. If the members of society are even approximately rational, they
+  will see that it is not at all in their interests to be caught having
+  committed the prohibited deeds, and will hence in general be deterred. We
+  have plenty of empirical evidence that the citizenry, taken as a whole, is
+  appropriately sensitive to such measures.
+* Dennett further explains that we do see crimes because some people under
+  certain conditions conclude that crime *does* pay. However, there is a
+  kind of balance to strike: we do not want to punish too harshly or too
+  lightly and we need to think what we can do with a limited number of law
+  enforcing officials. Dennett further considers what deterrent power of
+  laws depends on, that law enforcing organization needs credibility in the
+  population, that the population should be informed about the laws for them
+  to work, and so on. Some of the details of criminal law will be arbitrary
+  because a line needs to be drawn somewhere, similar to the situation with
+  our personal deliberation.
+* Whatever responsibility is, considered as a metaphysical state, unless we
+  can tie it to some recognizable social desideratum, it will have no
+  rational claim on our esteem.
+* Gomberg: By holding someone responsible and acting accordingly, we may
+  cause him to shed an undesirable trait, and this is useful regardless of
+  whether the trait is of his making. Once again, the utility of a certain
+  measure of arbitrariness is made visible.
+* Any finite control system (such as a human brain) will always be prone to
+  making mistakes or arriving at decisions that a more leisurely analysis
+  would condemn; it is an inevitable feature of human character, even
+  perfected to its limit. Original Sin, naturalized. It is wise, however, to
+  adopt policies that minimize the bad effects of these inevitable defects
+  of character. And the corrective feedback forces needed to accomplish this
+  are analogous to those we just sketched in our rationale of punishment in
+  the law. By somewhat arbitrarily holding people responsible for their
+  actions, and making sure they realize that they will be held responsible,
+  we constrain the risk-taking in the design (and redesign) of their
+  characters within tolerable bounds.
+* How should one respond to the idea that one is guilty? If the concept of
+  guilt one is contemplating applying to oneself in the traditional,
+  absolute concept of guilty-before-the-eyes-of-God, then one has as much
+  reason to dismiss it as one does to dismiss the other dubious absolutist
+  notions that are its kin: the perfect Kantian will, the Sartrian
+  self-created self, the ideal Socratic agent who can never knowingly do
+  wrong, the Chisholmian agent as unmoved mover. No one could be guilty in
+  that sense. For that sense of guilt has been screwed so tight by
+  philosophical and theological tradition that the condition it purports to
+  name defies description.
+* The conscience that manifests itself only retrospectively in agonies of
+  remorse, and never prospectively in overcoming some base urge, is a
+  singularly unattractive trait of character, and one that any moral world
+  could well do without. The sort of remorse that (on the other hand) is a
+  manifestation of some significant, projectible, nonmomentary shift in
+  priorities for decision is precisely the sort of attitude the institution
+  of holding people responsible exists to achieve. So that sort of remorse
+  has an entirely appropriate place in our naturalized institution of guilt.
