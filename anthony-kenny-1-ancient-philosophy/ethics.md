@@ -51,3 +51,24 @@
   ‘good’ does not stand. What about wrongdoing which one can get away with?
   Socrates certainly was not familiar with Putin—that man knowingly does all
   kinds of terrible things but he is never held accountable.
+
+## Plato on justice and pleasure
+
+* In Republic Socrates sets out an analogy between the soul and the city. In
+  his imagined city virtues are allotted to different classes of the state:
+  the city's wisdom is the wisdom of its rulers, its courage is the courage
+  of its soldiers, and its temperance is the obedience of the artisans to
+  the ruling class. Justice is the harmony of the three classes.
+* Later, after introduction of Plato's theory of ideas, a different account
+  is presented. The just man is happier than the unjust, not only because
+  his soul is in concord, but because it is more delightful to fill the soul
+  with understanding than to feed fat the desires of appetite. Reason is no
+  longer the faculty that takes care of the person, it is akin to the
+  unchanging and immortal world of truth.
+* Plato returns to the topic of happiness and pleasure in *Philebus*. At the
+  end of the discussion Socrates wins his point against Protarchus: on a
+  well-considered grading of good even the best of pleasures come out below
+  wisdom. The most interesting part of the dialogue, however, is an argument
+  to the effect that neither pleasure nor wisdom can be the essence of a
+  happy life, but that only a mixed life that has both pleasure and wisdom
+  in it would really be worth choosing.
