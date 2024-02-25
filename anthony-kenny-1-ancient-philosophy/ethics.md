@@ -72,3 +72,19 @@
   to the effect that neither pleasure nor wisdom can be the essence of a
   happy life, but that only a mixed life that has both pleasure and wisdom
   in it would really be worth choosing.
+
+## Aristotle on eudaimonia
+
+* Aristotle asks ‘what is a good life and how it is to be acquired?’
+* If life is worth living it must be surely for something that is an end in
+  itself. Aristotle identifies 3 such things: wisdom, virtue, and pleasure.
+* Aristotle distinguishes between a state (hexis) and its use (chresis) or
+  exercise (energeia). Virtue and wisdom are both states, where as happiness
+  is an activity, and therefore cannot be simply identified with either of
+  them. The activity that constitutes happiness is, however, a use or
+  exercise of virtue. Wisdom and moral virtue, though different *hexeis*,
+  are exercised inseparably in a single *energeia*, so that they are not
+  competing but collaborating contributors to happiness. Moreover, pleasure
+  is identical with the unimpeded exercise of an appropriate state: so that
+  happiness, considered as the unimpeded exercise of these two states, is
+  simultaneously the life of virtue, wisdom, and pleasure.
