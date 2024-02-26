@@ -88,3 +88,51 @@
   is identical with the unimpeded exercise of an appropriate state: so that
   happiness, considered as the unimpeded exercise of these two states, is
   simultaneously the life of virtue, wisdom, and pleasure.
+
+## Aristotle on moral and intellectual virtue
+
+* Virtue is expressed in good purpose, that is to say, a prescription for
+  action in accordance with a good plan of life. The actions which express
+  moral virtue will avoid excess and defect. However, Aristotle warns us
+  that what constitutes the right amount to drink, the right amount to give
+  away, the right amount of talking to do, may differ from person to person,
+  in the way that the amount of good fit for an Olympic champion may not
+  suit a novice athlete.
+* Virtue is concerned not only with action but with passion. We may have too
+  many fears or too few fears, and courage will enable us to fear when fear
+  is appropriate and be fearless when it is not. (MK: now we just need to
+  figure out when it is appropriate to be afraid and when it is not.)
+* The virtues, besides being concerned with means of action and passion, are
+  themselves means in the sense that they occupy a middle round between two
+  contrary vices. Thus courage is in the middle, flanked on one side by
+  foolhardiness and on the other side by cowardice, etc.
+* Not every kind of action is capable of a virtuous mean. There are some
+  actions of which there is no right amount, because any amount of them is
+  too much (e.g. murder, adultery).
+* Moral virtue is a state of character expressed in choice, lying in the
+  appropriate mean, determined by the prescription that a wise man would lay
+  down.
+* Long and boring classification of intellectual virtues follows.
+
+## The hedonism of Epicurus
+
+* For Epicurus, pleasure is the final end of life and the criterion of
+  goodness in choice. This is something that needs no argument: we all feel
+  it in our bones.
+* If pleasure is the greatest good, pain is the greatest evil, and it is
+  best to pass a pleasure by if it would lead to long-term suffering.
+  Equally, it is worth putting up with pain if it will bring great pleasure
+  in the long run.
+* A simple vegetarian diet and the company of a few friends in a modest
+  garden suffice for Epicurean happiness.
+* What enabled Epicurus to combine theoretical hedonism with practical
+  asceticism is his understanding of pleasure as being essentially the
+  satisfaction of desire. The strongest and most fundamental of our desires
+  is the desire for the removal of pain. Hence, the mere absence of pain is
+  itself a fundamental pleasure.
+* Among our desires some are natural and some are futile (i.e. they do not
+  cause pain when unfulfilled) and it is the natural desires to which the
+  most important pleasures correspond.
+* There are two kinds of pleasure for which Epicurus framed technical terms:
+  there is the kinetic pleasure of quenching one's third, and the static
+  pleasure that supervenes when one's thirst has been quenched.
