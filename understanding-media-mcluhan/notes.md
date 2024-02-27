@@ -19,3 +19,18 @@
 * So, a medium has 2 things: the message and the content. They are quite
   indepedent for McLuhan even though intuitively we would rather equate
   them.
+* ‘Only standing aside from any structure or medium that its principles and
+  lines of force can be discerned. For any medium has the power of imposing
+  its own assumption on the unwary.’
+* ‘Our conventional response to all media, namely that it is how they are
+  used that counts, is the numb stance of the technological idiot. For the
+  “content” of a medium is like the juicy piece of meat carried by the
+  burglar to distract the watchdog of the mind. The effect of the medium is
+  made strong and intense just because it is given another medium as
+  “content”. The content of a movie is a novel or a play or an opera. The
+  effect of the movie form is not related to its program content.’
+* ‘The effects of technology do not occur at the level of opinions or
+  concepts, but alter sense ratios or patterns of perception steadily and
+  without any resistance. The serious artist is the only person able to
+  encounter technology with impunity, just because he is an expert aware of
+  the changes in sense perception.’
