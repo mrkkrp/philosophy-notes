@@ -136,3 +136,53 @@
 * There are two kinds of pleasure for which Epicurus framed technical terms:
   there is the kinetic pleasure of quenching one's third, and the static
   pleasure that supervenes when one's thirst has been quenched.
+
+## Stoic ethics
+
+* The drive towards the preservation and progress of one's own constitution
+  is something more primitive than the desire for pleasure, since it occurs
+  in plants as well as animals, and even in humans is often exercised
+  without consciousness.
+* Zeno: the end of life is ‘to live in agreement with Nature.’
+* Each of us, according to Hierocles, stands at the center of a series of
+  concentric circles. The first circle surrounding my individual mind
+  contains my body and its needs .The second contains my immediate family,
+  and the third and fourth contain extensions of my family. Then come
+  circles of neighbors, at varying distances, plus the circle that contains
+  all my co-nationals. The outermost and largest circle encompasses the
+  whole human race. If I am virtuous I will try to draw these circles closer
+  together, treating cousins as if they were brothers, and constantly
+  transferring people from outer circles to inner circles. The Stoics coined
+  a special word for the process thus pcturesquely described: ‘oikeiosis’,
+  literally ‘homification’.
+* Living in agreement with nature was, for the Stoics, equivalent to living
+  according to virtue. Their best-known moral tenet was that virtue alone
+  was necessary and sufficient for happiness. Virtue was not only the final
+  end and the supreme good: it was also the only real good.
+* There are things that are good (in agreement with nature), evil (those are
+  against nature), and then there are ‘indifferent matters’.
+* Indifferent matters, were not all on the same level as each other. Some
+  were popular and others unpopular. Some went with nature and some went
+  against nature. Those that went with nature had value and those that went
+  against nature had disvalue. It seems clear that, according to the Stoics,
+  all things that have value are also popular; it is not clear whether
+  everything that is popular also has value.
+* The weakness in the Stoic position is its refusal to come to terms with
+  the fragility of happiness. We have met a parallel temptation in classical
+  epistemology: the refusal to come to terms with the fallibility of
+  judgement. The epistemological temptation is embodied in the fallacious
+  argument from ‘Necessarily, if I know that p, then p’ to ‘If I know that
+  p, then necessarily p’. The parallel temptation in ethics is to argue from
+  “Necessarily, if I am happy, I have X” to ‘If I am happy, have X
+  necessarily’. This argument, if successful, leads to the denial that
+  happiness can be constituted by any contingent good that is capable of
+  being lost.
+* The wise man has all virtues and he is as rare as phoenix. The Stoics
+  purchase the invulnerability of happiness only ta the cost of making it
+  unattainable.
+* The Stoics' doctrine of wisdom and happiness, then, offers us little
+  encouragement to strive for virtue. However, later Stoics made a
+  distinction between doctrine and precepts, the one being general and the
+  other particular. While the doctrine is austere and Olympian, the
+  precepts, by an amiable inconsistency, are often quite liberal and
+  practical.
