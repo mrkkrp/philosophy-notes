@@ -34,3 +34,31 @@
   without any resistance. The serious artist is the only person able to
   encounter technology with impunity, just because he is an expert aware of
   the changes in sense perception.’
+
+## 2. Media hot and cold
+
+* There is a basic principle that distinguishes a hot medium like radio from
+  a cool one like the telephone, or a hot medium like the movie from a cool
+  one like TV. A hot medium is one that extends one single sense in “high
+  definition”. High definition is the state of being well filled with data.
+  A photograph is, visually, “high definition”. A cartoon is “low
+  definition”, simply because very little visual information is provided
+  (MK: I disagree). Telephone is a cool medium, or one of low definition,
+  because the ear is given a meager amount of information. And speech is a
+  cool medium of low definition, because so little is given and so much has
+  to be filled in by the listener. On the other hand, hot media do not leave
+  so much to be filled in or completed by the audience. Hot media are,
+  therefore, low in participation, and cool media are high in participation
+  or completion by the audience. Naturally, therefore, a hot medium like
+  radio has very different effects on the suer from a cool medium like the
+  telephone. (MK: Hotness and coolness are somewhat arbitrarily assigned.)
+* ‘No medium has its meaning or existence alone, but only in constant
+  interplay with other media.’
+* ‘The highly developed situation is, by definition, low in opportunities of
+  participation, and rigorous in its demands of specialist fragmentation
+  from those who would control it.’
+* MK: I find McLuhan pretty annoying. He plays a smart guy, throws 100
+  cryptic phrases per page and instead of working on a topic in an
+  understandable way he simply keeps on jumping all around. Maybe he is too
+  clever for me, but I'd think that a truly clever person is also the one
+  who makes the effort to be understood.
