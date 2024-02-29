@@ -62,3 +62,8 @@
   understandable way he simply keeps on jumping all around. Maybe he is too
   clever for me, but I'd think that a truly clever person is also the one
   who makes the effort to be understood.
+
+Decided to stop reading “Understanding media”. The author is writing with a
+prophetic air of a misunderstood genius, but many of his claims seem
+arbitrary and he never takes the trouble to substantiate them. There are
+better books to read.
