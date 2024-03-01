@@ -40,3 +40,26 @@
   regress in the casual chain of movers, especially that he was a proponent
   of the idea of the eternal universe.
 * The question of what God must be thinking of is quite hilarious.
+
+## The gods of Epicurus and the Stoics
+
+* For Epicurus gods live in imperishable bliss and anything that is
+  incompatible with that state should not be accepted as truth about Gods.
+* To Epicurus the world does not look like it was made for the benefit of
+  humans.
+* Epicurus accepted the existence of gods because of the consensus of the
+  human race: a belief so widespread and so basic must be implanted by
+  nature and therefore be true.
+* The controlling thought of Stoic theology is the identification of God
+  with providence, that is to say, the rationality of natural processes.
+* On one hand, the doctrine of divine providence played an important part in
+  the Stoic system, and providence may seem incompatible with the existence
+  of evil. On the other hand, since for the Stoics vice is the only real
+  evil, the problem seems more restricted in scope for them than it does for
+  theists of other schools. Chrysippus found a solution by appealing to a
+  principle that contraries can exist only in coexistence with each other:
+  justice with injustice, courage with cowardice, temperance with
+  intemperance, and wisdom with folly. The principle seems faulty: no doubpt
+  the concept of an individual virtue may be inseparable from the concept of
+  the corresponding vice, but that does not show that both of the concepts
+  must be instantiated.
