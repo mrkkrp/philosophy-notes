@@ -63,3 +63,44 @@
   the concept of an individual virtue may be inseparable from the concept of
   the corresponding vice, but that does not show that both of the concepts
   must be instantiated.
+
+## The trinity of Plotinus
+
+* The trinity of Plotinus: the One, Intellect, and Soul. With some
+  qualification it can be said that the One is a Platonic God, Intellect is
+  an Aristotelian God, and Soul is a Stoic God.
+* The One is a descendant of the One of the *Parmenides* and the Idea of
+  Good in the *Republic*.
+* Being has a kind of shape of being, but the One has no shape, not even
+  intelligible shape. For since its nature is generative of all things, the
+  One is none of them. It is not of any kind, has no size or quality, is not
+  intellect or soul. It is neither moving nor stationary, and it is neither
+  place nor time; in Plato's words it is ‘by itself alone and uniform’—or
+  rather formless and prior to form as it is prior to motion and rest. For
+  all these are properties of being, making it manifold.
+* We turn from the One to the second element of the Plotinian trinity,
+  Intellect. Like Aristotelian God, Intellect is pure activity, and cannot
+  think of anything outside itself, since this would involve potentiality.
+  But its activity is not a mere thinking of thinking—it is a thinking of
+  all the Platonic Ideas. These are not external entities: as Aristotle
+  himself had laid down as a universal rule, the actuality of intellect and
+  the actuality of intellect's object is one and the same. So the life of
+  the Ideas is none other than the activity of Intellect. Intellect is the
+  intelligible universe, containing forms not only universals but also of
+  individuals.
+* Despite the identity of the thinker and the thought, the multiplicity of
+  the Ideas means that Intellect does not possess the total simplicity which
+  belongs to the One. Indeed, it is this complexity of Intellect that
+  convinced Plotinus that there must be something else prior to it and
+  superior to it. For, he believed, every form of complexity must ultimately
+  depend on something totally simple.
+* From Intellect proceeds the third element, Soul. Here Plotinus talks of a
+  revolt or falling away, an arrogant desire for independence, which took
+  the form of a craving for metabolism.
+* Armstrong: It is a desire for a life different from that of Intellect. The
+  life of Intellect is a life at rest in eternity, a life of thought in
+  eternal, immediate, and simultaneous possession of all possible objects.
+  So the only way of being different which is left for Soul is to pass from
+  eternal life to a life in which, instead of all things being present at
+  once, one things comes after another, and there is a succession, a
+  continuous series, of thoughts and actions.q
