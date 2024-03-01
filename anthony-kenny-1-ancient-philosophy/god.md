@@ -27,3 +27,16 @@
   nothing; rather, he established the cosmos by bringing order out of chaos.
 * In the ideal city of Magnesia atheism is prohibited under severe
   penalties.
+
+## Aristotle's unmoved movers
+
+* Everything in motion is moved by something else.
+* Aristotle rejects the possibility of self-movers through a very murky
+  argument that is also only very vaguely explained in the book. No need to
+  repeat it here.
+* Many fallacies in Aristotle's thinking.
+* Not clear how Aristotle deals with self-moving animals and humans.
+* Not clear why Aristotle does not consider seriously the case of infinite
+  regress in the casual chain of movers, especially that he was a proponent
+  of the idea of the eternal universe.
+* The question of what God must be thinking of is quite hilarious.
