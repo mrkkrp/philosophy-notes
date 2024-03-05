@@ -18,3 +18,25 @@
   Secondly, the narrative Augustine constructed out of biblical and
   classical elements provided the framework for philosophical discussion in
   the Latin world up to and beyond the Renaissance and the Reformation.
+
+## Boethius (c. 480–524 AD)
+
+* Matters within the province of fortune are insignificant by comparison
+  with values within oneself. The gifts of fortune that we enjoy do not
+  really belong to us: riches may be lost, and are most valuable when we are
+  giving them away. A splendid household is a blessing to me only if my
+  servants are honest, and their virtue belongs to them not me. Political
+  power may end in murder or slavery; and even while it is possessed it is
+  trivial. The inhabited world is only a quarter of our globe; our globe is
+  minute in comparison with the celestial sphere; for a man to boast of his
+  power is like a mouse crowing over other mice. The greatest of fame lasts
+  only a few years that add up to zero in comparison with never-ending
+  eternity. I cannot find happiness in wealth, power, or fame, buy only in
+  my most precious possession, myself.
+* Good fortune is deceitful, constant only in her inconstancy; bad fortune
+  brings men self-knowledge and teaches them who are their true friends, the
+  most precious of all kinds of riches.
+* ‘If God foresees all and cannot in any way be mistaken, then that must
+  necessarily happen which in his providence he foresees will be.’ The reply
+  offered is that God is outside time, and so it is a mistake to speak of
+  providence as involving foreknowledge at all.
