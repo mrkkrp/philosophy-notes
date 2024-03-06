@@ -40,3 +40,22 @@
   necessarily happen which in his providence he foresees will be.’ The reply
   offered is that God is outside time, and so it is a mistake to speak of
   providence as involving foreknowledge at all.
+
+## John Scotus Eriugena (c.800–c.877)
+
+* Developed his own version of Neoplatonism.
+
+## Ibn Sina (Avicenna) (980–1037)
+
+* Avicenna's main philosophical encyclopedia was called in Arabic
+  *Kitab-al-Shifa*, or ‘Book of Healing’. It is divided into four parts, of
+  which the first three treat of logic, physics, and mathematics
+  respectively. The second part includes a development of Aristotle's *De
+  Anima*. The fourth part, whose Arabic name means ‘Of divine things’, was
+  known in the medieval west as his *Metaphysics*. When translated into
+  Latin in Toledo around 1150 it had an enormous influence on the Latin
+  philosophy of the Middle ages.
+
+## Solomon Ibn Gabirol (c.1021–1058)
+
+* Fundamentally Neoplatonic with a neo-Aristotelian element.
