@@ -97,3 +97,17 @@
   Satisfaction can only be adequate if it is made by one who is human (and
   therefore an heir of Adam) and also divine (and therefore capable of
   making infinite recompense). Hence the necessity of the Incarnation.
+
+## Abelard (1079–1142)
+
+* Contributions to logic (3 logical treatises survive).
+* One of Abelard's works that had the greatest subsequent influence was his
+  *Sic et Non*, which places in opposition to each other texts on the same
+  topic by different scriptural or patristic authorities. This collection
+  was not made with skeptical intent, in order to cast doubpt on the
+  authority of the sacred and ecclesiastical writers; rather, the paired
+  texts were set out in a systematic pattern in order to stimulate his own,
+  and others', reflection on the points at issue. Later, in the heyday of
+  medieval universities, a favorite teaching method was the academic
+  disputation. Abelard's *Sic et Non* is the ancestor of these medieval
+  disputations.
