@@ -59,3 +59,41 @@
 ## Solomon Ibn Gabirol (c.1021–1058)
 
 * Fundamentally Neoplatonic with a neo-Aristotelian element.
+
+## Anselm of Canterbury (1033–1109)
+
+* *Monologion* has as its purpose to teach students how to meditate upon the
+  nature of God.
+* In *Proslogion* Anselm puts forward his celebrated argument for the
+  existence of God as that than which nothing greater can be conceived. It
+  is on this argument (commonly called the ‘ontological argument’) that his
+  philosophical fame principally rests.
+* ‘I do not aim, Lord, to penetrate your profundity, because I know my
+  intellect is no kind of match for it; but I want to understand in some
+  small measure that truth of years that my heart believes and loves. For I
+  do not seek to understand that I may believe; but I believe that I may
+  understand. For I believe this too, that unless I believe, I shall not
+  understand.’
+* *On truth* analysis different applications of the word ‘true’—to
+  sentences, to thoughts, to sense-perceptions, to actions, and to things.
+  It concludes that there is only a single truth in all things, which is
+  identical with justice.
+* *On free will* explores to what extent human beings are capable of
+  avoiding sin.
+* *On the fall of the Devil* deals with one of the most excruciating
+  versions of the problem of evil: how could initially good angels,
+  supremely intelligent and with no carnal temptations, turn away from God,
+  the only true source of happiness.
+* In *Why did God become man* Anselm finds an original justification for the
+  Christian doctrine of the Incarnation. Justice demands, he says, that
+  where there is an offense, there must be satisfaction: the offender must
+  offer a recompense that si equal and opposite to the offense. In feudal
+  style, he argues that the magnitude of an offense is judged by the
+  important of the person offended, while the magnitude of a recompense is
+  judged by the importance of the person making it. Human sin is infinite
+  offense, since it is offense against God; human recompense is only finite,
+  since it is made by a creature. Unaided, therefore, the human race is
+  incapable of making satisfaction for the sins of Adam and his heirs.
+  Satisfaction can only be adequate if it is made by one who is human (and
+  therefore an heir of Adam) and also divine (and therefore capable of
+  making infinite recompense). Hence the necessity of the Incarnation.
