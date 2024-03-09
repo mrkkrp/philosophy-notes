@@ -127,3 +127,18 @@
 * Averroes' most important contribution to the development of philosophy was
   the series of commentaries—38 in total—that we wrote on the works of
   Aristotle.
+
+## Maimonides (1138–1204)
+
+* *The guide of the perplexed* was designed to reconcile the apparent
+  contradictions between philosophy and religion, which troubled educated
+  believers. Biblical teaching and philosophical learning complement each
+  other, he maintained; true knowledge of philosophy is necessary if one is
+  to have full understanding of the Bible. Where the two appear to
+  contradict each other, difficulties can be resolved by an allegorical
+  interpretation of the sacred text.
+* Maimonides' project for reconciling philosophy and religion depends on his
+  heavily agnostic view of the nature of theology. We cannot say anything
+  positive about God, since he has nothing in common with people like us:
+  lacking matter and totally actual, immune from change and devoid of
+  qualities, God is infinitely distant from creatures.
