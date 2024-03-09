@@ -111,3 +111,19 @@
   medieval universities, a favorite teaching method was the academic
   disputation. Abelard's *Sic et Non* is the ancestor of these medieval
   disputations.
+
+## Ibn Rushd (Averroes) (1126–1198)
+
+* Throughout his life Averroeshad to defend philosophy against attacks from
+  conservative Muslims. In response to al-Ghazali's *Incoherence of the
+  philosophers* he wrote a book called *Incoherence of the incoherence*,
+  defending the right of human reason to investigate matters of theology. He
+  also wrote a treatise, *The harmony of philosophy and religion*. Is the
+  study of philosophy, he asks, allowed or prohibited by Islamic law? His
+  answer is that it is prohibited for the simple faithful, but for those
+  with the appropriate intellectual power (MK: who is to judge that?), it is
+  positively obligatory, provided they keep it to themselves and do not
+  communicate it to others (MK: excellent!).
+* Averroes' most important contribution to the development of philosophy was
+  the series of commentaries—38 in total—that we wrote on the works of
+  Aristotle.
