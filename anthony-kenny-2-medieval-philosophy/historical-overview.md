@@ -142,3 +142,38 @@
   positive about God, since he has nothing in common with people like us:
   lacking matter and totally actual, immune from change and devoid of
   qualities, God is infinitely distant from creatures.
+
+## St Bonaventure (1217–1273)
+
+* Franciscian.
+* In his writings, Bonaventure, unusually for the Latin middle ages,
+  presents himself explicitly as a Platonist. Aristotle's criticisms of
+  Plato's Theory of Ideas, he believes, are quite easily refuted.
+  Bonaventure did not, however, believe that Ideas existed outside the
+  divine mind; they were ‘eternal reasons’, exemplars on which creaturely
+  existence was patterned. MK: now what exactly is the difference between
+  Ideas that exist in the divine mind and outside of it? What is the mind of
+  God?
+* Numerology, mistaken mythology around light.
+* Bonaventure is familiar with the work of Aristotle, but he engages with
+  him principally in order to refute his errors. It was impossible, he
+  thought, to accept both that the world was created and that it had existed
+  from all eternity: accordingly, he proposed a series of arguments, similar
+  to those used by Philoponus and the Kalam theologians, to prove that the
+  world had a beginning in time. Bonaventure accepted Aristotle's
+  distinction between the agent and the receptive intellect but maintained
+  that each of these were faculties of the individual human being. The tasks
+  which Aristotle's Arabic commentators had assigned to the unique separate
+  agent intellect are performed, in Bonaventure's system, by God's direct
+  illumination. Since each human person has an individual intellectual
+  capacity, each of us is personally immortal and will be held responsible
+  after our death for our deeds in this life.
+* Bonaventure accepted Aristotelian hylomorphism and accepted that the human
+  soul was the form of the human body. He uses this as an argument against
+  Arabic monopsychism: ‘since human bodies are distinct, the rational souls
+  that inform those bodies will also be distinct.’ Unlike Aristotle,
+  however, and like Ibn Gabirol, he applies the structure of hylomorphism to
+  the soul itself. Everything other than God is composed of matter and form.
+  Because Bonaventure accepted that the soul contained matter, he was able
+  to reconcile the survival of individual disembodied souls with the
+  commonly accepted thesis that matter was the principle of individuation.
