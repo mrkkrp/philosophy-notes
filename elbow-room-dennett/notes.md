@@ -518,7 +518,7 @@
   principles from the concept of “classical” alethic necessity. In
   particular, such necessity is not “agglomerative”, by which Slote means
   closed with respect to conjunction introduction. Slote illustrates the
-  concept with an example of an “accidential” meeting: Jules happens to meet
+  concept with an example of an “accidental” meeting: Jules happens to meet
   his friend Jim at the bank; he thinks it is happy accident, as indeed it
   is. But Jules' being at the bank is not an accident, since he always goes
   there on Wednesday morning as part of his job; and Jim's being there is
