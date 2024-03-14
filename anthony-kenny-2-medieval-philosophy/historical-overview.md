@@ -214,3 +214,15 @@
   things for granted. By adopting it, St Thomas imposed on himself the
   question ‘Whom have I got to convince of what, and what are the strongest
   things that can be said on the other side?’
+
+## Roger Bacon (1220–1292)
+
+* Roger Bacon is often considered a precursor of his 17th century namesake
+  Francis Bacon in his emphasis on the role of experiment in philosophy. In
+  his main work, the *opus maius*, Roger, like Francis, attacks the sources
+  of error: deference to authority, blind habit, popular prejudice, and
+  pretense to superior wisdom. There are two essential preliminaries, he
+  says, to scientific research. One is a serious study of the languages of
+  the ancients—the current Latin translations of Aristotle and the Bible are
+  seriously defective. The other is a real knowledge of mathematics, without
+  which no progress can be made in sciences like astronomy.
