@@ -177,3 +177,40 @@
   Because Bonaventure accepted that the soul contained matter, he was able
   to reconcile the survival of individual disembodied souls with the
   commonly accepted thesis that matter was the principle of individuation.
+
+## Thomas Aquinas (1225–1274)
+
+* Dominican.
+* Reconciled the teachings of Aristotle with Christianity.
+* Many books of comments on Aristotle.
+* *Summa contra Gentiles* (most frequently in English: *On the Truth of the
+  Catholic Faith*) was a missionary manual, written at the request of the
+  Spanish Dominican Raymond of Penafort, who was evangelizing non-Christians
+  in Spain and North Africa.
+
+  ‘Muslims and pagans do not agree with us in accepting the authority of any
+  Scripture we might use in refuting them, in the way in which we can
+  dispute against Jews by appeal to the Old Testament and against heretics
+  by appeal to the New. These people accept neither. Hence we must have
+  recourse to natural reason, to which all men are forced to assent.’
+
+  Thus, the text is not a work of revealed theology, but of natural
+  theology, which is a branch of philosophy.
+* *Summa theologiae* is Aquinas' magnum opus. It is divided into questions
+  and articles, not into chapters. Arguments for and against a particular
+  thesis that introduce a genuine disputation are replaced by an
+  introductory set (usually a triad) of difficulties against the position
+  that Aquinas intends to take up in the body of the article. This initial
+  section is the *Videtur quod non* (‘It seems not’). These objections are
+  followed by a single consideration on the other side—usually the citation
+  of an authoritative text—beginning with the words ‘Sed contra’ (‘On the
+  other hand’). After this, in the main body of the article, Aquinas sets
+  out his own position with the reasons that support it. Each article
+  concludes with the solution of the difficulties set out in the
+  introductory objections.
+
+  The method, while initially puzzling to a modern reader, provides a
+  powerful intellectual discipline to prevent a philosopher from taking
+  things for granted. By adopting it, St Thomas imposed on himself the
+  question ‘Whom have I got to convince of what, and what are the strongest
+  things that can be said on the other side?’
