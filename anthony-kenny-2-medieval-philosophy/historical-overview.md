@@ -272,3 +272,36 @@
   framework within which Decartes laid out the foundations of modern
   philosophy was in all its essentials a construction erected in Oxford
   around the year 1300.
+
+## William Ockham (c.1287–1347)
+
+* Like Scotus, he treated ‘being’ as a univocal term, applicable to God and
+  creatures in the same sense. He reduced, however, the number of
+  Aristotelian categories to two, namely substances and qualities.
+* Ockham's most significant disagreement with Scotus concerned the nature of
+  universals. He rejected outright the idea that where was a common nature
+  existing in the many individuals we call by a common name. No universal
+  exists outside the mind; everything in the world is singular. Universals
+  are not things but signs, simple signs representing many things.
+
+  According to Ockham, there are two kinds of signs: natural signs and
+  conventional signs. Natural signs are the thoughts in our minds, and
+  conventional signs are the words that we coin to express these thoughts.
+  The concepts in our minds form a language system, a language common to all
+  humans and prior to all the different spoken languages such as English and
+  Latin. Ockham's denial of real universals is often called ‘nominalism’:
+  but the names which, according to him, are the only true universals are
+  not only spoken and written names, but also the inward names of our mental
+  language. Accordingly, when we are making a contrast between Ockham's
+  teaching and the realism of his opponents it would be more apt to call him
+  a conceptualist than a nominalist.
+
+  MK: it, however, seems impossible that people could conceive those
+  “natural signs” if there were nothing to base them upon, i.e. some kind of
+  similarity between individuals that allows for a universal definition. As
+  soon as this proposition is accepted, then one has to also accept that
+  such a similarity can be thought of “common nature”.
+* Ockham maintains that God can directly imprint impressions of things onto
+  our minds even when there are no such things in existence. This thesis
+  obviously opens wider the breach in epistemology that had been opened by
+  Scotus, and broadens the road to skepticism.
