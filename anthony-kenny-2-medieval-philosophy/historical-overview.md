@@ -226,3 +226,49 @@
   the ancients—the current Latin translations of Aristotle and the Bible are
   seriously defective. The other is a real knowledge of mathematics, without
   which no progress can be made in sciences like astronomy.
+
+## John Duns Scotus (1266–1308)
+
+* Scotus broken with the Aristotelian tradition by maintaining that the
+  concepts of being and of other universally applicable predicates such as
+  ‘good’ were not analogous but univocal, and could be used about God in
+  exactly the same sense as about creatures. Scotus brings the infinite
+  Christian God into the realm of metaphysics. The most important
+  distinction to be made within the realm of Being was the division between
+  finite and infinite being.
+* Scotus suggests *haecceitas* (thisness) as a new principle of
+  individualization instead of Aristotelian matter. Thus, in an individual
+  such as Socrates there was both a common human nature and an individuating
+  principle. The common nature and the individual difference were, he
+  maintained, really identical, but distinguished from each other by
+  a distinction of a special kind, the ‘formal distinction’. By this means
+  Scotus hoped to preserve the validity of universal terms without falling
+  into Platonism.
+* Aquinas maintained that the proper object of the intellect, in this life,
+  was the knowledge of the nature of material things. Scotus said that the
+  proper object of intellect was as wide as Being itself.
+* Scotus rejected the thesis that a special divine illumination was needed
+  to enable the human intellect to grasp individuals.
+* God's power is absolute, so God could create in a human mind a conviction
+  of the presence of an individual entity without that entity being present.
+  Fortunately, while having absolute power, God acts only in accordance with
+  orderly power, power guided by wisdom. Hence, he would not exercise the
+  absolute power that would deceive us in the manner suggested. Here,
+  Scotus, like Decartes centuries later, can exclude radical skepticism only
+  by appealing to the doctrine that the good God is no deceiver. (MK: quite
+  in accordance with the ancient tradition wisdom is deemed moral by
+  default.)
+* The human will is the power for opposites, not just in the sense that it
+  can will different things at different times, but that at the very time of
+  willing one thing it retains a power for willing its opposite at the same
+  time.
+* Duns Scotus is important in the history of philosophy not so much for
+  founding a school—though there have been devoted Scotists in every
+  generation up to the present—but because many of his philosophical
+  innovations came to be accepted as unquestioned principles by thinkers in
+  later generations who had never read a word of his works. The reformation
+  debates between Luther and Calvin and their Catholic adversaries took
+  place against a backcloth of fundamentally Scotist assumptions. The
+  framework within which Decartes laid out the foundations of modern
+  philosophy was in all its essentials a construction erected in Oxford
+  around the year 1300.
