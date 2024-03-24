@@ -180,3 +180,75 @@
   distinction useful in various contexts; they usually contrasted
   predication *de re* not with predication *de sensu* but with predication
   *de dicto* (MK: which is what?).
+
+## The thirteenth-century logic of terms
+
+* Terms include not only words, written or spoken, but also the mental
+  counterparts of these, however these are to be identified. In practice
+  concepts are identified by the words that express them, so the medieval
+  study of terms was essentially the study of the meanings of individual
+  words. In the course of this study logicians developed an elaborate
+  terminology.
+* The most general word for ‘meaning’ was ‘significatio’, but not every word
+  that was not meaningless had signification. Words were divided into two
+  classes according to whether they had signification on their own (e.g.
+  nouns) or whether they only signified in conjunction with other,
+  significant, words. The former class were called categorematic terms, the
+  latter were called syncategorematic. Conjunctions, adverbs, and
+  prepositions were examples of syncategorematic terms, as were words such
+  as ‘only’ in ‘Only Socrates is running’. Categorametic words give a
+  sentence its content; syncategorematic words are function words that
+  exhibit the structure of sentences and the form of arguments.
+* As a first approximation one can say that the signification of a word is
+  its dictionary meaning. Categorical terms, in addition to signification,
+  could have a number of other semantic properties, depending on the way the
+  words were used in particular contexts. There properties were grouped by
+  medieval logicians under the general heading of ‘suppositio’.
+* The most basic kind of supposition is called by Peter of Spain ‘natural
+  supposition’: this is the capacity that a significant general term has to
+  supposit for (i.e. stand for) any item to which the term applies. The way
+  in which this capacity is exercised in different contexts gives rise to
+  different forms of supposition. (MK: so it the case that natural
+  supposition encompasses all other kinds of supposition?)
+* One important initial distinction is between simple supposition and
+  personal supposition. In ‘Man is mortal’ there is no article and the word
+  has simple supposition; in ‘A man is knocking at the door’ the word has
+  personal supposition. Personal supposition itself comes in different
+  kinds, namely, discrete, determinate, distributive (confused and
+  distributive), and confused (merely confused).
+* In ‘The dog has just been sick’ the word ‘dog’ has discrete supposition:
+  the predicate attaches to a definite single one of the items to which the
+  word applies. This kind of supposition attaches to proper names,
+  demonstratives, and definite descriptions.
+* Determinate supposition is exemplified in ‘A dog is scratching at the
+  door’: the predicate attaches to some one thing to which the word applies,
+  a thing that is not further specified.
+* In ‘A dog has four legs’ (or ‘Every dog has four legs’) the supposition is
+  distribute (confused and distribute): the predicate attaches to everything
+  to which the word ‘dog’ applies (MK: what's the difference between this
+  and simple supposition?). To distinguish determinate from distributive
+  supposition one should ask whether the question ‘Which dog?’ makes sense
+  or not.
+* A word can have personal supposition not only when it occurs in a subject
+  place, but also if it appears as a predicate. In ‘Buffy is a dog’ the name
+  ‘confused’ (merely confused) was given to the supposition of the word
+  ‘dog’. In confused supposition, as in distributive supposition, it makes
+  no sense to ask ‘Which dog?’
+* All these kinds of supposition (simple supposition and the various form of
+  personal supposition)—are examples of ‘formal supposition’. Formal
+  supposition contrasts with material supposition, and the underlying idea
+  is that the sound of a word is its matter, while its meaning is its form.
+  (MK: is matter still the principle of individualization in this case?)
+  ‘“Dog” is a monosyllable’ would be an instance of material supposition.
+  This is, in effect, the use of a word to refer to itself, to talk about
+  its symbolic properties rather than about what it means or stands for.
+* Another property of terms is appellation. It is connected with the scope
+  of terms and sentences. Consider the sentence ‘Dinosaurs have long tails’.
+  Is this true, now that there are no dinosaurs? If we take the view that a
+  sentence is made true or false on the basis of the current contents of the
+  universe, then it seems that the sentence cannot be true; and we cannot
+  remedy this problems simply by changing the tense of the verb to ‘had’. If
+  we wish to regard the sentence as true, we shall have to regard truth as
+  something to be determined on the basis of all the contents of the
+  universe, past, present, and future. The medievals posed this problem as
+  being one about the appellation of the term ‘dinosaur’.
