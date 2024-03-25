@@ -252,3 +252,30 @@
   something to be determined on the basis of all the contents of the
   universe, past, present, and future. The medievals posed this problem as
   being one about the appellation of the term ‘dinosaur’.
+
+## Propositions and syllogisms
+
+* Thomas Aquinas: ‘If we consider what takes place in the mind by itself
+  then there is always combination where there is truth and falsehood; for
+  the mind cannot produce anything true or false unless it combines one
+  simple concept with another. But if the relation to reality is taken into
+  account, then the mind's operation is called sometimes “combination” and
+  “sometimes” division: “combination” where the mind so places one concept
+  beside another as to represent the combination or identity of the thing of
+  which they are the concepts; “division” where it so places one concept
+  beside another as to represent that the corresponding realities are
+  distinct. We talk in the same way of sentence too: an affirmative sentence
+  is called “a combination” because it signifier that there is a conjunction
+  in reality; a negative sentence is called “a division” because it
+  signifies that the realities are separate.’
+* What do propositions signify? If we take ‘signify’ as equivalent to
+  ‘express’, then it is easy to give an answer: spoken and written
+  propositions express thoughts in the mind. But there is then a further
+  question: What do mental propositions signify? Here ‘signify’ has to be
+  closer to ‘mean’ than to ‘express’. Propositions, it seems, cannot signify
+  anything in the world, because a proposition must signify the same whether
+  it is true or false; and if the proposition is false, there is nothing in
+  the world to correspond to it. The most popular answer to that question in
+  the thirteenth century was essentially that given by Abelard: it is the
+  state of affairs which, if it obtains, makes the sentence true. Abelard
+  called it dictum; others called it an enuntiabile.
