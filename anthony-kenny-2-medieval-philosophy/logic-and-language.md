@@ -279,3 +279,70 @@
   the thirteenth century was essentially that given by Abelard: it is the
   state of affairs which, if it obtains, makes the sentence true. Abelard
   called it dictum; others called it an enuntiabile.
+
+## Analogy and univocity
+
+* Aquinas maintained that the words by which we describe God and creatures
+  are not used in the same sense about each. Similarly, to adapt one of his
+  examples, we do not mean quite the same thing when we call the sun
+  ‘bright’ and when we call the color of a patch of paint ‘bright’. On the
+  other hand, if we say that God is wise and that Socrates is wise, we are
+  not making a pun or talking on metaphor. ‘This way of using words’,
+  Aquinas says, ‘lies somewhere between pure equivocation and simple
+  univocity, for the word is used neither in the same sense, as with
+  univocal usage, nor in totally different senses, as with equivocation.’
+* Scotus rejects the idea that there can be a half-way house between
+  univocity and equivocation. Certainly, if we are dealing with simple
+  concepts that have no constituent parts, there cannot be such a thing as
+  the sense of a word being *partly* the same and *partly* different. If the
+  terms we apply to God are equivocal—are used in a quite different sense
+  from the one they have when applied to creatures—then we cannot draw any
+  conclusions about God from the properties of creatures. Any attempt to use
+  an analogical predicate as the middle term of a syllogism would be quilty
+  of the fallacy of equivocation.
+* A concept is univocal, Scotus tells us, when
+
+  it possesses sufficient unity in itself so that to affirm and deny it of
+  one and the same thing would be a contradiction. It also has sufficient
+  unity to server as the middle term of a syllogism, so that whenever two
+  extremes are united by a middle term that is one in this way, we may
+  conclude to the union of the two extremes among themselves.
+* To show that there can be a universal concept of being that applies both
+  to God and to creatures, Scouts argues as follows. If you can be certain
+  that S is P while doubting whether S is Q, then P and Q must be different
+  concepts (MK: this does not seem completely obvious to me). But you can be
+  certain that God is a being, while doubting whether he is an infinite or a
+  finite being. Hence the concept of being differs from that of infinite
+  being or a finite being. Hence the concept of being is univocal, applying
+  to both finite and infinite in the same sense. Concepts like ‘being’,
+  ‘good’, ‘one’, and the like are thus, for Scotus, transcendental not just
+  in transcending the boundaries of the categories, but also in transcending
+  the gap between finite and infinite.
+* Scotus does not deny that there are concepts that apply analogously to God
+  and creatures. His claim is that these are built upon, and could not exist
+  without, more basic concepts that are univocal.
+* Perhaps the disagreement between Aquinas, and Scotus is not as sharp as it
+  at first appears, because the notions the same sense and the same concept
+  are themselves not sharp. Two words have different senses, we might
+  suggest, if a dictionary would give two separate definitions of them. But
+  when Aquinas says that ‘good’ is an analogous term, he need not be
+  suggesting that every different application of ‘good’ creates a new
+  lexical item. Different creatures have different good-making properties,
+  but that does not mean that the meaning of ‘good’ in ‘good horse’ is
+  different from the meaning of ‘good’ in ‘good time’. Indeed, someone who
+  did not realize that ‘good’ was, in Aquinas' terms, analogous, would not
+  understand its meaning in the language at all. Scotus is right, on the
+  other hand, that when we learn to apply ‘good’ to a new object, we do not
+  learn a new vocabulary lesson.
+* Whether ‘being’ is analogous or univocal is a murky question not because
+  of difficulties about analogy but because of the almost universal opacity
+  of the medieval notion of *being*. If we are talking about existence, as
+  expressed, say, in the sentence ‘There is a God’, then the question
+  whether being is an analogous or univocal predicate does not arise since
+  attributing existence to something is not a matter of attaching a
+  predicate to a subject. But, in Scotus at least, ‘to be’, period, seems
+  equivalent to a vast disjunction of predicates: ‘to be a horse, or a
+  color, or a day, or …’ and so on ad infinitum. So understood, ‘to be’
+  seems clearly univocal. Suppose that there were only three items in the
+  universe, A, B, and C. The predicate ‘… is either A, or B, or C’ seems to
+  attach in exactly the same sense to each of the three items.
