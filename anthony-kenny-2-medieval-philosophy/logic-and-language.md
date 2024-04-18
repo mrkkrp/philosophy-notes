@@ -382,3 +382,58 @@
   than individual men. In personal supposition, as in ‘every man is an
   animal’, the word ‘man’ stands for what it signifies, literally every men
   in existence.
+
+## Truth and inference in Ockham
+
+* A proposition is like ‘Socrates is human’ is true if and only if the
+  subject term ‘Socrates’ and the predicate term stand for the same thing.
+  This is sometimes called a two-name theory of truth: an affirmative
+  categorical proposition is true if it puts together, as subject and
+  predicate, two names of the same thing. However, for Ockham a general term
+  is not a proper name, but is equivalent to a list of proper names; and the
+  truth condition he lays down in terms of identity of supposition amounts
+  to the requirement that for an affirmative categorical to be true one and
+  the same proper name must occur in both the subject list and the predicate
+  list.
+* The simple two-name theory is easily shown to break down. If ‘Socrates is
+  a philosopher’ is true because Socrates can be called both ‘Socrates’ and
+  ‘philosopher’, it is not easy to see how to explain the truth conditions
+  of ‘Socrates isn't a dog’. In order to know that ‘dog’ is not a name of
+  Socrates, we have to know what it is a name of: and there does not seem to
+  be any answer to the question ‘Which dog is it that Socrates isn't?’ The
+  more complicated theory of Ockham does have an answer to this difficulty:
+  the list corresponding to ‘dog’ and the (one-item) list corresponding to
+  ‘Socrates’ do not have a common term. But it falls into a corresponding
+  difficulty of its own. If every general term is an abbreviation for a list
+  of proper names, then every proposition must be either necessarily true or
+  necessarily false. ‘Socrates is human’ surely is not simply a redundant
+  identity statement. But that is what it is if it means ‘Socrates is either
+  Socrates or Plato or Aristotle’.
+* Ockham distinguishes ‘simple consequences’ and ‘consequences as of now’. A
+  simple consequence holds if the antecedent can never be true without the
+  consequent being true. An as-of-now consequence holds if the antecedent
+  cannot now be true without the consequent being true, even if at some
+  other time that might be the case.
+* Ockham distinguishes between consequences whose validity is internal and
+  those whose validity is external. A consequence is valid externally if its
+  validity does not depend on the meaning of any of the terms in the premise
+  and conclusion.
+* Ockham distinguishes between material and formal consequences. It appears
+  that formal consequences are both those that are externally valid and
+  those that are internally valid. In material consequences, on the other
+  hand, the impossibility of the antecedent's being true without the
+  consequent depends not on any connection, external or internal, between
+  the content of the antecedent and the content of the consequent. It arises
+  either from the antecedent's being necessarily false, or from the
+  consequent's being necessarily true. The first of these is an instance of
+  the general rule, ‘Anything whatever follows from what is impossible’, and
+  the second is an instance of ‘What is necessary follows from anything
+  whatever’.
+* Ockham formulates a set of such rules that apply to inference of very
+  varied kinds. They include the following six:
+  1. What is false does not follow from what is true.
+  2. What is true may follow from what is false.
+  3. Whatever follows from the consequent follows from the antecedent.
+  4. Whatever entails the antecedent entails the consequent.
+  5. The contingent does not follow from the necessary.
+  6. The impossible does not follow from the possible.
