@@ -346,3 +346,39 @@
   seems clearly univocal. Suppose that there were only three items in the
   universe, A, B, and C. The predicate ‘… is either A, or B, or C’ seems to
   attach in exactly the same sense to each of the three items.
+
+## Ockham's mental language
+
+* A universal is a singular thing, and is universal only by signification,
+  being a single sign of many things. There are two kinds of universal:
+  natural and conventional. A natural universal is a thought in our mind;
+  conventional signs are universal by our voluntary decision, being words
+  coined to express these thoughts and to signify many things. The signs in
+  our mind are put together to make mental propositions in the same way as
+  spoken signs are put together to make a vocal proposition.
+* Ockham regarded these mental concepts as forming a language system.
+  Besides the spoken, conventional, languages like English and Latin, all
+  human beings share a common, natural language. It is from this universal
+  language hat regional languages derive their significance.
+* Unlike objects of our thoughts, our thoughts themselves are real
+  entities—temporary qualities of our souls, items in our psychological
+  history. When mental names occur in mental sentences, it is as elements in
+  the thinking of the sentence. Ockham does not seem to have made up his
+  mind whether they were successive stages in the thinking of the sentence,
+  or a set of simultaneous thoughts, or a single complex thought. There is
+  good reason for Ockham's hesitation here, because the analogy between
+  speech and thought breaks down when we consider temporal duration. Spoken
+  words take time to utter, and one word comes out after another. The case
+  is the same with mental images of words, as when one recites a poem to
+  oneself in imagination. But thoughts are quite different: the whole
+  content of a judgment must be present at once if a judgment is to be made
+  at all, and there can be no question of the temporal sequence of the
+  elements of a thought.
+* Ockham's nominalism mean that he has to modify the theory of supposition.
+  For Ockham, simple supposition occurs when a word stands for a mental
+  entity, as in ‘man is a species’, in which ‘man’ stands for a mental term,
+  the only kind of thing that can be a species. This is not a case of
+  standing for what it signifies, for the term ‘man’ signifies nothing other
+  than individual men. In personal supposition, as in ‘every man is an
+  animal’, the word ‘man’ stands for what it signifies, literally every men
+  in existence.
