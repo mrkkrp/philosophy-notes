@@ -437,3 +437,44 @@
   4. Whatever entails the antecedent entails the consequent.
   5. The contingent does not follow from the necessary.
   6. The impossible does not follow from the possible.
+
+## Walter Burley and John Wyclif
+
+* John Wyclif's argument for realism is simple. Anyone who believes in
+  objective truth is already committed to belief in real universals. Suppose
+  that one individual A is perceived to resemble another individual B. There
+  must be some respect C in which A resembles B. But seeing that A resembles
+  B in respect of C is the same thing as seeing the C-ness of A and B; and
+  that involves conceiving C-ness, a universal common to A and B. So anyone
+  who can make judgments of likeness automatically knows what a universal
+  is.
+* Consider, as examples of universals, the species *dog* and the genus
+  *animal*. A realist can define genus simple as what is predicated of many
+  things that are different in species. A nominalist has to entangle
+  themselves in some circumlocution such as this: ‘A genus is a term that is
+  predicable, or whose counterpart is predicable, of many terms that signify
+  things that are specifically distinct.’ They cannot say that it is
+  essential to a term to be actually predicated: perhaps there is no one
+  around to do any verbal predicating. They cannot say that any particular
+  term—any particular sound or image or mark on paper—has to be predicable;
+  most signs do not last long enough for multiple predication. That is why
+  they has to talk of counterparts, other signs that are of the same kind.
+  They cannot say that the term is predicated of terms differing in species:
+  the *word* ‘dog’ does not differ in species from the *word* ‘cat’—they are
+  both English nouns on this page. So the nominalist has to say that the
+  terms signify things that differ specifically. But of course in doing this
+  they give the game away: they are making specific difference something on
+  the side of the things signified, not something belonging purely to the
+  signs.
+* Wyclif's argument is clearly directed at a nominalist of a much more
+  radical type than Ockham. The ‘names’ of Ockham's system were not uttered
+  sounds or marks on paper: they were terms in a mental language. But
+  Wyclif's attack does hit at Ockham's weakest point: namely, the failure to
+  give any explicit account of the relation between the terms of his
+  imagined mental language and actual signs in the real world. Ockham seems
+  to have felt that he explained the features of Latin grammar by
+  postulating a mental counterpart; but the only reason for thinking Mental
+  has any explanatory force is that its operations occur in the ghostly
+  medium of the mind. Wyclif, by focusing the conversation on to flesh and
+  blood, sounds and pen and ink marks was anticipating Wittgenstein's method
+  of philosophizing by turning latent nonsense into patent nonsense.
