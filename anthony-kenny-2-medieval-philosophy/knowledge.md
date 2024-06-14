@@ -52,3 +52,18 @@
   excellence, the reasons whose vision constitutes its ultimate bliss.’
 * Divine illumination seems to be only a metaphor in Augustine, and not the
   best one.
+
+## Bonaventure on illumination
+
+* Nothing more than reflection on what is already in our minds is needed to
+  produce an explicit awareness of God's existence.
+* For Bonaventure, the inborn notion of God was a special case. He did not
+  believe, in general, that our ideas were innate; he agreed with Aristotle
+  that the mind was initially a tabula rasa, and that even the most general
+  intellectual principles were only acquired subsequent to sense-experience.
+  The notion of God was, uniquely, innate because the mind itself was an
+  image of God, a mirror in which God's features could be dimly seen.
+  Somewhere between the inborn knowledge of God and the acquired knowledge
+  of intellectual principles stands our knowledge of virtue: not an innate
+  idea nor an abstraction from the senses, but a natural capacity to tell
+  right from wrong.
