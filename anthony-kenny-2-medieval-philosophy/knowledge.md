@@ -42,3 +42,13 @@
   that God, in creating the world in accordance with Ideas, looked up to
   anything outside himself. Hence, the unique, eternal, unchanging Ideas
   have their existence in the unique, eternal, unchanging Mind of God.’
+
+## Augustine on divine illumination
+
+* Human beings acquire their own ideas not by recollection (as Plato
+  thought) nor by abstraction (as Aristotle thought) but by divine
+  illumination. ‘Illuminated by God with intelligible light, the soul sees,
+  by means not of bodily eyes but of the intellect which is its crowning
+  excellence, the reasons whose vision constitutes its ultimate bliss.’
+* Divine illumination seems to be only a metaphor in Augustine, and not the
+  best one.
