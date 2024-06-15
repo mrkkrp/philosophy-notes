@@ -67,3 +67,29 @@
   of intellectual principles stands our knowledge of virtue: not an innate
   idea nor an abstraction from the senses, but a natural capacity to tell
   right from wrong.
+
+## Aquinas on concept-formation
+
+* There is no doubt that Aquinas is not an empiricist: that is to say, he
+  denies that sensory experience is sufficient by itself for intellectual
+  thought. In addition to sense-experience, there is needed the action of
+  the agent intellect. But if Aquinas is not an empiricist, he is not an
+  illuminist either. The agent intellect by itself is insufficient for the
+  acquisition of intellectual knowledge. ‘Beside the intellectual light
+  within us, there is a need for thinkable species taken from outward
+  things, if we are to have knowledge of material things.’ The human
+  intellect, in this life, is a faculty for the understanding of material
+  objects. Without the senses no object would be given to us; without the
+  agent intellect no object would be thinkable. Thoughts without phantasms
+  (MK: what are phantasms?) are empty; phantasms without species are
+  darkness to the mind.
+* The agent intellect is essentially a concept-forming capacity, which
+  operates upon phantasms. In turns the potentially thinkable data of
+  sense-experience into the actually thinkable species. The formation of
+  concepts involves the application of principles such as that of
+  non-contradiction: possession of the concept X involves the ability to
+  distinguish what is X from what is not X. In that sense the agent
+  intellect can be said to be aware of such principles: but of course, by
+  itself without any sensory input, such an awareness contributes nothing to
+  the knowledge of the essence of material objects which is the intellect's
+  proper task in our present life.
