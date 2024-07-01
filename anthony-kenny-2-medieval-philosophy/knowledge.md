@@ -93,3 +93,52 @@
   itself without any sensory input, such an awareness contributes nothing to
   the knowledge of the essence of material objects which is the intellect's
   proper task in our present life.
+
+## Aquinas on faith, knowledge, and science
+
+* A distinction between truths knowable by natural light, and those
+  accessible only by the supernatural light of faith, is one of St. Thomas'
+  principal contributions to medieval epistemology. Natural reason is
+  capable of reaching a limited number of truths about God. Doctrines such
+  as the Trinity and Incarnation are known only be revelation and unprovable
+  by unaided reason. Faith, in the theological sense, is belief in something
+  on the word of God. Faith is different from the kind of belief in the
+  existence of God which a successful philosophical proof would produce. The
+  faithful believer takes God's word for many things, but one cannot take
+  God's word for it that he exists. Belief in God, in this sense, is not
+  part of faith, but is presupposed by it. Thomas calls it a ‘preamble’ of
+  faith.
+* Truths about God that are reached by natural reason are the province of
+  natural theology; the mysteries of faith are the subject of revealed
+  theology. ‘Unaided reason’ may mean that in arguing its conclusions,
+  natural theology rests only on premises derived from experience or
+  reflection, and that it has no need to call in aid any premises derived
+  from sacred texts or special revelation. In another sense it may mean that
+  the natural theologian reaches his conclusions without the aid of divine
+  grace. When we talk about ‘unaided reason’ in the first sense, we are
+  talking about the premises from which reason reaches its conclusion, and
+  we are talking about logical relationships. On the other hand, when we
+  contrast unaided reason with the aid of grace, we have moved from the
+  realm of reasons to that of causes: we are talking about the casual, not
+  the logical, antecedents of the reasoning process.
+* Even those truths that are in principle open to reason must in practice be
+  accepted by many people on authority. Establishing them by philosophical
+  argument demands more intelligence, leisure, and energy than can be
+  expected from the majority of humankind. Thus, there is the distinction
+  between the belief of the learned and the beliefs of the simple. The
+  simple believer only *beliefs* that there is a God. This belief is not
+  faith—it is a belief of human, not divine, authority.
+* Aquinas' account of knowledge is heavily influenced by the ideal of a
+  deductive science that Aristotle set out in his *Posterior Analytics*.
+* With regard to science, we are not meant to understand that the scientist
+  starts with self-evident principles and proceeds to conclusions about the
+  world by rolling out *a priori* deductions. The procedure goes in the
+  opposite direction: the scientist starts with a phenomenon—an eclipse of
+  the moon, say—and looks for the cause of it. Finding the cause is the same
+  thing as finding the middle term in a syllogism which will have as its
+  conclusion the occurrence of the eclipse. The task of science is only
+  completed when this syllogism, in turn, is traced back, through other
+  syllogisms, to arrive at first principles. But the first principle thus
+  arrived at forms the conclusion, not the starting point, of the scientific
+  inquiry. The chain of deduction is not the vehicle, but the output, of the
+  venture.
