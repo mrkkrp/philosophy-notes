@@ -36,11 +36,11 @@
   it is the only thing that is truly good. Wisdom is the science of what is
   good and what is bad, and it is identical with virtue—with all the
   virtues.
-* For example, actions that exhibit courage are of course different action
+* For example, actions that exhibit courage are of course different actions
   from those that exhibit temperance; but what they express is a single,
   indivisible state of soul. If we say that courage is the science of what
   is good and bad in respect of future dangers, we have to agree that such a
-  science is only possible as port of an overall science of good and evil.
+  science is only possible as part of an overall science of good and evil.
   The individual virtues are parts of this science, but it can only be
   possessed as a whole. No one, not even Socrates, is in possession of this
   science.
@@ -96,7 +96,7 @@
   moral virtue will avoid excess and defect. However, Aristotle warns us
   that what constitutes the right amount to drink, the right amount to give
   away, the right amount of talking to do, may differ from person to person,
-  in the way that the amount of good fit for an Olympic champion may not
+  in the way that the amount of food fit for an Olympic champion may not
   suit a novice athlete.
 * Virtue is concerned not only with action but with passion. We may have too
   many fears or too few fears, and courage will enable us to fear when fear
@@ -143,7 +143,7 @@
   is something more primitive than the desire for pleasure, since it occurs
   in plants as well as animals, and even in humans is often exercised
   without consciousness.
-* Zeno: the end of life is ‘to live in agreement with Nature.’
+* Zeno: the end goal of life is ‘to live in agreement with Nature.’
 * Each of us, according to Hierocles, stands at the center of a series of
   concentric circles. The first circle surrounding my individual mind
   contains my body and its needs .The second contains my immediate family,

@@ -103,4 +103,4 @@
   So the only way of being different which is left for Soul is to pass from
   eternal life to a life in which, instead of all things being present at
   once, one things comes after another, and there is a succession, a
-  continuous series, of thoughts and actions.q
+  continuous series, of thoughts and actions.

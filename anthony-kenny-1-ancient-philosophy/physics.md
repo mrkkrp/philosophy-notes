@@ -175,7 +175,8 @@
   subjected to up to the moment of the action. Even if someone decided to do
   nothing because they wanted to prove that the lazy argument is true, they
   would be caused to do so by exposition to the idea of determinism and the
-  lazy argument itself, plus their own character.
+  lazy argument itself, plus their own character. This in no way disproves
+  determinism.
 
 ## Determinism and freedom
 

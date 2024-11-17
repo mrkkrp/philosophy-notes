@@ -227,7 +227,7 @@ the Stoics.
 ## Stoic logic
 
 For Diodorus Cronos a proposition is possible iff it either is or will be
-true, is impossible iff it is false and will never be tru, and is necessary
+true, is impossible iff it is false and will never be true, and is necessary
 if it is true and will never be false. ‘The Persian Empire has been
 destroyed’ was untrue but possible when Socrates was alive; after
 Alexander's victories it was true and necessary. For Diodorus, as for

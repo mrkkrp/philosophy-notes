@@ -65,7 +65,7 @@
 * Augustine offers to prove that wanting is in our power. On one
   interpretation his proof goes like this. Doing X is in our power if we do
   X whenever we want. But whenever we want, we want. Therefore wanting is in
-  our power. This sees too easy: surely the first premise is incomplete. It
+  our power. This seems too easy: surely the first premise is incomplete. It
   should read: Doing X is in our power if we do X whenever we want to do X.
   The second premise would then have to read: whenever we want to want to do
   X we want to do X. This would give us Augustine's conclusion: whatever X
@@ -95,6 +95,4 @@
   ‘necessity’ in the argument above. In (2) and the antecedent of (3)
   necessarily must be taken as ‘certainly’. In (4) and the consequent of (3)
   ‘necessarily’ must be taken as ‘under compulsion’. Because of the
-  resulting equivocation in (3), the argument fails. MK: but ‘under
-  compulsion’ is not compatible with voluntariness, so even in that case
-  Adam would not have sinned out of his own free will?!
+  resulting equivocation in (3), the argument fails.

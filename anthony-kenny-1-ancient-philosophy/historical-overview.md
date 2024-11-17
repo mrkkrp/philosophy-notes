@@ -164,10 +164,10 @@
   in common and all sexual intercourse is to be public.
 * There are 5 possible types of political constitution. The first and best
   constitution is monarchy or aristocracy: if wisdom rules it does not
-  matter whether is it incarnate in one or many rules. There are 4 inferior
+  matter whether is it incarnate in one or many rulers. There are 4 inferior
   types of constitution: timocracy, oligarchy, democracy, and despotism.
   Each of these constitutions declines into the next because of the
-  downgrading of one of the virtues of the ideal state. If the rules cease
+  downgrading of one of the virtues of the ideal state. If the rulers cease
   to be persons of wisdom, aristocracy gives place to timocracy, which is
   essentially rule by a milliary junta. Oligarchy differs from timocracy
   because oligarchic rules lack fortitude and military virtues. Oligarchs do
