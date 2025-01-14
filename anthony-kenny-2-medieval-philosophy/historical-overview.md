@@ -74,7 +74,7 @@
   do not seek to understand that I may believe; but I believe that I may
   understand. For I believe this too, that unless I believe, I shall not
   understand.’
-* *On truth* analysis different applications of the word ‘true’—to
+* *On truth* analyses different applications of the word ‘true’—to
   sentences, to thoughts, to sense-perceptions, to actions, and to things.
   It concludes that there is only a single truth in all things, which is
   identical with justice.
@@ -87,7 +87,7 @@
 * In *Why did God become man* Anselm finds an original justification for the
   Christian doctrine of the Incarnation. Justice demands, he says, that
   where there is an offense, there must be satisfaction: the offender must
-  offer a recompense that si equal and opposite to the offense. In feudal
+  offer a recompense that is equal and opposite to the offense. In feudal
   style, he argues that the magnitude of an offense is judged by the
   important of the person offended, while the magnitude of a recompense is
   judged by the importance of the person making it. Human sin is infinite
@@ -114,8 +114,8 @@
 
 ## Ibn Rushd (Averroes) (1126–1198)
 
-* Throughout his life Averroeshad to defend philosophy against attacks from
-  conservative Muslims. In response to al-Ghazali's *Incoherence of the
+* Throughout his life Averroeshad had to defend philosophy against attacks
+  from conservative Muslims. In response to al-Ghazali's *Incoherence of the
   philosophers* he wrote a book called *Incoherence of the incoherence*,
   defending the right of human reason to investigate matters of theology. He
   also wrote a treatise, *The harmony of philosophy and religion*. Is the
@@ -229,7 +229,7 @@
 
 ## John Duns Scotus (1266–1308)
 
-* Scotus broken with the Aristotelian tradition by maintaining that the
+* Scotus broke with the Aristotelian tradition by maintaining that the
   concepts of being and of other universally applicable predicates such as
   ‘good’ were not analogous but univocal, and could be used about God in
   exactly the same sense as about creatures. Scotus brings the infinite

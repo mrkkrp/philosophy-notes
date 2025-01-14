@@ -127,7 +127,7 @@
   expected from the majority of humankind. Thus, there is the distinction
   between the belief of the learned and the beliefs of the simple. The
   simple believer only *beliefs* that there is a God. This belief is not
-  faith—it is a belief of human, not divine, authority.
+  faith—it is a belief on human, not divine, authority.
 * Aquinas' account of knowledge is heavily influenced by the ideal of a
   deductive science that Aristotle set out in his *Posterior Analytics*.
 * With regard to science, we are not meant to understand that the scientist

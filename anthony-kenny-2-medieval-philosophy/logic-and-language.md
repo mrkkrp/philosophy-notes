@@ -18,13 +18,13 @@
   humans. This, Boethius says, was Aristotle's view; but for purposes of
   formal logic it is not necessary to rule out the Platonic thesis of
   universals existing in separation.
-* Boethius wrote on syllogistic reasoning, one on categorical syllogisms and
-  one on hypothetical syllogisms. A hypothetical syllogism must contain at
-  least one hypothetical premise, that is to say, a proposition constructed
-  from categorical propositions by means of the connectives ‘if’, ‘or’, or
-  ‘since’. Some hypothetical syllogisms contain categorical premises as well
-  as hypothetical ones: one example is the *modus ponens* already familiar
-  in Stoic logic:
+* Boethius wrote textbooks on syllogistic reasoning, one on categorical
+  syllogisms and one on hypothetical syllogisms. A hypothetical syllogism
+  must contain at least one hypothetical premise, that is to say, a
+  proposition constructed from categorical propositions by means of the
+  connectives ‘if’, ‘or’, or ‘since’. Some hypothetical syllogisms contain
+  categorical premises as well as hypothetical ones: one example is the
+  *modus ponens* already familiar in Stoic logic:
 
   > If it is day, the sun is shining; but it is day; therefore the sun is
   > shining.
@@ -122,7 +122,7 @@
   individual things in the world. There are different ways in which words
   mean things. Abelard makes a distinction between what a word signifies and
   what it stands for. The word ‘boy’, wherever it occurs in a sentence, has
-  the same signification: you human male. When the word stands in subject
+  the same signification: young human male. When the word stands in subject
   place in a sentence, as in ‘A boy is running up the road’, it also
   standards for a boy. But in ‘This old man was once a boy’, where it occurs
   as part of the predicate, it does not stand for anything. Roughly
@@ -146,7 +146,7 @@
   subject and predicate may be put together without any assertion or
   statement being made.
 * Abelard does not restrict inferences to syllogisms: he is interested in a
-  mor general notion of logical consequence. He does not use the Latin word
+  more general notion of logical consequence. He does not use the Latin word
   ‘consequentia’ for this: in common with other authors he uses that word to
   mean ‘conditional proposition’— a sentence of the form ‘If p then q’. The
   word he uses is ‘consecutio’, which we can translate as ‘entailment’. The
@@ -287,7 +287,7 @@
   examples, we do not mean quite the same thing when we call the sun
   ‘bright’ and when we call the color of a patch of paint ‘bright’. On the
   other hand, if we say that God is wise and that Socrates is wise, we are
-  not making a pun or talking on metaphor. ‘This way of using words’,
+  not making a pun or talking in metaphor. ‘This way of using words’,
   Aquinas says, ‘lies somewhere between pure equivocation and simple
   univocity, for the word is used neither in the same sense, as with
   univocal usage, nor in totally different senses, as with equivocation.’
@@ -298,15 +298,15 @@
   terms we apply to God are equivocal—are used in a quite different sense
   from the one they have when applied to creatures—then we cannot draw any
   conclusions about God from the properties of creatures. Any attempt to use
-  an analogical predicate as the middle term of a syllogism would be quilty
+  an analogical predicate as the middle term of a syllogism would be guilty
   of the fallacy of equivocation.
 * A concept is univocal, Scotus tells us, when
 
-  it possesses sufficient unity in itself so that to affirm and deny it of
-  one and the same thing would be a contradiction. It also has sufficient
-  unity to server as the middle term of a syllogism, so that whenever two
-  extremes are united by a middle term that is one in this way, we may
-  conclude to the union of the two extremes among themselves.
+  > it possesses sufficient unity in itself so that to affirm and deny it of
+  > one and the same thing would be a contradiction. It also has sufficient
+  > unity to serve as the middle term of a syllogism, so that whenever two
+  > extremes are united by a middle term that is one in this way, we may
+  > conclude to the union of the two extremes among themselves.
 * To show that there can be a universal concept of being that applies both
   to God and to creatures, Scouts argues as follows. If you can be certain
   that S is P while doubting whether S is Q, then P and Q must be different
@@ -359,7 +359,7 @@
 * Ockham regarded these mental concepts as forming a language system.
   Besides the spoken, conventional, languages like English and Latin, all
   human beings share a common, natural language. It is from this universal
-  language hat regional languages derive their significance.
+  language that regional languages derive their significance.
 * Unlike objects of our thoughts, our thoughts themselves are real
   entities—temporary qualities of our souls, items in our psychological
   history. When mental names occur in mental sentences, it is as elements in
@@ -385,15 +385,15 @@
 
 ## Truth and inference in Ockham
 
-* A proposition is like ‘Socrates is human’ is true if and only if the
-  subject term ‘Socrates’ and the predicate term stand for the same thing.
-  This is sometimes called a two-name theory of truth: an affirmative
-  categorical proposition is true if it puts together, as subject and
-  predicate, two names of the same thing. However, for Ockham a general term
-  is not a proper name, but is equivalent to a list of proper names; and the
-  truth condition he lays down in terms of identity of supposition amounts
-  to the requirement that for an affirmative categorical to be true one and
-  the same proper name must occur in both the subject list and the predicate
+* A proposition like ‘Socrates is human’ is true if and only if the subject
+  term ‘Socrates’ and the predicate term stand for the same thing. This is
+  sometimes called a two-name theory of truth: an affirmative categorical
+  proposition is true if it puts together, as subject and predicate, two
+  names of the same thing. However, for Ockham a general term is not a
+  proper name, but is equivalent to a list of proper names; and the truth
+  condition he lays down in terms of identity of supposition amounts to the
+  requirement that for an affirmative categorical to be true one and the
+  same proper name must occur in both the subject list and the predicate
   list.
 * The simple two-name theory is easily shown to break down. If ‘Socrates is
   a philosopher’ is true because Socrates can be called both ‘Socrates’ and
@@ -449,8 +449,8 @@
   who can make judgments of likeness automatically knows what a universal
   is.
 * Consider, as examples of universals, the species *dog* and the genus
-  *animal*. A realist can define genus simple as what is predicated of many
-  things that are different in species. A nominalist has to entangle
+  *animal*. A realist can define genus as simple as what is predicated of
+  many things that are different in species. A nominalist has to entangle
   themselves in some circumlocution such as this: ‘A genus is a term that is
   predicable, or whose counterpart is predicable, of many terms that signify
   things that are specifically distinct.’ They cannot say that it is
