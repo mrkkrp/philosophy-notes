@@ -142,3 +142,46 @@
   arrived at forms the conclusion, not the starting point, of the scientific
   inquiry. The chain of deduction is not the vehicle, but the output, of the
   venture.
+
+## The epistemology of Duns Scotus
+
+* Whereas Aquinas thought that the proper object of intellect, in this life,
+  was the nature of material objects, Scotus believed the intellect was
+  powerful enough to include the full scale of being. While Aquinas believed
+  that material individuals were the subject of sensory rather than
+  intellectual knowledge, Scotus was willing to attribute to the intellect a
+  direct knowledge of individuals in themselves. But while Scotus thus
+  extended the scope of the intellect, he diminished the degree of certainty
+  it could attain.
+* A particular individual is capable of being grasped by the human
+  intellect. If it were not, we would never be able to attain knowledge of
+  universals by induction. However, our knowledge of individuals is obscure
+  and incomplete. If two individuals did not differ at all in their sensory
+  properties, the intellect would not be able to tell one from the other,
+  even though they would have two different haecceities and thus be two
+  different individuals. This obscurity in our knowledge of individuals must
+  carry with it also a clouding of our knowledge of universals; for ‘it is
+  impossible to abstract universals from the singular without previous
+  knowledge of the singular; for in this case the intellect would abstract
+  without knowing from what it was abstracting.’ MK: this does not seem
+  right. If haecceities are simply a new principle of individualization,
+  then how could they meaningfully contribute to derivation of universals?
+* Scotus made a distinction between intuitive and abstract cognition. ‘One
+  intellection can be in the intellect inasmuch as it abstracts from all
+  existence; the other intellection can be of a thing in so far as it is
+  present in its existence.’
+* Scotus makes a further distinction between perfect and imperfect intuitive
+  knowledge: perfect knowledge is of an existing object as present,
+  imperfect intuitive knowledge is of an existing object as future or past.
+* Abstractive knowledge is knowledge of the essence of an object which
+  leaves in suspense the question whether the object exists or not.
+  Abstractive knowledge is not just knowledge of abstract truths. The notion
+  is a difficult one: there cannot, surely, be knowledge that p if p is not
+  the case. Perhaps we can get round this by insisting that ‘knowledge’ is
+  not the right translation of ‘cognitio’. We are, however, left with a
+  state of mind, the *cognitio* that p, which (a) shares the psychological
+  status of the knowledge that p and (b) is compatible with p's not being
+  the case. Moreover, the question arises how we can tell whether, in any
+  particular case, our state of mind is one of intuitive or abstractive
+  cognition. Are the two distinguishable by some infallible inner mark? If
+  so, what is it? If not, how can we ever be sure we really know something?
