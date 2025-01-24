@@ -104,3 +104,67 @@
   no actualization without individuation—there were no actual universals in
   existence. It was a pity that he did not accept the converse principle
   that there can be no individuation without actualization.
+
+## Aquinas on actuality and potentiality
+
+* The main innovation of Aquinas with respect to metaphysics is his notion
+  of *disposition* (*habitus*). It is best approached via the notions of
+  *capacity* and *action*. Human beings have many capacities that animals
+  lack: the capacity to learn languages, for instance, and the capacity for
+  generosity. These capacities are realized in action when particular human
+  beings speak particular languages or perform generous actions. But between
+  capacity and action there is an intermediate state possible. When we say
+  that a man can speak French, we mean neither that he is actually speaking
+  French, nor that his speaking French is a mere logical possibility. When
+  we call a man generous, we mean more than that he has a capacity for
+  generosity in common with the rest of the human race; but we need not mean
+  that he is currently doing something generous. Status such as knowing
+  French and being generous are dispositions. A disposition is half-way
+  between a capacity and an action, between pure potentiality and full
+  actuality.
+* Not every activity is an exercise of a disposition. God's thought and the
+  motion of planets are activities that spring from no dispositions. Natural
+  agents need no dispositions in order to perform their natural activities.
+  Where capacity and activity are identical as in God, or where capacity can
+  be realized only in a single activity, as with the planets and natural
+  agents (MK: surely planets do more than a single activity? They move, but
+  also they retain their shapes, etc.), there is no room for a third term
+  between capacity and activity.
+* Dispositions are qualities: they fall into one of the nine Aristotelian
+  categories of *accident*. Accidents inhere in substances, and that goes
+  also for dispositions. All attributes are attributes of substances, and
+  all a person's dispositions are dispositions of a human being. What
+  believes, or is generous, or is healthy is, strictly speaking, a man and
+  not his mind or his heart or his body. Still, it is not senseless to ask,
+  say, whether skill in writing history is principally a gift of memory or
+  of imagination. To ask whether something is a disposition of mind or of
+  body is to ask whether it belongs to human being *qua* intelligent being
+  or *qua* animal of a particular constitution.
+* No human activity issues from a purely bodily disposition. Bodily
+  activities are either subject to voluntary control or they are not. If
+  they are not, then they are natural activities and as such need no
+  disposition to account for them. If they are, then the dispositions that
+  account for them must be located primarily in the soul. Thus, for Aquinas,
+  the ability to run a marathon is a disposition of the soul no less than
+  the ability to read Hebrew.
+* The most important way in which Aquinas, for better or worse, amplifier
+  the Aristotelian system of potentiality and actuality is by applying it to
+  the pair of concepts *essence* and *existence*, which he took over from
+  Avicenna.
+* It is not easy to work out what, for Aquinas, is the relation between
+  individual essences and individual existence. Is there a real distinction
+  between Peter's existence and Peter's essence—or between either of these
+  and Peter himself? While it is true that any creature's existence persists
+  for exactly the same length of time as its essence, there is this
+  difference, that its existence at one time does not have consequences for
+  its existence at a later time in the way that its essence at one time may
+  have consequences for its existence at a later time. (MK: is that true? In
+  the simplest case, if something ceases to exist at a moment M1 it will
+  surely have consequences for its existence at a later moment M2.
+  Furthermore, are essences mutable in time?) A human being tends to go on
+  living for a certain time; a radioactive elements tends to go out of
+  existence at a certain rate. These tendencies are part of the relevant
+  essences: it is because of the kind of thing they are that these creatures
+  tend to continue or to cease to exist. Essence, therefore, would be
+  distinct from existence, as a cause—a formal cause, in this case—is
+  distinct from its effect.
