@@ -168,3 +168,106 @@
   tend to continue or to cease to exist. Essence, therefore, would be
   distinct from existence, as a cause—a formal cause, in this case—is
   distinct from its effect.
+
+## The metaphysics of Duns Scotus
+
+* In Scotus as in Aquinas it is a principal concern of metaphysics to
+  establish the existence and attributes of God, so that natural theology is
+  a branch of the discipline. But for Scotus the scope of natural theology,
+  and therefore of metaphysics, is both broader and narrower than it is for
+  Aquinas. It is broader, because Scotus believed that the terms that
+  signify the fundamental properties of being *qua* being—such as ‘good’,
+  ‘true’, ‘one’, and so on—applied not just analogously, but univocally to
+  God as well as to creatures. But it is narrower, because many truths about
+  God that Aquinas had treated as accessible to natural reason are regarded
+  by Scotus as graspable only by faith.
+* Scotus drew up a list of pairs of terms of which one or other must apply
+  to whatever there is: every being must be either actual or potential,
+  finite or infinite, necessary or contingent. ‘Necessary’ is not a term
+  that applies to every being: but the disjunction ‘necessary or contingent’
+  does apply, right across the board.
+* It is contingent that I am sitting down, because it is possible for me to
+  stand up—a possibility that I can exemplify by standing up at the very
+  next moment. Scotus, like other scholastics, accepted such a possibility:
+  but he went further and claimed that at the very moment when I am sitting
+  down there exists a possibility of my standing up at that same moment.
+  This involves a new, more radical, form of contingency, which has been
+  aptly named ‘synchronic contingency’.
+* Scotus makes a distinction between ‘moments of time’ and ‘moments of
+  nature’. At a single moment of time there can be more than one moment of
+  nature. Moments of nature are synchronic possibilities.
+* Synchronic possibilities are note merely logical but also nomological
+  possibilities. They need not be compatible with each other, they are
+  possible, a modern philosopher might say, in different possible worlds,
+  not in the same possible world.
+* For Scotus, unlike Aristotle or Aquinas, but like Avicenna, non-existent
+  items can possess a potentiality to exist: a potentiality that Scotus
+  calls *objective* potentiality, to contrast it with the Aristotelian
+  potentiality, which he calls subjective potentiality.
+* > There are two ways in which something can be called a being in
+  > potentiality. In one way it is the terminus of a power, that to which the
+  > power is directed—and this is called being in potentiality objectively.
+  > Thus Antichrist is now said to be in potentiality, and other things can be
+  > said to be in potentiality such a whiteness that is to be brought into
+  > existence. In the other way something is said to be in potentiality as the
+  > subject of the power, or that in which the power inheres. In that way
+  > something is said to be in potentiality subjectively, because it is in
+  > potentiality to something but is not yet perfected by it (like a surface
+  > that is to be whitened).
+* Non-existent items are individuated by their objective potentiality:
+  non-existent A differs from non-existent B because if and when they do
+  exist A and B differ from each other.
+* Scotus rejects both the notion of matter lacking properties and the thesis
+  that matter is the principle of individuation. Matter, according to him,
+  has properties such as quantity, and further, prior to such properties, it
+  has an essence of its own, even if it is virtually impossible for human
+  beings to know what this essence is. Matter, indeed, can exist without any
+  form at all. Matter and form are really distinct, and it is well within
+  the power of God to create and conserve both immaterial form and formless
+  matter, each of them individuated in their own right.
+* Actual material substances are composed of both matter and form: here
+  Scotus agrees with Aristotle and Aquinas. Scotus gives a novel account,
+  however, of the way in which the individual substance and its matter and
+  form are themselves individuated.
+* What individuates Socrates is neither his matter nor his form but a third
+  thing, which is sometimes called his haecceitas, or *thisness*. In each
+  thing, there is an *entitas individualis*. ‘This entity is neither matter
+  nor form nor the composite thing, in so far as any of these is a nature;
+  but it is the ultimate reality of the being which is matter or form or a
+  composite thing.’
+* How do all these items—matter, forms, haecceity—fit together in the
+  concrete material substance? Scotus seems to have no good answer, he
+  simply adds the relationship between them as yet another part, but then
+  even that part is distinct from all others. How are these different
+  entities—the whole and its several parts—distinguished from each other?
+  Scotus maintains that there is a real distinction between the substance
+  and its matter and form and the relationship between them. By saying that
+  these items are really distinct he means that it is at least logically
+  possible for any of them to exist without any of the others. He adds that
+  if we say that the essence or quiddity of a substance equals its matter
+  plus its form, we must say that the essence, no less than the substance
+  itself, is really distinct from its components.
+* What is the relation between the essence and the haecceity—are these, too,
+  really distinct from each other? In an individual such as Socrates we
+  have, according to Scotus, both a common human nature and an individuating
+  principle. The human nature is a real thing that is common to both
+  Socrates and Plato; if it were not real, Socrates would not be like Plato.
+  Equally, the individuating principle must be a real thing, otherwise
+  Socrates and Plato would be identical. The nature and the individuating
+  principle must be united to each other, and neither can exist in reality
+  apart from each other. Yet we cannot identify the nature with the
+  haecceitas: if the nature of donkey were identical with the thisness of
+  the donkey Brownie, then every donkey would be Brownie.
+* To solve this enigma Scotus introduces a new complication. Any created
+  essence, he says, has two features: replicability and individuality. The
+  individuality seems to include an individuating haecceity. However, the
+  distinction between the essence and the haecceity is not a real
+  distinction (MK: suddenly!), but it is not a mere fiction or creation of
+  the mind. It is, Scotus says, a special kind of formal distinction. None
+  of this was ever clear to anyone who attempted to study Duns Scotus. One
+  of the problems about understanding exactly how Scotus meant his
+  distinction to be understood is that the illustrations he gives of its
+  meaning, and the contexts in which he applies it, are all themselves drawn
+  from areas of great obscurity: the relationships between the different
+  divine attributes, and the distinction between the vegetative, sensitive,
+  and rational souls in human beings.
