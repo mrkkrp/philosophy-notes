@@ -322,3 +322,21 @@
   Eucharist—demand the existence of such relations. This naturally led to
   the suspicion that he was a proponent of a double truth: that something
   could be true in theology that was false in philosophy.
+
+## Wyclif and determinism
+
+* One of the propositions attributed to John Wyclif and condemned at the
+  Council of Constance was ‘All things happen by absolute necessity’.
+* > Just as no one can prevent the world's having been, so no one can
+  > prevent any effect coming to be at the appropriate time. For the
+  > following argument is valid: God ordains A; therefore A will necessarily
+  > come to pass at the appropriate time. The antecedent is outside any
+  > created power and is accordingly altogether unpreventable. Therefore, so
+  > is everything which formally follows from it.
+* Wyclif's solution to this is to propose that the relationship between the
+  divine volition and events in the world is a two-way one: if God's
+  volition causes things to happen here below, so, in a sense, events here
+  below cause God's volition. The objection that if God's ordaining is
+  outside our power, then all that follows from his ordaining is outside our
+  power, is answered in a dramatic fashion. Wyclif simply denies the
+  antecedent: God's ordaining is not outside our power.
