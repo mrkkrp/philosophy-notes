@@ -271,3 +271,54 @@
   from areas of great obscurity: the relationships between the different
   divine attributes, and the distinction between the vegetative, sensitive,
   and rational souls in human beings.
+
+## Ockham's reductive programme
+
+* William Ockham was one of the first to reject Scotus' formal distinction
+  on the side of reality. ‘Entities are not to be multiplied beyond
+  necessity.’ This is the famous Ockham's razor designed to shave off
+  philosophers' superfluous woolliness. The remark is not, in fact, to be
+  found in his surviving writings. He did say similar things such as ‘it is
+  futile to do with many what can be done with few’ and ‘plurality is not to
+  be assumed without necessity’, but he was not the first person to make
+  such remarks. However, the slogan does sum up his reductionist attitude
+  towards the technical philosophical developments of his predecessors.
+* Ockham believed neither in common nature nor in the individuating
+  principle. All that exists in reality are individuals, and they just are
+  individual—they need no extra principle to individuate them. It is not
+  individuality, but universality, that needs explaining—indeed, explaining
+  away.
+* For Ockham's medieval predecessors there were individuals in every
+  category—not only individual substances like Socrates and Brownie the
+  donkey, but individual accidents of many kinds, such as Brownie's
+  whereabouts and Socrates' relationship to Plato. Ockham reduced the ten
+  Aristotelian categories to two. Only substances and qualities were real.
+  Belief in individuals of other kinds, Ockham maintained, was due to a
+  naive assumption that to every word there corresponded an entity in the
+  world. Ockham however was not denying the distinction between the
+  different categories: what he was denying was that the distinction was
+  more than a conceptual one.
+* Ockham argued against reality of relations. If a relation were a real
+  entity distinct from the terms of the relation, it would be capable of
+  existing even if the terms were not. Suppose Socrates is the father of
+  Plato, and Plato is the son of Socrates. Then there is a relation of
+  paternity between Socrates and Plato. It is absurd to say either that this
+  relation could exist without Socrates ever having begotten Plato, or that,
+  Socrates having begotten Plato, God could remove from Socrates the
+  relation of paternity.
+* ‘I do not say that relation is really the same as its foundation; but I
+  say that a relation is not the foundation but only an intention or concept
+  in the soul, signifying several absolute things.’ Relative terms signify
+  the absolute things that are the bearers of the relation, but they are
+  connotative terms that signify one term of the relation, connote the
+  other, and connote the way in which the two exist. Thus, when we say that
+  A is next to B, we are not talking about a real entity of ‘nextness’; we
+  are signifying A, connoting B, and saying that there is nothing getting in
+  the way between them.
+* This, Ockham says, is what natural reason teaches: that there are no such
+  entities as relations. But, rather ignominiously, he is prepared to accept
+  the existence of such relations in certain cases because he believes that
+  certain Christian doctrines—the Trinity, the Incarnation, the
+  Eucharist—demand the existence of such relations. This naturally led to
+  the suspicion that he was a proponent of a double truth: that something
+  could be true in theology that was false in philosophy.
