@@ -64,3 +64,52 @@
   memory. A. says that it is impossible to have any idea of a color one has
   never seen, a sound one has never heard, or a flavor one has never tasted.
   MK: agree.
+
+## Augustine: on the will
+
+* Augustine devoted much of *On the trinity* to seeking, in human beings,
+  replicas of the divine trinity of Father, Son, and Holy Spirit. He
+  identified many different triads, but the supreme image of God is in the
+  trinity of memory, intellect, and will. The memory is the ability to think
+  thought of all different kinds; the intellect is the ability to assent to
+  theoretical thoughts as true; the will is the ability to consent to
+  thoughts as plans of action.
+* Philosophical discussion of the will may start by considering it as an
+  introspective phenomenon, an item of consciousness that makes the
+  difference between voluntary and involuntary actions. Or it may start with
+  the observable behavior of agents and ask for external criteria by which
+  we distinguish between the voluntary and involuntary actions of others. In
+  the ancient world Augustine is the outstanding exponent of the
+  introspective approach; Aristotle, on the other hand, had adopted an
+  extrovert stance, which has led introvert philosophers to deny that he had
+  any concept of the will at all.
+* For Augustine as for Aristotle, all fully human choice originates in the
+  pursuit of happiness, and for both of them individual decisions are to be
+  seen as the selection of means to that end.
+* Both Aristotle and Augustine imagine the will, or practical reason, as an
+  issuer of commands, and both of them are keenly interested in the
+  possibility of disobedience to these commands, in the sinner (Augustine)
+  or in the incontinent person (Aristotle). Augustine exploits the analogy
+  much more fully. He regards every voluntary motion of the body as an
+  obedience to a command of the will; and he is fascinated by the
+  possibility of second-order volition, where the will is issuing commands
+  to itself.
+* Self-conflict in the latter case is only possible because we are
+  descendants of Adam, inheriting his sin (MK: religion always furnishes
+  easy solutions).
+* Aristotle accepted that a man may act against the dictates of the rational
+  will, but he envisaged this as happening thought the stress of animal
+  passion. But Adam fell into sin in Eden, at a time when he had no
+  disordered passions; again, Lucifer and his angels fell into sin, though
+  they had no animal bodies. Augustine is led to postulate uncaused acts of
+  evil will. However one tries to trace back the cause of an evil action,
+  sooner or later one will arrive at a sheer act of evil will.
+* Suppose there are two people alike in mind and body, each hitherto
+  innocent, and each subjected to the same temptation. One gives in, the
+  other does not. What is the cause of the sinner's sin? We cannot say that
+  it is the sinner himself: *ex hypothesi* both people were equally good up
+  to this point. We have to say that it is a causeless evil choice. Thus
+  Augustine expounds what was later to be called ‘contra-casual
+  freedom’—which, paradoxically, he combines with a strong version of
+  determinism. MK: the extent of confusion religion can inflict upon even a
+  strong mind.
