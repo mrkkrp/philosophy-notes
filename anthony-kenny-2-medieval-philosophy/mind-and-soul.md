@@ -134,3 +134,54 @@
   separate, superhuman entity, or whether it should simply be regarded as a
   species-specific faculty that differentiates humans from
   non-language-using animals.
+
+## Avicenna on intellect and imagination
+
+* Let someone imagine himself as wholly created in a single moment, with his
+  sight veiled so that he cannot see any external object. Imagine also that
+  he is created falling through the air, on in a vacuum, so that he would
+  not feel any pressure from the air. Suppose too that his limbs are parted
+  from each other so that they neither meet nor touch. Let him reflect
+  whether, in such a case, he will affirm his own existence. He will not
+  hesitate to affirm that he himself exists, but in so doing he will not be
+  affirming the existence of any limb, or external or internal organ such as
+  heart or brain, or any external object. He will be affirming the existence
+  of himself without ascribing to it any length, breath, or depth. If in
+  this state he were able to imagine a hand or some other bodily part, he
+  would not imagine it being a part of himself or a condition for his own
+  existence. MK: now, can a creature of sufficient intellect and a toolbox
+  of necessary concepts be formed in such conditions?
+* Avicenna argues that since intellectual thoughts do not have parts (MK: in
+  what sense?), they must belong to something that is indivisible and
+  incorporeal. MK: a simple invention, there is no argument here.
+* For Avicenna, the agent intellect is like a radio station perpetually
+  broadcasting, on different wavelengths, all the thoughts that there are.
+  The human intellect's movement from potentiality to act is the result of
+  its being tuned in on an appropriate wavelength. To explain how a human
+  being does the tuning in, Avicenna presents an elaborate theory of
+  interior sensation.
+* In addition to the five familiar external senses, Avicenna believed that
+  we have five internal senses:
+  1. the common sense, which collects impressions from the five exterior
+     senses;
+  2. the retentive imagination, which stores the images thus collected;
+  3. the compositive imagination, which deploys these images;
+  4. the estimative power, which makes instinctive judgments, e.g. of
+     pleasure or danger;
+  5. the recollective power, which stores the intuitions of the estimative
+     power (MK: why do these intuitions need storing, couldn't they be
+     re-created automatically under suitable conditions?).
+* While the brain is an appropriate storehouse for the deliveries of outer
+  and inner sense, it cannot be regarded as the repository of intellectual
+  thoughts. When I am not actually thinking them, the thoughts I think are
+  available only outside myself, in the agent intellect; my memory of those
+  thoughts, my ability to recall them, is my ability to tune in, at will, to
+  the ever-continuing transmission of the agent intellect.
+* Avicenna's philosophical psychology is important in the history of
+  philosophy because he was the original begetter of many concepts and
+  structures that played a part in the systems of more sober philosophers.
+  Many others accepted his anatomy of the interior senses; those who
+  disagreed with him about the nature of the agent intellect agreed in their
+  description of the tasks it was needed to perform. Others, of various
+  faiths, have been happy to accept (wittingly or not) his rationalization
+  of the delights and sorrows held out by religion in the afterlife.
