@@ -113,3 +113,24 @@
   freedom’—which, paradoxically, he combines with a strong version of
   determinism. MK: the extent of confusion religion can inflict upon even a
   strong mind.
+
+## The agent intellect in Islamic thought
+
+* Why an agent intellect is needed? The Aristotelian answer would be that
+  the material objects of the world we live in are not, in themselves, fit
+  objects for intellectual understanding. The nature and characteristics of
+  the objects we see and feel are all embedded in matter: they are
+  transitory and not stable, individual and not universal. They are, in
+  Aristotelian terms, only potentially thinkable or intelligible, but not
+  actually so. To make them actually thinkable, it is required that
+  abstraction be made from the corruptible and individuating matter, and
+  concepts be created that are actually thinkable objects. That is the
+  function of the agent intellect.
+* Al-Farabi compares the action of the agent intellect upon the data of
+  sensory experience to the action of the sun on colors. Colors, which are
+  only potentially visible in the dark, are made actually visible by the
+  sunlight. The difficult point—and one that was to be debated for
+  centuries—is whether the agent intellect is to be identified with some
+  separate, superhuman entity, or whether it should simply be regarded as a
+  species-specific faculty that differentiates humans from
+  non-language-using animals.
