@@ -185,3 +185,35 @@
   description of the tasks it was needed to perform. Others, of various
   faiths, have been happy to accept (wittingly or not) his rationalization
   of the delights and sorrows held out by religion in the afterlife.
+
+## The psychology of Averroes
+
+* A. reached the conclusion that neither the agent intellect nor the
+  receptive intellect is a faculty of individual human beings. The receptive
+  intellect, no less than the agent intellect, is a single, eternal,
+  incorporeal substance.
+* How then can my thoughts be *my* thoughts if they reside in a superhuman
+  intellect? A. replies that thoughts belong to not one, but two, subjects.
+  The eternal receptive intellect is one subject: the other is my
+  imagination. Each of us possesses our own individual, corporeal,
+  imagination, and it is only because of the role played in our thinking by
+  this individual imagination that you and I can claim any thoughts as our
+  own. MK: how simple.
+* At death the soul passes into the universal intelligence like a drop of
+  water into the sea.
+* One of the first and severest critics of Averroes' philosophy of mind was
+  Albert the Great. He insisted that both the receptive intellect and the
+  agent intellect were faculties of the individual soul: there were as many
+  agent intellects as there were human beings. Otherwise the intellectual
+  soul would not be the form of the body and our thoughts would not be our
+  own. The role of the human agent intellect is to complete the abstraction
+  of a universal concept from the data of sense.
+* Albert retains a vestige of the theories of Avicenna and Averroes in that
+  he does recognize a direct divine causal influence on human intelligence.
+  If the universal concepts and beliefs that are the work of our agent
+  intellect are to be retained in the form of knowledge in our receptive
+  intellect, there is need of a special light emanating from the uncreated
+  agent intellect. Such illumination is especially necessary if we are to
+  have knowledge of immaterial objects such as angels and God: here
+  phantasms and abstraction are of no help. MK: as if one can claim
+  *knowledge* of those things.
