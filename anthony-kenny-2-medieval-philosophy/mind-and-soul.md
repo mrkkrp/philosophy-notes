@@ -217,3 +217,105 @@
   have knowledge of immaterial objects such as angels and God: here
   phantasms and abstraction are of no help. MK: as if one can claim
   *knowledge* of those things.
+
+## Aquinas on the senses and the intellect
+
+* Aquinas rejected the need for a special divine illumination to explain
+  normal human concept-formation and the pursuit of natural science. For him
+  the intellect—both the agent intellect and the receptive intellect—are
+  faculties of the individual human being, standing at the summit of the
+  hierarchy of capacities and abilities that constitute the human soul.
+* Aquinas does not identify the mind with consciousness. For him the mind
+  was essentially the faculty, or set of faculties, that set off human
+  beings from other animals. Dumb animals and human beings can all see and
+  hear and feel, but only human beings can think abstract thoughts and make
+  rational decisions. It is the possession of intellect and will that set
+  them off from animals, and it is these two faculties that essentially
+  constitute the mind, the rational soul.
+* Aquinas accepted the traditional list of five outer senses. Senses are
+  distinguished from each other not by having different organs but by having
+  different objects; they are essentially discriminatory powers. Each sense
+  has its proper object, but there are also objects common to more than one
+  sense, such as shape.
+* A sense is a capacity to undergo a special kind of change caused by an
+  external object. Normally, when the form of F is received by a material
+  object, the object becomes F. That is the standard form of change,
+  material change. To the kind of change that takes place when a color is
+  seen, Aquinas gives the name ‘intentional’ change. The form of color
+  exists intentionally in the eye, or, as he sometimes says, the intention
+  (*intentio* or *species*) of color is in the eye.
+* An *intentio* is not a representation, even though Aquinas sometimes calls
+  it likeness, or *similitudo*, of the object perceived. In Aquinas there
+  are no intermediaries between perceiver and perceived. In sensation the
+  faculty does not come into contact with a likeness of the object; it
+  becomes itself like the object by taking on its form. This is summed up in
+  the slogan taken over from Aristotle: the sense-faculty in operation is
+  identical with the sense-object in action.
+* In addition to five outer sense, Aquinas believed that there were inner
+  senses, and took over a list of them from Avicenna: the common sense, the
+  memory, the imagination, and a fourth faculty, which in animals is called
+  the *vis aestimativa* and in humans the *vis cogitativa*. The *vis
+  aestimativa* seems to correspond to the notion of ‘instinct’. Acquinas
+  does not succeed in making clear what he regards as the equivalent human
+  capacity.
+* Many philosophers besides Aquinas have classified memory and imagination
+  as inner senses. They have regarded these faculties as senses because they
+  saw their function as the production of imagery; they regarded them as
+  inner because their activity, unlike that of the outer senses, was not
+  controlled by external stimuli (MK: was it not, indirectly but
+  nevertheless?). Aquinas, indeed, thought that the inner senses, like the
+  outer ones, had organs—organs that were located in different parts of the
+  brain.
+* It seems to be a mistake to regard imagination as an inner sense.
+  * It has no organ in the sense that there is no part of the body which can
+    be voluntarily moved so that we can imagine better.
+  * It is not possible to be mistaken about what one imagines in the way
+    that one can be mistaken about what one sees.
+* For Aquinas, the intellect thinks in universals, and a grasp of universals
+  is not within the capacity of animals: a universal can neither be sensed
+  nor imagined. Nonetheless, Aquinas believed that in human beings the
+  operation of sense and imagination was essential both for the acquisition
+  and for the exercise of universal concepts. In the present life, he
+  maintained, the proper object of the human intellect was the essence or
+  quiddity, of material objects; and this, he said, the intellect understood
+  by abstraction from phantasms. By ‘phantasms’ Aquinas mean the
+  deliverances of sense and imagination, and without them Aquinas thinks
+  that intellectual thought is impossible. But he does not believe, as
+  empiricist philosophers have believed, that ideas are derived from
+  sense-experience by abstraction from, or selective attention to, features
+  of that experience. If that were so, then animals no less than humans
+  would be able to frame universal concepts (MK: which would be a scandal!),
+  whereas Aquinas believed that such conceptualization demanded a
+  species-specific human faculty, the agent intellect. On the other hand,
+  Aquinas does not believe, as rationalist philosophers have believed, that
+  there are individual ideas inborn in every human being. Thu human
+  intellect, at birth, is for him a *tabula rasa*.
+* Beside the agent intellect, which is the capacity to abstract universal
+  ideas from particular sense-experience, there is in humans a receptive
+  intellect, which is the storehouse of ideas abstracted from senses and
+  beliefs acquired from experience. At birth this storehouse is empty: the
+  receptive intellect is the initially blank page on which the agent
+  intellect writes. But phantasms are necessary not only for the acquisition
+  of concepts but also for their exercise: not only to place ideas in the
+  mental storehouse, but also to take them out again and put them to use.
+* Acquinas rejected that an object could be individuated by listing the
+  totality of its properties, that is to say, by listing the universals
+  under which it falls. However long a list we draw up, it is always
+  possible that it might apply to more than one individual. Given that the
+  intellect thinks in universals, it is therefore impossible for there to be
+  purely intellectual knowledge of individuals.
+* If I know someone well there will be many descriptions I can give of them;
+  but unless I bring in references to particular times and places there may
+  be no description that could not in theory be satisfied by someone else.
+  Only by pointing, or taking you to see them, or reminding you of an
+  occasion when you met, can I make clear to you which person I have in
+  mind; and pointing and vision and memory are outside the realm of pure
+  intellectual thought.
+* The indirect nature of intellectual thought about individuals follows from
+  two theses that Aquinas held: first, that matter is the principle of
+  individuation, and secondly, that the immediate object of all knowledge is
+  form. The senses perceive accidental forms such as color and shape; the
+  intellect grasps substantial forms, such as humanity. Both thought and
+  sensation are cases of the intentional occurrence of forms; but whereas in
+  sensation the forms are individual (the smell of *this rose*), in thought
+  the form is universal (the idea of *a rose*).
