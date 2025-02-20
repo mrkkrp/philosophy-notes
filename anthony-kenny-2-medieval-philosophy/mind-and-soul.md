@@ -319,3 +319,76 @@
   sensation are cases of the intentional occurrence of forms; but whereas in
   sensation the forms are individual (the smell of *this rose*), in thought
   the form is universal (the idea of *a rose*).
+
+## Aquinas on the will
+
+* Besides the intellect, in Aquinas' system, the other great power of the
+  mind is the will. The intellect is a cognitive power of a specifically
+  human kind; the will is an appetitive power of a specifically human kind.
+  It is the power to have wants that only the intellect can frame. The will
+  is the highest form of appetition, the topmost point on a scale whose
+  lower rungs are the teleological tendencies of inanimate bodies (e.g. the
+  tendency of fire to rise) and the conscious, but non-rational, desires of
+  animals (e.g. the desire of a dog for a bone). Humans share these
+  tendencies—*qua* heavy bodies they tend to fall if not supported; *qua*
+  animals they want food and sleep—but they also have specifically human
+  wants, paradigmatically the desire for happiness and for the means to
+  happiness. In humans, moreover, even the animal wants are subject to the
+  control of the intellectual part of the soul, the will.
+* Voluntary action is action that issues from a rational consideration of
+  the action. The minimum of rational consideration seems to be that the
+  action should issue from a consideration of it as answering to a certain
+  linguistic description—e.g. jumping out of the way when someone shuts ‘Get
+  out of my way’. But the kind of case Aquinas is more interested in is when
+  we have reasons for action: when the action can be presented as the
+  conclusion of a piece of practical reasoning. The reasons for an action
+  need not have been consciously rehearsed before action; but if an act is
+  to be fully voluntary one should, on request, be able to give
+  reasons—which might take the form of showing the goodness of the act
+  itself or of showing that it was a means to a desirable end. In calling
+  voluntary behavior ‘commanded action’ Aquinas is drawing attention to the
+  analogy between the logical relationship between command and execution and
+  the relationship of willing to acting.
+* One way practical reasoning differs from theoretical reasoning is that it
+  is, in the lawyer's jargon, *defeasible*. In theoretical deductive
+  reasoning, if a conclusion follows from a given set of premises it follows
+  also from any larger set containing those premises: the argument cannot be
+  defeated by the addition of an extra premise. But with practical reasoning
+  it is different. A pattern of reasoning that would justify a certain
+  course of action on the basis of certain wants and beliefs may well cease
+  to justify it if further wants and beliefs are brought into consideration.
+* When we look at a piece of practical reasoning—reasoning about what to
+  do—we find, where analogy with theoretical reasoning would lead us to
+  expect necessitation, merely contingent and defeasible connections between
+  one step and another. Aquinas believed that this contingency was the
+  fundamental ground of human freedom.
+* Aquinas believed that the human soul was immaterial and immortal. I omit
+  the antiquated argument he provides.
+* Prime matter receives individual forms, the intellect receives pure forms.
+  If the mind had any matter in it, the ideas it operates with would become
+  individual, not universal. This argument, if successful, shows that the
+  soul does not contain matter. But does it mean that it exist in separation
+  from matter—in separation, for instance, from the body of the person whose
+  soul it is? Aquinas believes that it does. Intellectual thought is an
+  activity in which the body has no share; but nothing can act on its own
+  unless it exists on its own; for only what is actually existent can act,
+  and the way it acts depends on the way it exists. ‘Hence we do not say
+  that heat heats, but that a hot body heats. So the human soul, which is
+  called the intellect or mind, is something non-bodily and subsistent’.
+* One problem with this argument is that elsewhere Aquinas insists that just
+  as it is strictly incorrect to say that heat heats, so it is strictly
+  incorrect to say that the soul, or the mind, thinks. Aristotle had said,
+  ‘It is better not to say that the soul pities, or learns, or thinks, but
+  that it is the human being that does these things with his soul’, and
+  Aquinas echoes this when he says, ‘It can be said that the soul thinks,
+  just as the eye sees, but it is better to say that the human being thinks
+  with the soul.’ If we take this comparison seriously, we must say that
+  just as an eye, outside a body, is not really an eye at all anymore, so a
+  soul, separated from a body, is not really a soul any more.
+* Aquinas agrees that a person's disembodied soul is not the some thing as
+  the person whole soul it is. ‘The soul, since it is part of the body of a
+  human being, is not a whole human being, and my soul is not I; so even if
+  a soul gains salvation in another life, that is not I or any human being.’
+  It is remarkable that Aquinas refuses to identify an individual with an
+  individual's soul, as many theologians before him, and many philosophers
+  after him, were willing to do.
