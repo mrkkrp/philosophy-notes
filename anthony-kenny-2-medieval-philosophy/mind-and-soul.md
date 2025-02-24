@@ -431,3 +431,48 @@
   account principally rests on the highly esoteric idea of synchronic
   contingency. At any given moment while the will is willing X, it has the
   power to not will X. For Scotus, this is the source of human freedom.
+
+## Ockham vs Scotus
+
+* Ockham rejected the non-manifest power that Scotus had introduced. It was
+  not a genuine power, he said, because it was totally incapable of
+  actualization without contradiction. The power not to sit at time t should
+  be regarded as a power existing not at t (when I am actually sitting) but
+  at time t - 1, the last moment at which it was still open to me to be
+  standing up at t.
+* It may be true, at t, that I have the power to do X, without that
+  entailing that I have the power to do-X-at-t. Of course, it may be true
+  that I can do X at t, but in order to analyze such a statement we must
+  distinguish between power and opportunity. For it to be true that I can
+  swim now it is necessary not only that I should now have the power to swim
+  (i.e. know how to swim) but also have the opportunity to swim (e.g. that
+  there should be a sufficient amount of water about). Scotus and Ockham
+  fail to make the appropriate distinction, and their temporarily qualified
+  powers are an amalgam of the two notions of power and opportunity. But an
+  opportunity is not a power of mine: it is a matter of the states and
+  powers of other things, and the compossibility of those states and powers
+  with the exercise of my power.
+* On the cognitive side of the soul, Ockham regularly writes as if he
+  recognizes the three sets of powers traditional in Aristotelian
+  philosophy: outer sense, inner sense, and intellect. However, when he
+  discusses the intellect it is not at all clear that he is talking about
+  the same faculty that Aristotle and Aquinas described. For Aquinas, the
+  intellect was distinguished from the senses because its object was
+  universal while theirs was particular; and the individual was directly
+  knowable only by the senses. But for Ockham, both particular and universal
+  can be known directly by both senses and intellect.
+* Ockham's point: whatever philosophical account you give of the acquisition
+  and employment of knowledge of the universal, exactly the same account can
+  be given of the acquisition and employment of knowledge of the individual.
+  If that is so, then it seems a violation of Ockham's razor to postulate
+  two different faculties with exactly the same function.
+* Ockham does distinguish between the senses and the intellect, but whenever
+  he describes the operation of the intellect, it seems to be a mere double
+  of either the inner or the outer sense. The very same object that we sense
+  is intuitively grasped by the intellect under exactly the same
+  description; the intellect's grasp of the object sensed is parallel to the
+  imagination's representation of the object senses. Seeing a while object,
+  imagining a white object, and thinking of a white object are, for Ockham,
+  mental operations of a similar kind. The one feature which seems to be
+  peculiar to the intellect is the act of judging that there is a white
+  object.
