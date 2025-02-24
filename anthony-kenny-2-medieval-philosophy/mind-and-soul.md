@@ -392,3 +392,42 @@
   It is remarkable that Aquinas refuses to identify an individual with an
   individual's soul, as many theologians before him, and many philosophers
   after him, were willing to do.
+
+## Scotus vs Aquinas
+
+* For Scotus there exists an individual element, or *haecceitas*, which is
+  an object of knowledge: it is not quite a form, but is sufficiently like a
+  form to be present in the intellect. Because each thing has within it a
+  formal, intelligible, principle, the ground is cut beneath the basis on
+  which Aquinas rested the need for a species-specific agent intellect in
+  human beings.
+* If proper objects of intellect include not only universals but individual
+  items like a *haecceitas*, then there is a possibility of such an object
+  being in intellect without existing in reality. This is the possibility
+  that Aquinas' intentionality theory was careful to avoid. An individual
+  form, for Scotus, may exist in the mind and yet the corresponding
+  individual not exist. Hence the individual form present in the intellect
+  can be only a representation of, and not identical with, the object whose
+  knowledge it embodies. Hence a window is opened at the level of the
+  highest intellectual knowledge, a window to permit the entry of the
+  epistemological problems that have been familiar to us since Descartes.
+* For Scotus, what is contingent must come from an undetermined cause, which
+  can only be the will itself, not an indetermination on the part of the
+  intellect.
+* Scotus' criticism of the idea that the indeterminism of the will arises
+  from an indeterminism in the intellect is based on a misunderstanding of
+  the theory that he is attacking. The intellect in dictating to the reason
+  does not say ‘this will be’ or ‘this will not be’, but rather ‘this is to
+  be’ or ‘this is not to be’, ‘this is good’ or ‘this is not good’. If what
+  is in question is a non-necessary means to a chosen goal, it is possible
+  for the intellect, without error, to dictate both that something is good
+  and that its opposite is good. Moreover, in making the will the cause of
+  its own freedom, Scotus' theory runs the danger of leading to an infinite
+  regress of free choices, where the freedom of a choice depends on a
+  previous free choice, whose freedom depends on a previous one, and so on
+  forever.
+* Scouts is unaware of such difficulties and proceeds to develop an
+  elaborate analysis of the structure of human freedom. It seems that his
+  account principally rests on the highly esoteric idea of synchronic
+  contingency. At any given moment while the will is willing X, it has the
+  power to not will X. For Scotus, this is the source of human freedom.
