@@ -24,3 +24,37 @@
   faith, hope, and charity cannot truly possess virtues such as wisdom,
   temperance, or courage. An act that is not done from the love of God must
   be sinful; and without orthodox faith one cannot have true love of God.
+
+## Augustine on lying, murder, and sex
+
+* Augustine wrote much concerning the interpretation of three of the Ten
+  Commandments: ‘Thou shalt not kill’, ‘Thou shalt not commit adultery’,
+  ‘Thou shalt not bear false witness against thy neighbor’.
+* The prohibition to kill does not extend to the killing of non-human
+  creatures. ‘They have not been endowed with reason as we have, and so it
+  is by a just ordinance of the creator that their life and death is
+  subordinate to our needs.’
+* Augustine accepts that a public magistrate may be justified in inflicting
+  the death penalty on a wrongdoer, provided that the sentence is imposed
+  and carried out in accordance with the laws of the state.
+* It is quite all right to kill in war, provided it is waged on the
+  authority of God. It isn't clear when this condition is met though.
+* According to Augustine suicide is unlawful. Suicide in the face of
+  material deprivation is a mark of weakness, not greatness of soul. Suicide
+  to avoid dishonor brings only greater dishonor. Suicide to escape rape
+  falls even more firmly under Augustine's condemnation, because to be raped
+  is no sin and should bring no shame on an unconsenting victim.
+* Unlike Aristotle Augustine does not think that slavery is something
+  natural. It is the result of sin: e.g. enslavement of the vanquished by
+  the victors in an unjust war. However, he falls short of an outright
+  condemnation, in this sinful world, of slavery as an institution: he is
+  deterred from doing so by the example of the Old Testament patriarchs, and
+  by Paul's injunctions in the New Testament to slaves to obey their
+  masters.
+* Augustine's teaching on sex and marriage became, with little modification,
+  the standard doctrine of medieval moral philosophers. A. regards sex as
+  permissible only in marriage, treats procreation as the principal purpose
+  of marriage , and sets consequential limits on the types of sexual
+  activity lawful between husband and wife. Otherwise his views are
+  traditionalist, misogynist, and outdated.
+* Lying is not permissible under any circumstances, even for a good cause.
