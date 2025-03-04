@@ -58,3 +58,29 @@
   activity lawful between husband and wife. Otherwise his views are
   traditionalist, misogynist, and outdated.
 * Lying is not permissible under any circumstances, even for a good cause.
+
+## Abelard's ethic of intention
+
+* It is not what is done, but with what mind it is done, that God weights;
+  the desert and praise of the agent rests not in his action but in his
+  intention.
+* A bad intention may ruin a good act.
+* More controversially, Abelard maintained that a good intention might
+  justify a prohibited action.
+* Bad intentions are as blameworthy as bad actions.
+* In order to have a good intention, it is not sufficient that a man should
+  believe that he is doing well. MK: what is the criterion for goodness of
+  an intention then?
+* It is not clear whether his doctrine of justification by intention means
+  that an erroneous conscience excuses from guilt, or that a good end
+  justifies means known to be evil. Abelard never clearly distinguished
+  between the volitional and the cognitive element in intention. MK: not
+  clear to me what exactly these two elements are.
+* Abelard's doctrine came close to the slogan of 1960s hippies. ‘It doesn't
+  matter what you do as long as you're sincere’, and it is not surprising
+  that it was found shocking by his contemporaries, even though he believed
+  that our grasp of natural law set a limit to the possibilities of sincere
+  moral error. The Council of Sens condemned the teaching that those who
+  killed Christ in good faith were free from sin; and also among the
+  condemned propositions was ‘A man does not become better or worse on
+  account of the works he does’.
