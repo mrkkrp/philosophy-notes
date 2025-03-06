@@ -84,3 +84,68 @@
   killed Christ in good faith were free from sin; and also among the
   condemned propositions was ‘A man does not become better or worse on
   account of the works he does’.
+
+## Aquinas' ethical system
+
+* Aristotle in describing human action makes use of two key concepts: that
+  of voluntariness and that of purpose. For him, something is voluntary if
+  it is originated by an agent free from compulsion or error; it is a
+  purpose if chosen as part of an overall plan of life. His concept of
+  the voluntary was too broad and his concept of purpose too narrow to
+  demarcate most of the moral choices of everyday life. While retaining and
+  refining Aristotle's concepts, Aquinas introduced the concept of intention
+  to fill the gap between the two of them.
+* There are three types of action: those that are ends in themselves, those
+  that are means to ends, and those that we do, perhaps reluctantly, as
+  unavoidable accompaniments of actions of the first two kinds. It is in
+  actions of the middle kind that we exhibit intention: we intend to achieve
+  the end by the means. Actions of the third kind are not intentional, but
+  merely voluntary. Voluntariness, then, is the broadest category; whatever
+  is intentional is voluntary, but not vice versa. Intention itself, while
+  not as broad as voluntariness, is a broader concept than Aristotle's
+  purpose.
+* Human acts may be divided into three categories in respect of moral
+  evaluation. Some kinds of act are good, some are bad, and some are
+  indifferent. Each individual action in the concrete will be performed in
+  particular circumstances with a particular end in view. For an individual
+  action to be morally good, it must belong to a class of acts that is not
+  bad, it must take place in appropriate circumstances, and it must be done
+  with a virtuous intention (MK: is there also moral classification of
+  purposes?). If any of these elements is missing, it is a bad act (MK: may
+  there not be indifferent acts then?). Consequently, a bad intention can
+  spoil a good act, but a good intention cannot redeem a bad act. We may not
+  do evil that good may come.
+* Though an erroneous conscience always binds us, it does not always excuse
+  us.
+* Against Abelard Aquinas insists that good will cannot be fully genuine
+  unless it is put into action when opportunity arises.
+* For Aquinas, foresight is not the same thing as intention: a consequence
+  may be foreseen without being intended.
+* The reproduction of a nature, which is the result of the process of
+  generation, is also the point and purpose of that process. St
+  Thomas believed that each nature had itself a point no less than the
+  process that reproduced it. This must be so, it might well seem, if
+  reproduction itself were to serve any purpose. Bringing humans into being
+  would have no point unless being a human had some point other than
+  bringing other humans into being. ‘The nature of a thing,’ St Thomas
+  wrote, ‘which is the goal of its production, is itself directed to another
+  goal, which is either an action, or the product of an action’. Thus it
+  might be that the point of being a glow-worm was to shine, and the point
+  of being a bee was to make honey. Obviously, it is a matter of great
+  importance, if this line of reasoning is correct, to have a correct view
+  of what is the point of being a human.
+* The point of being a human is contemplation of God, and for this they need
+  besides moral virtues, the theological virtues of faith, hope, and
+  charity.
+* Aquinas seeks to reconcile Aristotelian with biblical ethics. For
+  Aristotle it is reason that sets the goal of action, and provides the
+  standard by which actions are to be regarded as virtuous or vicious; in
+  the Bible the standard is set by a code of laws. There is no conflict,
+  Aquinas maintains, because law is a product of reason. Reflection on the
+  essence of human action and choice, as described by Aristotle, leads to
+  the formation of a set of ultimate practical principles to guide the
+  activity of virtue in which human flourishing consists. Among these
+  ultimate principles is the biblical injunction to love one's neighbor as
+  oneself: a principle that Aquinas regarded as the first and common precept
+  of human nature, self-evident to human reason (MK: if only it were
+  indeed).
