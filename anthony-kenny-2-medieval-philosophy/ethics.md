@@ -149,3 +149,56 @@
   oneself: a principle that Aquinas regarded as the first and common precept
   of human nature, self-evident to human reason (MK: if only it were
   indeed).
+
+## Scotus on divine law
+
+* Scotus agrees with Aristotle and Aquinas that human beings have a natural
+  tendency to pursue happiness; but, in addition, he postulates a natural
+  tendency to pursue justice.
+* In the eudaimonistic tradition freedom is conceived as the ability to
+  choose between different possible means to happiness; and wrongdoing is
+  represented as the outcome of a failure to apprehend the appropriate
+  means. For Scotus, freedom extends not just to the choice of means to a
+  predetermined end, but to a choice between independent and possibly
+  competing ultimate goals. The blame for wrongdoing is placed less on a
+  defective understanding, more on the waywardness of an autonomous will.
+* For Scotus, an action could be wrong simply because God had forbidden it,
+  whether or not it had any relevance to the fulfillment or non-fulfillment
+  of human nature.
+* Just as Scotus' theory extends the degree of choice available to the human
+  will subject to the divine law, so it extends the degree of freedom
+  possessed by God in issuing commands to the human will. St Thomas had held
+  that all of the Ten Commandments belonged to the natural law: it followed
+  that God could not dispense from them, could not give permission for
+  humans to act against them. Scotus agreed that no exceptions could be
+  permitted to commandments belonging to the natural law; but he disagreed
+  that all ten Commandments formed part of that law.
+* There are some commands that God could not possibly give: he could not,
+  for instance, command anyone to hate him, or blaspheme against him. Truths
+  such as ‘God must be loved above all things’ are necessarily true, prior
+  to any decision of God's will. God cannot dispense from such a law, and
+  law of this kind are the kernel of morality, the true natural law. In
+  maintaining this, Scotus shows that he did not accept what is sometimes
+  called the divine command theory of morality, according to which the moral
+  value of any action whatever consists nothing other than its prescription
+  or prohibition by God. But it is only commands that have God himself as
+  their object that strictly belong to the natural law.
+* It is true that murder is a bad action, but this is a contingent, not a
+  necessary, truth. The principles that find expression in the later
+  Commandments can be said to belong to the law of natural only in an
+  extended sense. In giving these commands, God exhibits justice towards his
+  creatures: but he can override them, when necessary, in the interests of a
+  higher justice. God is under no necessity to treat his creatures justly at
+  all: the infinite owes no obligation to the finite.
+* Two important consequences follow from Scotus' ethical theory. The first
+  is a limitation on human capacity for moral reasoning; the second is an
+  externalization of the notion of sin. The natural law is the moral law
+  that is capable of being discovered by natural reason: but if those
+  principles that concern human beings' relations to each other are not part
+  of the natural law, then, however plausibly they can be argued for, we can
+  only be certain of them in virtue of revelation. An act in breach of
+  divine law places one in a state of sin; but this does not, according to
+  Scotus, effect any internal change in the sinner. Guilt is not an
+  intrinsic property of the human offender: it is simply the external fact
+  that God has resolved on punishment. Both of these Scotist theses were to
+  become fundamental issues of controversy at the time of the Reformation.
