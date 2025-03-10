@@ -202,3 +202,40 @@
   intrinsic property of the human offender: it is simply the external fact
   that God has resolved on punishment. Both of these Scotist theses were to
   become fundamental issues of controversy at the time of the Reformation.
+
+## The ethics of Ockham
+
+* Ockham agrees with Scotus that freedom is the fundamental feature of human
+  beings, and that the will is independent of reason. ‘Every man experiences
+  that however much reason may dictate a thing, his will can either will it
+  or fail to will it or will its opposite.’ Even the choice of the ultimate
+  end is free: a man may refuse to make happiness his goal, in the belief
+  that it is a state unattainable by the kind of human beings we find
+  ourselves to be.
+* Ockham emphasizes the absolute freedom of God in laying down the divine
+  law. Whereas Scotus accepted that some precepts (e.g. the command to love
+  God) were part of the natural law, and derived their force not from the
+  free decision of God but from his very nature, Ockham taught that the
+  moral value of human acts derived entirely from God's sovereign,
+  unfettered, will. God, in his absolute power, could command adultery or
+  theft, and if he did so such acts would not only cease to be sinful but
+  become obligatory.
+* Obligation is a central ethical concept for Ockham. Evil is defined as
+  being an action performed under an obligation to do the opposite. Humans
+  are obliged by the divine commands; but God is under no obligation to
+  human beings.
+* Ockham, like his Aristotelian predecessors, says from time to time that
+  what makes an act virtuous is that it should be in accordance with correct
+  rational judgment and that it should be performed precisely for that
+  reason. He follows tradition in saying that a person must act in
+  accordance with their conscience (i.e. their rational moral judgment) even
+  if it is in error. But these Aristotelian remarks are not in conflict with
+  the fundamentally authoritarian nature of his ethic. If we are to follow
+  reason and conscience, this is because God has commanded us to do so.
+* For Ockham the true subject matter of morality are not public actions, but
+  rather private, interior, acts of willing. No external act can have, in
+  itself, a moral value, because any external act is capable of being
+  performed by a madman, who is incapable of virtuous action. An action
+  carried out in conformity with a virtuous will has no moral value
+  additional to the moral value of the willing. The very same act of walking
+  to church is virtuous if done out of piety, vicious if done for vainglory.
