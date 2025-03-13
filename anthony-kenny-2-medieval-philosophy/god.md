@@ -50,3 +50,41 @@
 * Augustine believes that an evil human choice has no cause. The freedom of
   the will is of course a gift of God, and the freedom of the will carries
   with it the possibility of the misuse of that freedom.
+
+## Boethius on divine foreknowledge
+
+* In a world governed by divine providence, can there be any such thing as
+  luck or change? Lady Philosophy says that if by chance we mean an event
+  produced by random motion without any chain of causes, then there is no
+  such thing as chance. The only kind of chance is that defined by Aristotle
+  as the unexpected effect of coinciding causes. In that case, Boethius
+  asks, does the casual network leave any room for free human choice or does
+  the chain of fate bind even the motions of our minds? If God foresees all,
+  and cannot be in error, then what he foresees must happen of necessity.
+  For if it is possible for our deeds and desires to turn out in any way
+  other than God has foreseen, then it is possible for God to be in error.
+  Even if in fact all turns out as he foresaw, his foresight can only have
+  been conjecture, not true knowledge.
+* Boethius admits knowledge does not, in itself, cause what is known. But
+  necessity is different from causality; and ‘If you know that I am sitting,
+  then I am sitting’ is a necessary truth. So, too, ‘If God knows that I
+  will sin, I will sin’ is a necessary truth. Surely that is enough to
+  destroy our free will, and with it all justification for reward or
+  punishment for human actions. On the other hand, if it is still possible
+  for me not to sin, and God thinks that I will sin, then he is in error—a
+  blasphemous suggestion!
+* Lady Philosophy accepts that a genuinely free action cannot be foreseen
+  with certainty. But we can observe, without any room for doubt, something
+  happening in the present. When we watch a charioteer steering his horses
+  round a racetrack, neither our vision nor anything else necessitates his
+  skillful management of his team. God's knowledge of our future actions is
+  like our knowledge of others' present actions: he is outside time, and his
+  seeing is not really a *foreseeing*. ‘The same future event, when it is
+  related to divine knowledge, is necessary; but when it is considered in
+  its own nature can be seen to be utterly free and unconditional… God
+  beholds as present those future events that happen because of freewill.’
+* While explaining that God is outside of time, Boethius produced a
+  definition of eternity that became canonical. ‘Eternity is the whole and
+  perfect possession, all at once, of endless life.’ God possesses the whole
+  of his life simultaneously; none of it has flowed into the past and none
+  of it is still waiting in the wings.
