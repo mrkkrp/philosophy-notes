@@ -88,3 +88,17 @@
   perfect possession, all at once, of endless life.’ God possesses the whole
   of his life simultaneously; none of it has flowed into the past and none
   of it is still waiting in the wings.
+
+## Negative theology in Eriugena
+
+* God is not in any of Aristotle's categories, so all the things that are
+  can be denied of him—that is negative theology. On the other hand, God is
+  the cause of all the things that are, so they can all be affirmed of him.
+  But all terms that we apply to God are applied to him only improperly and
+  metaphorically. Because affirmative theology is merely metaphorical it is
+  not in conflict with negative theology, which is literally true.
+* God's essence is unknown to men and angels: indeed, it is unknown to God
+  himself. Just as I, human being, know *that* I am, but not *what* I am, so
+  God does not know what he is. If he did, he would be able to define
+  himself; but the infinite cannot be defined. It is no insult to God to say
+  that he does not know what he is; for he is not a *what*.
