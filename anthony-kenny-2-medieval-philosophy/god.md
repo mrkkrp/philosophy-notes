@@ -102,3 +102,62 @@
   God does not know what he is. If he did, he would be able to define
   himself; but the infinite cannot be defined. It is no insult to God to say
   that he does not know what he is; for he is not a *what*.
+
+## Islamic arguments for God's existence
+
+* Al-Kindi offers a series of elaborate and systematic proofs for the
+  existence of God, based on establishing the finite nature of the world we
+  live in. Suppose that the physical world were infinite in quantity. I we
+  take out of it a finite quantity, is what is left finite or infinite? If
+  finite, then if we restore what has been taken out, we have only a finite
+  quantity, since the addition of two finite quantities cannot make an
+  infinite one. If infinite, then if we restore what has been taken out, we
+  will have two infinite bodies, one (the original) smaller than the other
+  (the restored whole). But this is absurd. So the universe must be finite
+  in space. MK: he would be surprised to discover that the notion of unequal
+  infinities is not at all absurd.
+* Similar considerations show that the universe is finite in time. Time is
+  quantitative, and an actually infinite quantity cannot exist. If time were
+  infinite, then an infinite number of prior times must have preceded the
+  present moment. But an infinite number cannot be traversed; so if time
+  were infinite we would never have got to the present moment, which is
+  absurd.
+* If time is finite, then the universe must have had a beginning in time;
+  for the universe cannot exist without time. But if the universe had a
+  beginning, then it must have had a cause other than itself. This cause
+  must be the cause of the multiplicity to be found in the universe, and
+  this al-Kindi calls the True One. This, he tells us, is the cause of the
+  beginning of coming to be in the universe, and is the cause of the unity
+  that holds each creature together.
+* Christians as well as Muslims found it convenient that philosophical
+  arguments could be offered for the creation of the world in time, so that
+  the believer did not need to take this simply on faith, on the authority
+  of Genesis or the Quran. The arguments which al-Kindi brought into Islam
+  from Philoponus returned into the Christian world in the high Middle Ages,
+  and their validity became a matter of debate among the major scholaistics.
+* Not all Muslim philosophers agreed that the world was created in time.
+  Avicenna believed that God created by necessity: he is absolute goodness,
+  and goodness by its nature radiates outwards.
+* Avicenna offers a proof that there must be at least one thing that is
+  necessarily existent of itself. Start with any entity you choose—it can be
+  anything in heaven or on earth. If this is necessarily existent of itself,
+  then our thesis is proved. If it is contingently existent of itself, then
+  it is necessarily existent through something else. This second entity is
+  necessarily existent either of itself, or through something else. If
+  through something else, then there is a third entity, and so on. However
+  long the series is, it cannot end with something that is of itself
+  contingent; for that, and thus the whole series, would need a cause to
+  explain its existence. Even if the complete casual series is infinite, it
+  must contain at least one cause that is necessarily existent of itself,
+  because if it contained only contingent causes it would need an external
+  cause and thus not be complete. MK: this last argument is dubious, the way
+  such a series is defined it always ends with a necessary cause, so there
+  cannot be a series of this kind that both is infinite and contains a
+  necessary cause.
+* Avicenna argues that there can be at most one necessary being. It is
+  perfect, it is pure goodness, it is truth, it is pure intelligence; it is
+  source of everything else's beauty and splendor. The most important
+  feature of the necessary being is that it does not have an essence which
+  is other than its existence. If it did, there would have to be a cause to
+  unite the essence with the existence, and the necessary being would be not
+  necessary but caused.
