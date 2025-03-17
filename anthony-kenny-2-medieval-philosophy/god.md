@@ -161,3 +161,51 @@
   is other than its existence. If it did, there would have to be a cause to
   unite the essence with the existence, and the necessary being would be not
   necessary but caused.
+
+## Anselm's proof of God
+
+* The ontological argument is thus stated by Anselm:
+  > We believe that thou art something than which nothing greater can be
+  > conceived. Suppose there is no such nature, according to what the fool
+  > says in his heart *There is no God*. But at any rate this very fool,
+  > when he hears what I am saying—something than which nothing greater can
+  > be conceived—understands what he hears. What he understands is in his
+  > understanding, even if he does not understand that it exists. For, it is
+  > one thing for an object to be in the understanding, and another to
+  > understand that that object exists… Even the fool, then, is bound to
+  > agree that there exists, if only in the understanding, something than
+  > which nothing greater can be conceived; because he hears this and
+  > understands it, and whatever is understood is in the understanding. But
+  > for sure, that than which nothing greater can be conceived cannot exist
+  > in the understanding alone. For suppose it exists in the understanding
+  > alone: then it can be thought to exist in reality, which is greater.
+  > Therefore, if that than which nothing greater can be conceived exists in
+  > the understanding alone, that very thing than which nothing greater can
+  > be conceived is a thing than which something greater can be conceived.
+  > But this is impossible. Therefore it is beyond doubt that there exists,
+  > both in the understanding and in reality, a being than which nothing
+  > greater can be conceived.
+* Whereas Avicenna said that God's essence entailed his existence, Anselm
+  argues that the very *concept* of God makes manifest that he exists.
+* Bertrand Russell: ‘This argument was invented by Anselm, rejected by
+  Thomas Aquinas, accepted by Descartes, refuted by Kant, and reinstated by
+  Hegel. I think it may be said quite decisively that, as a result of
+  analysis of the concept “existence”, modern logic has proved this argument
+  invalid.’ But the argument was not as definitively settled as Russel
+  thought. When a later generation of logicians developed the modal logic of
+  possible worlds, theistic philosophers made use of this logic to resurrect
+  the ontological argument. MK: would be nice to cover that!
+* The weak element in Anselm's argument is the one that seems most
+  innocuous: his definition of God. How does he know that ‘something than
+  which no greater can be conceived’ expresses a coherent notion? May the
+  expression be as misbegotten as ‘a natural number than which no greater
+  can be found’? Anselm himself seems to have sensed a problem here. He is
+  at pains to point out that his definition does not imply that God is the
+  greatest conceivable thing. Indeed, God is *not* conceivable: he is
+  greater than anything that can be conceived. So far, so good: there is
+  nothing contradictory in saying that than which no greater can be
+  conceived is itself too great for conception. The real problem for Anselm
+  is in explaining how something that cannot be conceived can be in the
+  understanding at all. His last word on the issue amounts to admitting that
+  what's in the fool's understanding is only a set of words, not God
+  himself, hence the argument cannot get started.
