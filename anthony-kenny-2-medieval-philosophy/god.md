@@ -209,3 +209,40 @@
   understanding at all. His last word on the issue amounts to admitting that
   what's in the fool's understanding is only a set of words, not God
   himself, hence the argument cannot get started.
+
+## Omnipotence in Damiani and Abelard
+
+* Diamani: If God cannot do any of the things that he does not want to do,
+  since he never does anything except what he wants to do, it follows that
+  he cannot do anything at all except what he does. As a result we shall
+  have to say frankly that God is not making it rain today because he
+  cannot.
+* Abelard raised the question whether God can make more things, or better
+  things, than the things he has made, and whether he can refrain from
+  acting as he does. If God can make more and better things than he has, is
+  it not mean of him not to do so? After all, it costs him no effort.
+  Whatever he does, or refrains from doing, is done or left undone for the
+  best possible reasons, however hidden from us these may be. So it seems
+  that God cannot act except in the way he has in fact acted. On the other
+  hand, if we take any sinner on his way to damnation, it is clear that he
+  could be better than he is; for if not, he is not to be blamed, still less
+  to be damned, for his sins. But if he could be better, then God could make
+  him better; so there is something that God could make better than he has.
+* Suppose it is now not raining: this must be because God so wills. That
+  must mean that now is not a good time for rain. So if we say that God
+  could now make it rain, we are attributing to God the power to do
+  something foolish. Whatever God wants to do, he can, but if he doesn't
+  want to, then he can't. It is true that we poor creatures can act
+  otherwise than we do (MK: do or ought to do?); but this is not something
+  to be proud of, it is a mark of our infirmity, like our ability to walk,
+  eat, and sin. We would be better off without the ability to do what we
+  ought not to do.
+* In answer to the argument that sinners must be capable of salvation if
+  they are to be justly punished, Abelard rejects the step from ‘This sinner
+  can be saved by God’ to ‘God can save this sinner’. The underlying logical
+  principle—that ‘p if and only if q’ entails ‘possibly p if and only if
+  possibly q’—is invalid, he claims, and encounters many counter-examples.
+  One might object that God would deserve no gratitude from men if he cannot
+  do otherwise than he does. But Abelard has an answer. God is not acting
+  under compulsion: his will is identical with goodness that necessitates
+  him to act as he does.
