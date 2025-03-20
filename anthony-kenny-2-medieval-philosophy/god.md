@@ -246,3 +246,22 @@
   do otherwise than he does. But Abelard has an answer. God is not acting
   under compulsion: his will is identical with goodness that necessitates
   him to act as he does.
+
+## Grosseteste on omniscience
+
+* Whatever is known by God either is or was or will be. *A* (some future
+  contingent) is known by God. Therefore *A* is or was or will be. But it is
+  not and it was not, therefore it will be. Both premises are necessary;
+  therefore the conclusion is necessary, since what follows from necessary
+  premises is itself necessary. So *A* itself must be necessary, and there
+  is no real contingency in the world.
+* The solution, for Grosseteste, lies in distinguishing between two kinds of
+  necessity. It is strongly necessary that *p* if it is not possible that it
+  should ever have been the case that not-*p*. It is weakly necessary that
+  *p* if it is not possible that it should henceforth become the case that
+  not-*p*. In our argument, the minor and the conclusion are weakly
+  necessary, but not strongly necessary. Weak necessity is compatible with
+  freedom, so the argument does not destroy free will. On the other hand, we
+  preserve the principle that what follows from what is necessary is itself
+  necessary, but necessary only in the same sense as its premises are. MK:
+  this is not convincing.
