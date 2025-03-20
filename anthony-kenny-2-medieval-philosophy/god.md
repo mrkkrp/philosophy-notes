@@ -265,3 +265,77 @@
   preserve the principle that what follows from what is necessary is itself
   necessary, but necessary only in the same sense as its premises are. MK:
   this is not convincing.
+
+## Aquinas on God's eternal knowledge and power
+
+* Aquinas: The ancient nominalists said that ‘Christ is born’, ‘Christ will
+  be born’, and ‘Christ has been born’ were one and the same proposition
+  because the same reality is signified by all three, namely, the birth of
+  Christ. They deduced from this that God now knows whatever he has known,
+  because he now knows Christ born, which has the same signification as
+  ‘Christ will be born’. But this view is false, for two reasons. First of
+  all, if the parts of speech in a sentence differ, then the proposition
+  differs. Second, it would follow that any proposition that was once true
+  would be forever true, which goes against Aristotle's dictum that the very
+  same sentence ‘Socrates is sitting’ is true when he sits and false when he
+  gets up.
+* So if we take the object of God's knowledge to be propositional, it is not
+  true that whatever God once knew he now knows. But this does not mean that
+  God's knowledge is fickle: it simply means that his knowledge is not
+  exercised through propositions in the way that our knowledge is.
+* Aquinas' own solution to the problem of reconciling divine foreknowledge
+  with contingency is presented in two stages. The first stage, which has
+  been common currency since Boethius, appeals to two different ways in
+  which modal propositions can be analyzed. The proposition ‘Whatever is
+  known by God is necessarily true’ is ambiguous: it may mean (A) or (B):
+  * (A) ‘Whatever is known by God is true’ is a necessary truth.
+  * (B) Whatever is known by God is a necessary truth.
+* (A), is Aquinas' terminology, is a proposition *de dicto*: it takes the
+  original statement as a meta-statement about the status of the proposition
+  in quotation marks. (B), on the other hand, is a proposition *de re*, a
+  first-order statement. According to Aquinas (A) is true and (B) is false;
+  but only (B) is incompatible with God's knowing contingent truths.
+* In any true conditional proposition, if the antecedent is necessarily
+  true, then the consequent is also necessarily true. ‘If it has come to
+  God's knowledge that such and such a thing will happen, then such and such
+  a thing will happen’ is a necessary truth. The antecedent, if true, is
+  necessarily true, for it is in the past tense, and what is past cannot be
+  changed. Therefore, the consequent is also a necessary truth; so the
+  future thing, whatever it is, will happen of necessity.
+* Aquinas' solution to this difficulty depends on the thesis that God is
+  outside time, it is essentially the same of Boethius'. A contingent event,
+  as it comes to God's knowledge, is not future but present; and as present
+  it is necessary; for what is the case is the case and is beyond anyone's
+  power to alter.
+* Aquinas preferred the formulation ‘God's power is infinite’ to the
+  formulation ‘God is omnipotent’. ‘God possesses every logically possible
+  power’ is more coherent than the earlier formulation, but it is still only
+  an approximation to a correct definition, because some logically possible
+  powers—such as the power to weaken, sicken, and die—clash with other
+  divine attributes.
+* Can God do evil? Can God do better than he does? Aquinas answers that God
+  can only do what is fitting and just to do; but because of the
+  condemnation of Abelard, he has to accept that God can do other than he
+  does.
+* Aquinas: The words ‘fitting and just’ can be understood in two senses. In
+  the first sense ‘fitting and just’ is taken in primary conjunction with
+  the verb ‘is’, and is thus restricted in reference to what is the case at
+  present, and is assigned to God's power in this restricted sense. So
+  restricted, the proposition is false: for its sense is this: ‘God can only
+  do what is fitting and just as things are’. But if ‘fitting and just’ is
+  taken in primary conjunction with the verb ‘can’, which has an
+  amplificatory force, and only subsequently in conjunction with the verb
+  ‘is’, then the reference will be to a non-specific present, and the
+  proposition will be true, understood in this sense: ‘God can only do what,
+  if He did it, would be fitting and just’.
+* If we prefer the idiom of possible worlds to the idiom of powers, we could
+  make Aquinas' point as follows. In every possible world, what God does is
+  fitting and just; it does not follow, nor is it true, that whatever God
+  does is something that is fitting and just in every possible world. MK: I
+  find it harder to understand this formulation and equate it with the
+  original formulation of Aquinas. My understanding of Aquinas' point is
+  that God is the maker of the rules of is fitting and just, so whatever he
+  does is by definition fitting and just and thus his choice is unrestricted
+  (the second sense) as opposed to a single “objective” notion of what is
+  fitting and just, i.e. what Aquinas calls ‘in reference to what is the
+  case at present’ (the first sense).
