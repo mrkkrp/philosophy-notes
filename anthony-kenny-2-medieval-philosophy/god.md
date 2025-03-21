@@ -339,3 +339,41 @@
   (the second sense) as opposed to a single “objective” notion of what is
   fitting and just, i.e. what Aquinas calls ‘in reference to what is the
   case at present’ (the first sense).
+
+## Aquinas' proof of God's existence
+
+* Aquinas: All created causes, while having their own proper effects that
+  distinguish them one from another, also share in a single common effects
+  which is being. Heat causes things to be hot, and a builder causes there
+  to be a house. They have in common therefore that they cause being, and
+  differ in that fire causes fire and a builder causes a house. There must,
+  therefore, be some superior cause whole proper effect is being and in
+  virtue of which everything else causes being. And this cause is God.
+* Five Ways which are placed near the beginning of the *Summa Theologiae*:
+  1. motion in the world is only explicable if there is a first motionless
+     mover;
+  2. the series of efficient causes in the world must lead to an uncaused
+     cause;
+  3. contingent and corruptible beings must depend on an independent and
+     incorruptible being;
+  4. the varying degrees of reality and goodness in the world must be
+     approximations to a subsistent maximum of reality and goodness;
+  5. the ordinary teleology of non-conscious agents in the universe entails
+     the existence of an intelligent universal orderer.
+* None of the Five Ways is successful as a proof of God's existence: each
+  one contains either a fallacy, or a premise that is false or disputable.
+  The first way depends on the premise that whatever is in motion is moved
+  by something else: a principle universally rejected since Newton. The
+  series mentioned in the second way is not a series of causes through time
+  (which Aquinas himself admitted could reach backward forever), but a
+  series of simultaneous causes, like a man moving a stone by moving a
+  crowbar; there is no reason why the first cause in such a series should be
+  God rather than an ordinary human being. The third way contains a
+  fallacious inference from ‘Every thing  has some time at which it does
+  exist’ to ‘There is some time at which nothing exists’. The fourth way
+  depends on a Platonic, and ultimately incoherent, notion of Being. The
+  fifth way is much the most persuasive of the arguments, but its key
+  premise, ‘Things that lack awareness do not tend towards a goal unless
+  directed by something which awareness and intelligence, like an arrow by
+  an archer’, needs, since Darwin, more supporting argument than we are
+  given.
