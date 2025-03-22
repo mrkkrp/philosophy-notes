@@ -377,3 +377,48 @@
   directed by something which awareness and intelligence, like an arrow by
   an archer’, needs, since Darwin, more supporting argument than we are
   given.
+
+## Duns Scotus' metaphysical proof of an infinite being
+
+* Suppose we have that we have something capable of being brought into
+  existence. What could bring it into existence? It must be something,
+  because nothing cannot cause anything. It must be something other than
+  itself, for nothing can cause itself. Let us call that something else A.
+  Is A itself caused? If not, it is a first cause, which is what we were
+  looking for. If it is caused, let its cause be B. We can repeat the same
+  argument with B. Then either we go on forever, which is impossible (MK:
+  this needs justification), or we reach an absolute first cause.
+* Scotus makes a distinction between two kinds of causal series, one of
+  which he calls ‘essentially ordered’, and the other ‘accidentally
+  ordered’. He does not deny the possibility of an unending regress of
+  accidentally ordered causes, such as the series of an unending human
+  beings, each begotten by an earlier human. Such a series is only
+  accidentally ordered. A father may be the cause of his son, but he is not
+  the casue of his son's begetting his grandson. In an essentially ordered
+  series, A not only causes B, which is the cause of C, but actually causes
+  B to cause C. It is only in the case of essentially ordered series—e.g. a
+  gardener moving earth by moving a spade—that an infinite regress is ruled
+  out (MK: an accidentally ordered series seems to allow for actual infinity
+  in time, then why could there not be other kinds of infinity, including
+  such that would constitute an essentially ordered series?). An
+  accidentally ordered series is, as it were, a horizontal series of causes;
+  an essentially ordered series is a vertical hierarchy; and Scotus tells
+  us, ‘infinity is impossible in the ascending order’.
+* Weaknesses in Scotus' proof:
+  * It seems to assume that it is sensible to talk of something non-existing
+    as having, or lacking, the power of coming into existence.
+  * It is not clear why instead of a single infinite first cause the
+    argument does not lead to a number of finite first causes.
+  * The argument is built on purely abstract possibilities on purpose
+    (Scotus: if you start from mere physics, you will never get beyond the
+    finite cosmos), but the consequence of this is that it has only proved
+    the possibility of a first cause, not that it actually exists.
+* Scotus accepts that an infinite being is possible only if there is no
+  incoherence in the notion of such an entity. However, he also claims that
+  incoherence between the notions of being and infinity would long ago have
+  been detected if it were there, so there is nothing to worry about.
+* Even if we concede to Scotus that the notion of God is coherent, his
+  argument seems to fail, by trading on different senses of ‘possible’:
+  logical possibility, epistemic possibility, and real possibility. From the
+  mere logical possibility of God's existence, nothing follows about whether
+  he actually exists.
