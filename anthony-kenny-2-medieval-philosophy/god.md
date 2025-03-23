@@ -469,3 +469,32 @@
   human freedom, Valla ends with a denunciation of the philosophers and
   above all of Aristotle. On this crucial topic of natural theology, both
   nominalist scholasticism and humanist scholarship reach the same dead end.
+
+## The informed ignorance of Nicholas of Cusa
+
+* Late medieval thought reaches a climax of agnosticism in Nicholas of
+  Cusa's *De Docta Ignorantia*. No one since Socrates had emphasized so
+  strongly that wisdom consists in awareness of the limits of one's
+  knowledge. Brute ignorance is no virtue: but the process of learning is a
+  gradually increasing awareness of how much one does not know. Truth is
+  real enough: but we humans can only approach it asymptotically.
+* Our reason, guided by the principle of non-contradiction, proceeds by
+  making distinctions. We distinguish, for instance, between great and
+  small. But these distinctions are useless in inquiry about God. We may
+  think, for instance, that God is the greatest of all things, the maximum.
+  Certainly, God is something than which nothing can be greater. But God,
+  who has no size at all, is also something than which nothing can be
+  lesser. He is the minimum as well as the maximum. This is but one instance
+  of a general principle: God is the union and coincidence of opposites. MK:
+  for someone who is so skeptical about the very idea of knowing God he
+  sound a little too confident.
+* Cusa, obviously, belongs in the tradition of the *via negativa* going back
+  to Dionysius the Areopagite. But his agnosticism goes further than that of
+  his predecessors such as Eriugena. Cusa regards negative predicates as no
+  less misleading than positive ones of they are applied to God. No name is
+  apt for God. We cannot even call him ‘the One’, because for us oneness
+  excludes otherness and plurality. If we exclude that exclusion, which
+  calling God ‘the One’ what are we left with? We are still infinitely
+  distant from naming God. If we really come to grips with this reality, our
+  informed ignorance will become sacred ignorance. That is the best that we
+  humans can home for here.
