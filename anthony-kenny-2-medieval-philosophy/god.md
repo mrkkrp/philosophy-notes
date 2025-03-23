@@ -422,3 +422,50 @@
   logical possibility, epistemic possibility, and real possibility. From the
   mere logical possibility of God's existence, nothing follows about whether
   he actually exists.
+
+## Scotus, Ockham, and Valla on divine foreknowledge
+
+* Scotus rejects Aquinas' view that God is omniscient because he sees the
+  whole of time as present to him all at once. Anything that is present to
+  God, Scotus argues, cannot be genuinely past or future; the way things
+  appear to God is the way they really are (MK: which is what?). For Scotus,
+  God knows what has been the case, what is the case, and what will be the
+  case, because he is aware of his own decree determining what has been,
+  what is, and what will be.
+* What of human free will? Scotus defense of free will is as follows. There
+  are many cases where I can do some action X but will not. In such cases,
+  there will be descriptions of doing X that will describe it in terms of
+  the fact that I am not, in fact, going to do X. Thus, let us suppose that
+  I am going to eat my cake. I can, if I want, have my cake, but I am not
+  going to have my cake, I am going to eat it. Given the facts of the case,
+  to have my cake would be to have it and eat it too. But I can, if I want,
+  have it. So, if the principle is valid, I can have my cake and eat it too.
+  Scotus' argument to show that human freedom is compatible with divine
+  decrees provides the essential underpinning for any form of compatibilism,
+  that is to say, the attempt to show that freedom and determinism are not
+  the contradictory opposites that they appear at first sight to be.
+* Ockham rejected Scotus' method of reconciling divine foreknowledge with
+  human freedom. God, Scotus says, foresees future events by being aware of
+  his own intentions, and future events are contingent, not necessary,
+  because God's decrees about the world are themselves contingent. This,
+  Ockham replies, may be sufficient to preserve contingency, but it does not
+  suffice to leave the decisions of creatures free while establishing, at
+  the same time, a basis for foreknowledge of them.
+* Ockham makes clear that he sympathizes with the position that statements
+  about future contingents lack a truth-value. Unless they are already true,
+  future contingent propositions cannot be known, even by God. In spite of
+  this philosophical reasoning, Ockham says, we are obliged to hold that God
+  evidently knows all future contingents.
+* Ockham: a fortiori we cannot prove by natural reason that God is infinite,
+  eternal, omnipotent, and creator of heaven and earth. With regard to God's
+  knowledge, we cannot prove philosophically that God knows actual things
+  other than himself, let alone their future free actions. All these truths
+  about God have to be accepted as matters as faith.
+* Lorenzo Valla wrote in 1439 a dialogue on free will critical of Boethius'
+  Consolation. There, through a metaphor involving two pagan gods, he
+  separates out the two attributes of omniscient wisdom and irresistible
+  will, which in Christian theology, are inseparable in the one God. Rather
+  than offer a philosophical reconciliation between divine providence and
+  human freedom, Valla ends with a denunciation of the philosophers and
+  above all of Aristotle. On this crucial topic of natural theology, both
+  nominalist scholasticism and humanist scholarship reach the same dead end.
