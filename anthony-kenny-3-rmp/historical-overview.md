@@ -30,3 +30,46 @@
 * In 1520 Pope Leo X condemned forty-one articles taken from Luther's
   teaching, and followed this up with an excommunication after Luther had
   burnt the Bull of Condemnation.
+
+## Sin, grace, and freedom
+
+* Adrian VI urged Erasmus to take up his pen against the reformers. The
+  ground Erasmus chose for battle was Luther's position on the freedom of
+  the will. Philosophically, Erasmus is unsubtle. He refers to, but does not
+  improve upon, Valla's dialogue on free will. He repeats commonplaces of
+  centuries of scholastic debate which are inadequate responses to the
+  problem of reconciling divine foreknowledge with human freedom—he insists,
+  for instance, that even humans know many things that will happen in the
+  future, such as eclipses of the sun. A theory of free will that leaves us
+  no freer than the starts in their courses is not a very robust answer to
+  Luther.
+* Luther the opinion that the Council of Constance ascribed to Wyclif: that
+  everything happens of ‘necessity’. He distinguishes, however, between two
+  senses of ‘necessity’. The human will is subject to ‘necessity of
+  immutability’: it has no power to change itself from its innate desire for
+  evil. But it is not subject to another form of necessity, namely
+  compulsion: a human being lacking grace does evil spontaneously and
+  willingly. The human will is like a beast of burden: if God rides it, it
+  wills and goes where God wills; if Satan rides it, it goes where Satan
+  wills. It has no freedom to choose its rider.
+* Luther prefers to abandon altogether the term ‘free will’; other writers,
+  before and after, have regarded the spontaneity that he accepts as being
+  the only thing that can genuinely be meant by the term. Luther's principal
+  concern was to deny free will in matters that make the difference between
+  salvation and damnation. In other cases he seems to allow the possibility
+  of genuine choice between alternative courses of action. Humans have free
+  will in respect not of what is above them, but in respect of what is below
+  them. The sinner, for instance, can make his choice between a variety of
+  sins.
+* From a philosophical point of view these early Reformation debates on
+  freedom and determinism do no more than rehearse arguments which were
+  commonplaces of ancient and medieval philosophy. They illustrate, however,
+  the negative side of humanist education. Scholastic debates, if sometimes
+  arid, had commonly been sober and courteous. Thomas Aquinas', for
+  instance, was always anxious to put the best possible interpretation on
+  the theses of those he disagreed with. Erasmus shared something of
+  Aquinas' eirenic spirit; but More and Luther attack each other with bitter
+  vituperation made only the more vulgar by the elegant Latin in which it is
+  phrased. The pugnacious conventions of humanist debate were a factor which
+  led to the hardening of positions on either side of the Reformation
+  divide.
