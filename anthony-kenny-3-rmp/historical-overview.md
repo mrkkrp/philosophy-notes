@@ -73,3 +73,24 @@
   phrased. The pugnacious conventions of humanist debate were a factor which
   led to the hardening of positions on either side of the Reformation
   divide.
+
+## Authority and conscience
+
+* Luther introduced a general hostility not just to scholasticism but to
+  philosophy itself. He denounced Aristotle, and in particular his *Ethics*,
+  as ‘the vilest enemy of grace’. His contempt for the powers of unaided
+  reason was the outcome of his belief that in Adam's fall human nature had
+  become totally corrupt and impotent.
+* Pessimism about the moral capacity of the trained intellect unaided by
+  grace went hand in hand with optimism about the intellectual ability of
+  the untrained mind illumined by faith. Squeezed between the two,
+  philosophy found its role greatly diminished among devout Protestants.
+* In Rome Pope Paul III (1534-9) promoted a Counter-Reformation, instituting
+  a new religious order of Jesuits, and convening a Council at Tent to
+  reform Church discipline. The council condemned the Lutheran doctrine of
+  justification by faith alone, and the Calvinist doctrine that God
+  predestined the wicked to hell prior to any sin. Free will, it insisted,
+  had not been extinguished by Adam's fall. It reaffirmed the doctrine of
+  transubstantiation and the traditional seven sacraments. By the time the
+  council had finished its work, in 1563, Luther was dead and Calvin was
+  dying.
