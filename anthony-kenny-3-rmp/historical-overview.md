@@ -94,3 +94,12 @@
   transubstantiation and the traditional seven sacraments. By the time the
   council had finished its work, in 1563, Luther was dead and Calvin was
   dying.
+
+## The decline of logic
+
+* The combined effects of the Renaissance and the Reformation made the
+  sixteenth century a barren one in most areas of philosophy. Logic was
+  perhaps the branch of philosophy that suffered most severely. Logic did
+  continue to be taught in the universities, but humanist scholars were
+  impatient of it, regarding its terminology as barbarous and its
+  complexities as pettifogging.
