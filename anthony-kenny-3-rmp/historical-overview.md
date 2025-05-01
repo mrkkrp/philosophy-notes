@@ -141,3 +141,51 @@
   what he has been attacking are the pretensions of the human intellect to
   achieve truth by its own efforts. But faith is not an achievement, it is a
   free gift from God.
+
+## Counter-Reformation philosophy
+
+* Montaigne's exaltation of revelation to the exclusion of reason—‘fideism’
+  as it came to be called—was not typical of the Counter-Reformation. In
+  reaction against Luther's insistence that the human intellect and will had
+  been totally corrupted by the sin of Adam, Catholic controversialists
+  tended to emphasize that basic religious truths were within the scope of
+  unaided human intellect, and that faith itself needed the support and
+  defense of reason.
+* In the forefront of this optimistic thrust of the Counter-Reformation were
+  the Jesuits, the members of the new Society of Jesus. The order was
+  founded by the Spanish ex-soldier Ignatius Loyola and was approved by Pope
+  Paul III in 1540. In addition to the vows of poverty, chastity, and
+  obedience taken by all members of religious orders, the Jesuits took a
+  further vow of unquestioning loyalty to the papacy. Its members soon
+  distinguished themselves in educational and missionary work in many parts
+  of the world. In philosophy and theology in the universities they were
+  soon able to compete with the long-established religious orders such as
+  the Franciscans and Dominicans.
+* Whereas medieval scholastics had based their university lectures upon
+  canonical texts such as the works of Aristotle and the Sentences of Peter
+  Lombard, Jesuits in universities began to replace commentaries with
+  self-standing courses in philosophy and theology. By the early seventeenth
+  century this pattern was adopted by Dominicans and Franciscans, and this
+  led to a sharper distinction between philosophy and theology than had been
+  common earlier.
+* Of the philosophical issues dividing the Catholic and Protestant camps in
+  the sixteenth century none was more thorny than human free will, which had
+  been proclaimed at the Council of Trent in opposition no Lutheran
+  determinism and Calvinist predestination. The Jesuits made themselves
+  champions of the libertarian account of human freedom. Francisco Suarez
+  and his Jesuit colleague Luis de Molina offered a definition of free
+  agency in terms of the availability of alternative courses of
+  action—‘liberty of indifference’ as it came to be known. ‘That agent is
+  called free which in the presence of all necessary conditions for action
+  can act and refrain from action or can do one thing while being able to do
+  its opposite.’
+* Such a definition did ample justice to humans' consciousness of their own
+  choices and their attribution of responsibility to others. But by
+  comparison with more restrictive accounts of freedom, at made it very
+  difficult to account for God's foreknowledge of free human actions, to
+  which both Catholics and Protestants were committed. Molina, in his famous
+  *Concordia* (1589), presented an elaborate solution to the problem, in
+  terms of God's comprehensive knowledge of the actions of every possible
+  human being in every possible world. Ingenious though it was, Molina's
+  solution was unpopular not only among Protestians but also among his
+  Catholic co-religionists.
