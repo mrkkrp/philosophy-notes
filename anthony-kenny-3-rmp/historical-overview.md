@@ -189,3 +189,15 @@
   human being in every possible world. Ingenious though it was, Molina's
   solution was unpopular not only among Protestians but also among his
   Catholic co-religionists.
+
+## Giordano Bruno
+
+* Two features of Bruno's system have caught the attention of historians and
+  scientists: his adoption of the Copernican hypothesis, and his postulation
+  of multiple universes. Bruno accepted that it was the earth that went
+  round the sun, and not the sun that went round the earth. He went on to
+  develop Copernicus' ideas in a bold and dramatic manner. The earth was not
+  the center of the universe: but neither was the sun. Our sun is just one
+  star among others, and in boundless space there are many solar systems. No
+  sun or star can be called the center of the universe, because all
+  positions are relative.
