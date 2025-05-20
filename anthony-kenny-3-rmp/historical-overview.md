@@ -201,3 +201,48 @@
   star among others, and in boundless space there are many solar systems. No
   sun or star can be called the center of the universe, because all
   positions are relative.
+
+## Galileo
+
+* Already as a young man Galileo had begun to criticize the still dominant
+  physics of Aristotle, not, like Bruno, on the basis of Neoplatonic
+  metaphysics, but as a result of observation and experiment.
+* On its own, Galileo's work in mechanics would entitle him to a place among
+  the great scientists, and he also made important discoveries in
+  hydrostatics. But it was his research into astronomy that brought him fame
+  and tribulation. Using the newly invented telescope, which he himself
+  substantially improved, he was able to observe four moons of Jupiter. He
+  discovered the mountains of the moon and the variable spots on the sun;
+  discoveries which showed that the heavenly bodies were not, as Aristotle
+  thought, made out of a uniform crystalline quintessence, but consisted of
+  the same sort of material as our own earth.
+* Shortly afterwards, Galileo observed that the planet Venus wen through
+  phases similar to the phases of the moon. This could only be explained, he
+  concluded, if Venus was orbiting the sun and not the earth: it provided a
+  powerful argument in favor of the Copernican hypothesis. The discovery of
+  the moons that revolved around Jupiter in its planetary orbit had already
+  disposed of one the strongest arguments urged against heliocentrism,
+  namely that the moon would only be able to orbit the earth if the earth
+  itself was stationary.
+* Galileo was advised by the Church not to hold heretical opinions. While
+  Galileo's writings were not condemned, he was silenced for several years.
+* In 1632 Galileo published, with the approval of the papal censor,
+  *Dialogue on the two chief world systems*. In the book one character,
+  Salviati, presents the Copernican system, and another, Simplicius, defends
+  the traditional one. ‘Simplicius’ was an appropriate name for the defender
+  of Aristatelianism, since it had been borne by the greatest of Aristotle's
+  Greek commentators. However, it could also be interpreted as meaning
+  ‘simpleton’ and the pope was furious when he found some of his own words
+  placed in the month of Simplicius. He concluded that Galileo had presented
+  the Copernican system in a more favorable light than its opponent, and had
+  therefore deviated from the terms of his license to publish. In 1633
+  Galileo was summoned to Rome, tried by the Inquisition, and under the
+  threat of torture forced to abjure heliocentrism. He was condemned to life
+  imprisonment, a sentence that he served out until dis death in 1642, in
+  confinement in the houses of distinguished friends and eventually in his
+  own home at Bellosguardo outside Florence.
+* Galileo was treated more humanely than Bruno and many another prisoner of
+  the Inquisition, but the evil effects of his condemnation were felt
+  throughout Europe. Scientific investigation in Italy went into decline.
+  When in 1992 Pope John Paul II publicly acknowledged the injustice the
+  Church had done to Galileo, the apology came 350 years too late.
