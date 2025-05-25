@@ -246,3 +246,26 @@
   throughout Europe. Scientific investigation in Italy went into decline.
   When in 1992 Pope John Paul II publicly acknowledged the injustice the
   Church had done to Galileo, the apology came 350 years too late.
+
+## Bacon
+
+* An English contemporary of Galileo, Francis Bacon, shared his antipathy to
+  Aristotle, but was more interested in the theory than in the practice of
+  scientific method. Born in London in 1561, Bacon was educated at Trinity
+  College, Cambridge, and studied law at Gray's Inn. He entered Parliament
+  in 1584 and later became a client of Queen Elizabeth's favorite, the Earl
+  of Essex. When, in 1598, Essex plotted an insurrection, Bacon took a
+  leading part in his prosecution for treason. On the accession of James I
+  he became solicitor-general and was knighted. In 1606 he published the
+  first of major philosophical writing, *The Advancement of Learning*, a
+  systematic classification of scientific disciplines.
+* The climax of Bacon's career was his appointment in 1618 as Lord
+  Chancellor with the title Lord Verulam. He planned a massive work, the
+  *Instauratio Magna (The Great Instauration)*, which was to take all
+  knowledge for its province. Only two parts of this were completed: the
+  first was a revision of *The Advancement of Learning*, and the second was
+  the *Novum Organum* which was his principal work on scientific method. In
+  1621, in the course of a parliamentary inquiry, he pleaded guilty to
+  changes of accepting bribes, and was disgraced and briefly imprisoned. He
+  wrote other scientific and historical works and also the essays for which
+  he is nowadays best remembered. He died at Highgate in 1626.
