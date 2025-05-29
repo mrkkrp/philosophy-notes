@@ -269,3 +269,105 @@
   changes of accepting bribes, and was disgraced and briefly imprisoned. He
   wrote other scientific and historical works and also the essays for which
   he is nowadays best remembered. He died at Highgate in 1626.
+
+## Descartes
+
+* Born in 1596 in a village in Touraine.
+* In the wars of religion that divided Europe, he enlisted in both camps.
+  First, he was an unpaid volunteer in the army of the Protestant Prince of
+  Orange; later he served in the army of the Catholic Duke Maximilian of
+  Bavaria, who was then at war with the Palatine Elector Frederick,
+  son-in-law of King James I of Britain. After he left the army he did not
+  adopt a profession. Unlike the great philosophers of the Middle Ages he
+  was a layman in both ecclesiastical and the academic sense. He never
+  lectured in a university, and he lived a private life as a gentleman of
+  means. He wrote his most famous work not in the Latin of the learned
+  world, but in good plain French, so that it could be understood, as he put
+  it, ‘even by women’.
+* There are two key ideas that are presented in the *Discourse* and
+  elaborated in later works. First: human beings are thinking substances.
+  Second: matter is extension in motion. Everything in his system is to be
+  explained in terms of this dualism of mind and matter. If we nowadays tend
+  naturally to think of mind and matter as the two great mutually exclusive
+  and mutually exhaustive divisions of the universe we inhabit, that is
+  because of Descartes.
+* Descartes reaches these conclusions by the application of a method of
+  systematic doubt. To prevent being ensnared in falsehood, the philosopher
+  must begin by doubting whatever can be doubted. The senses sometimes
+  deceive us; mathematicians sometimes make mistakes; we can never be
+  certain whether we are awake or asleep. Accordingly:
+  > I decided to feign that everything that had entered my mind hitherto was
+  > no more true than the illusions of dreams. But immediately upon this I
+  > noticed that while I was trying to think everything false, it must needs
+  > be that I, who was thinking this, was something. And observing that this
+  > truth ‘I am thinking, therefore I exist’ was so solid and secure that
+  > the most extravagant suppositions of skeptics could not overthrow it, I
+  > judged that I need not scruple to accept it as the first principle of
+  > philosophy that I was seeking.
+* This is the famous *Cognito, ergo sum*, which archives the second task of
+  the philosopher (MK: what is the first?), that of preventing the
+  systematic doubt from leading to skepticism. But from it Descartes goes on
+  to derive the principles of his system. If I were not thinking, I would
+  have no reason to believe that I existed (MK: could something incapable of
+  thinking believe?); hence I am a substance whose whole essence is to
+  think; being a body is no part of my essence. The same goes for every
+  other human being. So Descartes' first main thesis is established.
+* What assures me that the *Cognito* is correct? Only that I see clearly
+  that it is true. Whenever I conceive something clearly and distinctly, I
+  am assured of its truth (MK: so much for systematic doubt!). But when we
+  turn to material objects, we find that of all their properties the only
+  ones we clearly and distinctly perceive are shape, size, and movement. So
+  Descartes gains his second main thesis, that matter is extension in motion.
+* What guarantees the principle that whatever I see clearly and distinctly
+  is true? Only the truthful nature of the God to whom I owe my existence as
+  a thinking thing (MK: good God is no deceiver!). So establishing the
+  existence of God is a necessary part of Descartes' system. He offers two
+  proofs that there is a God. First, I have in myself the idea of a perfect
+  being, and this idea cannot be caused in me by anything less than a being
+  that is itself perfect. Second, to be perfect a being must include in
+  itself all perfections; but existence is a perfection, and therefore a
+  perfect being must exist. MK: this is so wrong I won't spend time
+  attacking it here.
+* Descartes initiated a new, individualistic, style of philosophizing.
+  Medieval philosophers had seen themselves as principally engaged in
+  transmitting a corpus of knowledge; in the course of transmission they
+  might offer improvements, but these must remain within the bounds set by
+  tradition. Renaissance philosophers had seen themselves as rediscovering
+  and republicizing the lost wisdom of ancient times. It was Descartes who
+  was the first philosopher since Antiquity to offer himself as a total
+  innovator; as the person who had the privilege of setting out the truth
+  about man and his universe for the very first time. Where Descartes trod,
+  others followed: Locke, Hume, and Kant each offered their philosophies as
+  new creations, constructed for the first time on sound scientific
+  principles. ‘Read my work, and discard my predecessors’ is a constant
+  theme of 17th and 18th-century thinkers and writers.
+* With medieval philosophers like Aquinas, Scotus, and Ockham, a student has
+  to read the texts closely to realize the great degree of innovation that
+  is going on: the new wine is always decanted so carefully into the old
+  bottles. With Descartes and his successors, the difficulty is the
+  opposite: one has to look outside the text to realize that much that is
+  presented as original insight is in fact to be found stated in earlier
+  authors. There is no need to doubt the sincerity of Descartes' repeated
+  statements that he owed nothing to his scholastic predecessors. He was not
+  a plagiarist, but he had no appreciation of how much he had imbibed from
+  the intellectual atmosphere in which he grew up.
+* When Descartes tried to doubt everything, the one thing he did not call
+  into question was the meaning of the words he was using in his solitary
+  meditation. Had he done so, he would have had to realize that even the
+  words we use in soliloquy derive their meaning from the social community
+  which is the home of our language, and therefore it was not, in fact,
+  possible to build up his philosophy from solitary private ideas. Again,
+  Descartes thought that it was not possible to call into question
+  propositions that he was taught by natural light—the clear and distinct
+  perceptions that form the basic building blocks of his system. But in
+  fact, too often when he tells us that something is taught by the natural
+  light in our solus, he produces a doctrine that he had imbibed from the
+  Jesuits at La Flèche.
+* There is no doubt of the enormous influence Descartes has exercised from
+  his own day to ours. But his relation to modern philosophy is not that of
+  father to son, nor of architect to palace, nor of planner to city. Rather,
+  in the history of philosophy his position is like that of the waist of an
+  hourglass. As the sand in the upper chamber of such a glass reaches its
+  lower chamber only through the slender passage between the two, so too
+  ideas that had their origin in the Middle Ages have reached the modern
+  world through a narrow filter: the compressing genius of Descartes.
