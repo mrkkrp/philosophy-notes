@@ -371,3 +371,73 @@
   lower chamber only through the slender passage between the two, so too
   ideas that had their origin in the Middle Ages have reached the modern
   world through a narrow filter: the compressing genius of Descartes.
+
+## Hobbes
+
+* Descartes and Thomas Hobbes (1588-1679) had much in common. They shared a
+  contempt for Aristotle and the Aristotelian establishment in the
+  universities. Both were solitary thinkers who spent significant parts of
+  their lives in exile—each, for a time, beholden to banished Stuart courts.
+  Both of them had very modest libraries, and were contemptuous of
+  book-learning. Hobbes, like Descartes, was a master of vernacular prose,
+  and wrote for popular reading as well as for the learned world.
+* The most significant philosophical agreement between the two men was that
+  each of them was convinced that the material world was to be explained
+  solely in terms of motion. ‘The causes of universal things (of those, at
+  least, that have any cause) are manifest of themselves, or (as they say
+  commonly) known to nature; so that they need no method at all; for hey
+  have all but one universal cause, which is motion,’ wrote Hobbes. Like
+  Descartes, Hobbes denied the objective reality of secondary properties
+  such as color, sound, and heat, and indeed of all real accidents.
+* However, while Hobbes was close to one half of Descartes' philosophy, his
+  philosophy of matter, he was strongly opposed to the other half, his
+  philosophy of mind. Indeed he denied the existence of mind in the sense in
+  which Descartes understood it.There was, for Hobbes, no such thing as a
+  non-bodily substance, unextended and unmoving. There were no incorporeal
+  spirits, human, angelic, or divine. The very expression ‘incorporeal
+  substance’, he said, was as absurd as ‘round quadrangle’. Historians
+  disagree whether Hobbes' materialism involved a denial of the existence of
+  God, or implied that God was a body of some infinite and invisible kind.
+  It is unlikely that he was an atheist; but he certainly denied the dualism
+  of mind and matter in human beings.
+* In *Leviathan, or the Matter, Form and Power of a Commonwealth
+  Ecclesiastical and Civil* Hobbes argues that principles of rational
+  self-interest would urge men to give up some of their unfettered liberty
+  in return for equal concessions by others. Such principles would lead them
+  to transfer their rights, save that of self-defense, to a central power
+  able to enforce laws by punishment. A covenant of every man with every man
+  sets up a supreme sovereign, himself not a party to the covenant and
+  therefore incapable of breaching it. Such a sovereign is the source of law
+  and property rights, and it is his function to enforce, not just the
+  original covenant that constitutes the state, but individual covenants
+  that his subjects make with each other.
+* Hobbes' fame in the history of philosophy rests above all on his
+  contribution to political philosophy. He himself, however, attached great
+  importance to his philosophy of language. The invention of printing, he
+  observes, was no great matter compared with the invention of writing, and
+  that in its turn is insignificant compared to the invention of speech,
+  which is what marks us off from beasts and makes us capable of pursuing
+  science. Without words ‘there had been amongst men, neither commonwealth,
+  nor society, nor contract, nor peace, no more than amongst lions, bears,
+  and wolves.’
+* Hobbes is a thoroughgoing nominalist: all words are names, and names refer
+  only to individuals. Names may be proper, such as ‘Peter’, or common, such
+  as ‘horse’; and they may also be abstract, such as ‘life’ or ‘length’.
+  Universal names like ‘man’ and ‘tree’ do not name any universal thing in
+  the world or any idea in the mind, but name many individuals. For Hobbes,
+  names are put together to make sentences. If we say ‘Socrates is just’,
+  the semantic relationship of the word ‘just’ to the man Socrates is
+  exactly the same as the relationship of the word ‘Socrates’: both are
+  names, and the predicate term in the sentence signifies in the same way as
+  the subject term does. Sentences are true when the two names they contain
+  are both names of the same thing. ‘A man is a living creature’ is true
+  because ‘living creature’ is a name of everything that is signified by
+  ‘man’. ‘Every man is just’ is false because ‘just’ is not a name of every
+  man, the greater part of mankind deserving the name ‘unjust’. The two-name
+  theory is a naive piece of semantics which would not survive serious
+  logical criticism such as it had received in the medieval period and as it
+  was to receive in the 19th century in the work of Gottlob Frege. Hobbes'
+  version of the theory is a particularly crude one by comparison with that
+  of its leading medieval proponent, William Ockham. It remained
+  influential, however, among the British empiricists whom many have seen as
+  the heirs of the tradition of Ockham and Hobbes.
