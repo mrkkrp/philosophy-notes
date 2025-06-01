@@ -441,3 +441,57 @@
   of its leading medieval proponent, William Ockham. It remained
   influential, however, among the British empiricists whom many have seen as
   the heirs of the tradition of Ockham and Hobbes.
+
+## The Cambridge Platonists
+
+* A group of half a dozen English philosophers in the mid-17th century
+  occupied a position at odds with both Hobbes and Descartes. Five of them,
+  of whom the most important was Ralph Cudworth (1617-88), were graduates of
+  Emmanuel College, Cambridge, and one of them, Henry More (1614-87), was a
+  graduate of Christ's College, Cambridge, of which Cudworth was for thirty
+  years master. All of them shared an admiration for Plato, Plotinus, and
+  their followers among the early Church Fathers. Hence the group is
+  commonly called the ‘Cambridge Platonists’.
+* Despite their Cambridge affiliation, the members of the group were hostile
+  to the Puritanism that prevailed in that town and university during the
+  Civil War. They rejected Calvinist doctrines of predestination, affirmed
+  human freedom, and preached the merits of religious toleration. Their
+  toleration, however, did not extend to atheists, and the focus of their
+  hostility was Hobbes, whose materialism they regarded as tantamount to
+  atheism. During the reign of Charles I Puritan hostility to the Anglican
+  hierarchy had been followed by the deposition and execution of the king.
+  For the Cambridge Platonists the political slogan ‘No bishop, no king’ had
+  a philosophical counterpart: ‘No spirit, no God’. One could not be
+  materialist and a theist at the same time.
+* Cambridge Platonists sided with Descartes against Hobbes in emphasizing
+  the distinction of mind from matter. They devoted themselves to proving
+  the immortality of the human soul and the existence of a spiritual God.
+  For More, a human being is ‘a created spirit endowed with sense and
+  reason, and a power of organizing terrestrial matter into human shape.’
+  Like Descartes, Cudworth argues that God's existence can be proved by the
+  presence is us of the idea of God: ‘Were there no God the idea of an
+  absolutely or infinitely perfect Being could never have been made or
+  feigned, neither by politicians, nor by poets, nor philosophers, nor any
+  other.’ MK: why not? Clearly we can conceive of various things that do not
+  exist if they are buildable from notions that we possess.
+* The Cambridge Platonists parted company with Descartes when they came to
+  explain the basis of fundamental ethical principles. It was quite wrong,
+  Cudworth complained, to say that moral and other eternal truths depended
+  on the omnipotent will of God and were therefore in principle variable.
+  ‘Virtue and holiness in creatures’, he told the House of Commons in a 1647
+  sermon, ‘are not therefore Good because God loves them, and will have them
+  be accounted such; but rather, God therefore love them because they are in
+  themselves simply good.’
+* The Platonists' disagreement with Descartes was much sharper when they
+  came to consider his account of the material world. They were not opposed
+  to new developments in science—both Cudworth and More were members of the
+  Royal Society—but they denied that the phenomena could be accounted for
+  mechanistically in terms of matter and motion. Unlike Descartes, they
+  believed that animals had consciousness and sensitive souls; and even the
+  fall of a heavy body, they believed, needed to be explained by the action
+  an immaterial principle. This did not mean that God did everything
+  directly, as it were with his own hands, but rather that he had entrusted
+  the physical world to an intermediary, ‘a plastic nature’ akin to a
+  world-soul, that acted regularly and teleologically. Those like Descartes
+  who rejected teleology were mere ‘mechanic theists’ and were little better
+  than the materialist Hobbes.
