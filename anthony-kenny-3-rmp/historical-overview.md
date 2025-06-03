@@ -495,3 +495,64 @@
   world-soul, that acted regularly and teleologically. Those like Descartes
   who rejected teleology were mere ‘mechanic theists’ and were little better
   than the materialist Hobbes.
+
+## John Locke (1632-1704)
+
+* Locke's greatest philosophical work is the *Essay concerning human
+  understanding*. The *Essay* consists of four books. The first and
+  shortest, entitled ‘Of innate notions’, argues that there are no innate
+  principle in our minds, whether speculative or practical. All our ideas
+  are derived, either directly or by combination or reflection, from
+  experience. Even in the case of *a priori* disciplines such as geometry,
+  the ideas that we employ are not innate. ‘Idea’ is the catch-all term that
+  Locke employs to characterize our mental skills and the concepts of our
+  minds. Locke classified ideas in various ways: there are simple ideas and
+  complex ideas; there are clear and distinct and obscure and confused
+  ideas; there are ideas of sensations and idea of reflection. In dealing
+  with simple ideas, Locke divides the qualities to be found in bodies into
+  two categories, primary qualities such as solidity, motion, and figure,
+  which are in bodies ‘whether we perceive them or no’, and secondary
+  qualities such as colors, which ‘are nothing in the objects themselves,
+  but powers to produce various sensations in us by their primary
+  qualities’. Among the ideas of reflection the first and most important is
+  the idea of perception, for this is the first exercise of the mind upon
+  ideas. Perception is a purely passive experience, and everyone knows what
+  it is by looking within himself. The passive experiences of perception are
+  the bedrock on which Locke builds his philosophy.
+* The second book of the *Essay* present an empiricist philosophy of mind
+  and will, but it contains much else: reflections on time, space, and
+  number, for instance, and a catalogue of human passions. It deals with
+  casual and other relations, and it contains an elaborate and highly
+  influential discussion of the nature of personal identity.
+* Although Locke believes that we can recognize simple ideas within
+  ourselves unaided, and that if we cannot recognize them no words will help
+  us to do so, he does in practice identify the ideas that he is talking
+  about by means of the words that express them. He admits that ‘our
+  abstract ideas, and general words, have so constant a relation one to
+  another, that it is impossible to speak clearly and distinctly of our
+  Knowledge, which all consists in propositions, without considering, first,
+  the nature, use and signification of language.’
+* To that topic, then, he devotes his third book. The most famous sections
+  of this book are the discussions of abstract ideas and the theory of
+  substance. The mind, Locke says, observing likeness among natural objects,
+  sorts them under abstract general ideas, to which it attaches general
+  names. These general ideas have, he tells us, remarkable properties: the
+  general idea of a triangle, for instance ‘must be neither oblique nor
+  rectangle, neither equilateral, equicrural nor scalenon, but all and none
+  of these at once’. (MK: not sure I understand this.) Substances in the
+  world possess various qualities and powers which we make use of when we
+  define things of different kinds; but the definitions we give them do not
+  reveal their real essences, but only a ‘nominal essence’. Of substance in
+  general the only idea we have is of ‘something we know not what’ is which
+  properties inhere.
+* Epistemological considerations are ubiquitous throughout the *Essay*, but
+  it is the fourth book that is officially devoted to the topic of
+  knowledge. Because the real essences of things are unknown to us, we
+  cannot have true science about items in the natural world, but only
+  probable belief. We can have genuine knowledge of our own existence and of
+  the existence of God; and provided we keep within the bounds of actual
+  sensation, we can have knowledge of the existence of other things. The
+  love of truth should prevent us from entertaining any propositions with
+  greater assurance than the evidence we have for it: ‘Whoever goes beyond
+  this measure of assent, it is plain, receives not truth in the love of it,
+  loves not truth for truth's sake, but for some other by end.’
