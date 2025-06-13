@@ -556,3 +556,95 @@
   greater assurance than the evidence we have for it: ‘Whoever goes beyond
   this measure of assent, it is plain, receives not truth in the love of it,
   loves not truth for truth's sake, but for some other by end.’
+
+## Pascal
+
+* Born in 1632, Pascal was the son of a royal official in the Auvergne. A
+  precocious child, educated at home, he was already publishing on the
+  geometry of conic sections at the age of sixteen, and he invented a
+  rudimentary computer to assist his father in tax assessment. He inspired a
+  series of experiments which proved the empirical possibility of a vacuum,
+  which had been denied *a priori* by Descartes. Later in life he took a
+  significant part in the development of the mathematical study of
+  probability, and he can claim to be one of the founders of game theory.
+* In his own mind, his work in mathematics and physics came to seem a matter
+  of secondary importance. In 1654 he had a religious experience which led
+  him to make devotion and theology his main concern. He became a close
+  associate of a group of ascetics which centered on the convent of Port
+  Royal, which his sister Jacqueline had become a nun in 1652. Members of
+  the group were called ‘Jansenists’ because they revered the memory of the
+  Dutch Bishop Jansenius who had written a famous treatise on St Augustine,
+  which defended a pessimistic and rigorist version of Catholicism.
+  Jansenism stressed the corruption of fallen human nature, and held out
+  hope of salvation only to a small minority of the human race. In our
+  present state, some divine commands were impossible for human beings to
+  obey, even with the best will in the world. There was little scope for
+  free will: on the one hand, sin was unavoidable, and on the other hand,
+  grace was irresistible.
+* Such teaching was condemned by Pope Innocent X in 1653, but the Jansenists
+  fought a long rearguard battle, and their influence on Pascal remained
+  profound. In accord with their devaluation of the powers of fallen human
+  nature, Pascal was sceptical of the power of philosophy, especially in
+  relation to knowledge of God. ‘The true way to philosophize’, he once
+  wrote, ‘is to have no time for philosophy’; as for Descartes, he was
+  ‘useless and uncertain’.
+* Pascal was a master of aphorism, and many of his sayings have become
+  familiar quotations. ‘The eternal silence of the infinite spaces terrifies
+  me’; ‘Had Cleopatra's nose been shorter, the whole face of the world would
+  have been changed’, ‘We die alone’. One of the most striking is this:
+  > Man is only a reed, the frailest thing in nature; but he is a thinking
+  > reed. To crush him it does not take the whole universe in arms: a breath
+  > of wind, a drop of water is enough to kill him. But were the universe to
+  > crush him, mun would still be nobler than his killer. For he knows that
+  > he is dying and that the universe has the better of him. But the
+  > universe knows nothing of this.
+* Two themes recur in the surviving materials: the misery of humanity
+  without God, and the happiness promised by the religious life:
+  > The wretchedness of our condition is made clear by the philosophical
+  > debate between skeptics and rationalists. The skeptics are right that we
+  > cannot even be certain whether we are awake or asleep; the rationalists
+  > are right that there are some natural principles we cannot doubt. But
+  > whether these principles are true or not, depends on whether we come
+  > from a good God or from an evil demon. And we cannot know; without
+  > faith, whether there is a God: nature offers no satisfactory proof that
+  > he exists. The best we can do, if we do not accept revelation, is to bet
+  > on his existence.
+  MK: in what sense these “natural principles” can be not true? Can
+  mathematics be different in some different universe that is controlled by
+  an evil demon as compared to our universe that is supposedly controlled by
+  a good God? And even if we suppose that the answer to that question is
+  yes, then natural principles seem to be related to the universe in which
+  they apply, and so they are true in that universe and cannot be false
+  (there can be mistaken beliefs, which is different); it does not really
+  make sense to talk about “natural principles” as being true or false in a
+  scope beyond their universe if we accept that they are such principles
+  that are universe-dependent.
+* Human nature as we know it is a mass of contradiction. We have an ideal of
+  truth, and yet we possess only untruth. We have a yearning for happiness,
+  and we cannot achieve it. Humanity is something monstrous: ‘Chaotic,
+  contradictory, and prodigious; judge of everything and mindless
+  earth-worm, storehouse of truth and cesspool of terror; the glory and
+  refuse of the universe.’
+* The solution to this riddle is contained in the Christian doctrine of the
+  Fall. It is clear that the human condition is twofold. If humans had never
+  been corrupted they would have enjoyed in their innocent state both truth
+  and happiness. If they had never been other than corrupted, they would
+  never have any notion of either truth or happiness. But the Fall, which is
+  the key to understanding of ourselves, is of all Christian teachings the
+  one most shocking to reason:
+  > What is more contrary to laws of our wretched justice than eternally to
+  > damn a child with no will of its own for a sin in which the child had so
+  > small a part to play that it was committed sex thousand yeas before the
+  > child came into existence? Certainly, nothing shocks us more deeply than
+  > this doctrine. Nevertheless without this most incomprehensible of all
+  > mysteries we are incomprehensible to ourselves.
+* But if reason revolts at the idea of the Fall, reason can also establish
+  the idea's truth. The starting point is nothing other than human misery:
+  > The greatness of man is so evident that it can be inferred even from his
+  > wretchedness. For that which is nature in animals we call wretchedness
+  > in man. And by this we recognize that his nature being now like that of
+  > the animals, he is fallen from a better nature which formerly was his.
+  > For who is unhappy at not being a king, except a deposed king?
+  MK: this is a nice thought, but it is too simplistic. Surely, there can be
+  a more complex type of nature that is sometimes closer to the animal one
+  and at other times rises “above” that.
