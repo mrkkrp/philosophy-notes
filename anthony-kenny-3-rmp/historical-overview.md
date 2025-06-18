@@ -648,3 +648,61 @@
   MK: this is a nice thought, but it is too simplistic. Surely, there can be
   a more complex type of nature that is sometimes closer to the animal one
   and at other times rises “above” that.
+
+## Malebranche (1638–1715)
+
+* An enthusiastic follower of Descartes.
+* Malebranche accepted Cartesian dualism: minds were thinking substances and
+  the essence of matter was extension. But he tried to improve upon
+  Descartes' account of the relationship between mind and body, long
+  recognized as the weakest point in the Cartesian system. More consistently
+  than Descartes, Malebranche argued that if mind was pure thought, and
+  matter was pure extension, neither could act upon the other. Mind and body
+  run parallel, but do not interact. ‘It seems to me quite certain that the
+  will of spiritual beings is incapable of moving the smallest body in the
+  world. It is evident, for example, that there is no necessary connection
+  between our will to move our arm and our arm's movement.’ Sure, my arm
+  moves *when* I will, but not *because* I will. If it was really myself
+  moving my arm, I would know how I do it; but I cannot even explain how I
+  wiggle my finger.
+* If I do not move my arm, who does? God does, answers Malebranche. God is
+  the only true cause. Not only can minds not act on body; neither can
+  bodies act on bodies. If bodies collide and move away from each other,
+  what really happens is that God wills each of them to be in the
+  appropriate places at the appropriate moments. MK: this account has no
+  explanatory power.
+* Can bodies act on minds? Malebranche denies that our ideas come from the
+  bodies they represent, or that they are created by ourselves. They come
+  directly from God, who alone is capable of acting causally on our
+  intellects. If I prick my finger with a needle, the pain does not come
+  from the needle: it is directly caused by God. We see all things in God:
+  God is the environment in which minds live, just as space is the
+  environment in which bodies are located. It was this teaching which
+  particularly aroused the imagination of John Locke.
+* Many Christian thinkers, from St Augustine onwards, had held that human
+  beings see the eternal truths and the moral laws by contemplating, in some
+  manner, ideas in the mind of God. In making this claim Malebranche could
+  claim august authority. But it was a novelty to say that our knowledge of
+  changeable material objects depends on immediate divine illumination. God,
+  after all, is not himself material or changeable: all there is to be seen
+  in God is the pure idea of intelligible extension. How does contemplation
+  of the eternal divine archetype of extension convey to us any knowledge of
+  the contingent history of bodies moving and changing in the world about
+  us?
+* The answer that Malebranche gives us is that in seeing the archetype of
+  extension we are also made aware of all the laws of Cartesian physics that
+  govern the behavior of the material world. If this is to be sufficient to
+  predict the actual course of the universe the laws must fulfill two
+  conditions: they must be simple laws and they must be general laws. MK:
+  the universe is a fully deterministic system with sensitive dependence on
+  initial conditions, so that the whole setup is immutable and so any
+  contingent detail can be equally seen in one immutable source, God? Still
+  don't see why the laws should necessarily be “simple”.
+* Malebranche's belief in the simplicity and generality of fundamental laws
+  not only solves the epistemological problems about our knowledge of the
+  external world, but also the moral problem of the presence of evil among
+  the creatures of a good God. God could have made a world more perfect than
+  ours, but to do that he would have had to alter the simplicity of the
+  laws. Moreover, once God has established laws it is beneath his dignity
+  (MK: love this formulation) to tinker with them; laws must be general not
+  only for all places but for all times.
