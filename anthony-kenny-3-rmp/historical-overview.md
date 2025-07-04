@@ -789,3 +789,50 @@
   has been taken with equal justification to be alleging that ‘God’ is just
   a code word for the order of the natural universe, and to be claiming that
   when scientists speak of ‘Nature’ they are all the time talking of ‘God’.
+
+## Leibniz (1646–1716)
+
+* In winter of 1685 Leibniz wrote the first of his works which became
+  lastingly popular, *The discourse on metaphysics*. Brief and lucid, it
+  serves to this day as the best introduction to his philosophical system,
+  and contains many of his characteristic doctrines.
+* The first of these is that we live in the best of all possible worlds, a
+  world freely chosen by God who always acts in an orderly manner according
+  to reason. God is not, as Spinoza thought, the only substance: there are
+  also created individuals. Each individual through its history has many
+  predicates true of it, predicates whose totality defines it as the
+  substance it is. Each such substance expresses the universe after its own
+  manner, encapsulating the world from a particular viewpoint. Human beings
+  are substances of this kind: their actions are contingent, not necessary,
+  and depending on free will. Our choices have reasons, but not
+  necessitating causes. Created substances do not directly act upon each
+  other, but God has so arranged matters that what happens to one substance
+  corresponds to what happens to all the others. Consequently, each
+  substance is like a world apart, independent of any other thing save God.
+* The human mind contains, from its origin, the ideas of all things; no
+  external object, other than God, can act upon our souls. Our ideas,
+  however, are our own ideas and not God's. So too are the acts of our will,
+  which God inclines without necessitating. God conserves us continually in
+  being, but our thoughts occur spontaneously and freely. Soul and body do
+  not interact, but thoughts and bodily events occur in correspondence
+  because they are placed in liaison by the loving providence of God. God
+  has so ordered things that spirits, the most precious items in the
+  universe, live forever in full self-consciousness; and for those that love
+  him he has prepared unimaginable felicity.
+* In 1714 two of Leibniz's most important short treatises appeared: the
+  *Monadology* and *The principle of nature and of grace*. The *Monadology*
+  contains a developed and polished form of the system adumbrated in the
+  *Discourse*. Whatever is complex is made up of what is simple, and
+  whatever is simple is unextended, for if it were extended it could be
+  further divided. But whatever is material is extended, hence there must be
+  simple immaterial elements. These soul-like entities Leibniz called
+  monads—these are the ‘worlds apart’ of the *Discourse*. Whereas for
+  Spinoza there was only one substance, with the attributes of both mind and
+  extension, for Leibniz there are infinitely many substances, which the
+  properties only of souls.
+* Like Malebranche, Leibniz denied that creatures could be causally affected
+  by other creatures. ‘Monads have no windows, by which anything could come
+  in or go out.’ Their life is a succession of mental states or perceptions,
+  bet these are not caused by the external world. A monad mirrors the world,
+  not because the world shines into it, but because God has programmed it to
+  change in synchrony with the world.
