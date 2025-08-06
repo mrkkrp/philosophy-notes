@@ -836,3 +836,31 @@
   bet these are not caused by the external world. A monad mirrors the world,
   not because the world shines into it, but because God has programmed it to
   change in synchrony with the world.
+
+## Berkeley (1685–1753)
+
+* *An essay towards a New Theory of Vision* appeared in 1709. This offered
+  an account of how we judge the distance, and size, of seen objects. The
+  connection between shape as judged by vision and shape as judged by touch
+  is something learned only by experience. Intrinsically, seen roundness and
+  felt roundness have nothing in common. A man born blind, who had learned
+  to tell a cube from a sphere by touch, would not, if his sight were
+  suddenly restored, be able to tell by looking along which of two objects
+  on a table in from of him was a cube and which was a sphere. So Berkeley
+  affirmed, following Locke. Indeed, when tested in 1963, this was found to
+  be false: a man who recovered his sight after a corneal graft was
+  immediately able, from experience of feeling the hands of his pocket
+  watch, to tell the time visually.
+* *Principles of Human Knowledge* presented and ingeniously defended the
+  astonishing thesis that there is no such thing as matter. Berkeley's
+  immaterialism was presented again in 1713 in *Three Dialogues between
+  Hylas and Philonous*. In the end, Hylas agrees that trees and chairs are
+  nothing but bundles of ideas, produced in our minds by God, whose own
+  perception of them is the only thing that keeps them in continuous
+  existence. MK: but this simply reframes the notion of matter without
+  eliminating it. We can still call that which God perceives ‘matter’, which
+  is apparently quite stable and possess all the qualities of matter as
+  usually understood by us. It is quite irrelevant whether matter is
+  grounded in God's perception or exists in some other way as there can be
+  no useful distinction drawn between these two possibilities in any kind of
+  discussion.
