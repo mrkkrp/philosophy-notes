@@ -864,3 +864,63 @@
   grounded in God's perception or exists in some other way as there can be
   no useful distinction drawn between these two possibilities in any kind of
   discussion.
+
+## David Hume (1711–1776)
+
+* His major work is *Treatise of Human Nature* in three volumes.
+* The first book sets out an empiricist classification of the contents of
+  the mind (‘perceptions’). This covers much of the same ground as Locke and
+  Berkeley's epistemology, but Hume divides perceptions into two classes:
+  impressions and ideas. Impressions are more forceful, move vivid, than
+  ideas. Impressions include sensations and emotions; ideas are perceptions
+  involved in thinking and reasoning. Hume treats in details ideas of memory
+  and imagination, and the association between them. He endorses and
+  reinforces Berkeley's criticism of Locke's abstract ideas.
+* After a second volume devoted to the ideas of space and time Hume
+  presents, in a section entitled ‘Of knowledge and probability’, his most
+  original and influential thoughts. All knowledge that extends beyond the
+  immediate deliveries of the senses, Hume argues, depends upon the notions
+  of cause and effect: it is through those ideas that we discover what
+  happened in the past and conjecture what will happen in the future. The
+  idea of causation, he says, cannot arise from any inherent quality of
+  object, because objects of the most different kind can be causes and
+  effects. We must look, instead, for relationships between objects; and we
+  find that causes and effects must be contiguous to each other, and that
+  causes must be prior to their effects. Moreover, contiguity and succession
+  are not enough for us to pronounce two objects to be cause and effect,
+  unless we see that objects of the two kinds are found in constant
+  conjunction. But that is not enough: if we are to infer an effect from its
+  cause, we feel, there must be a necessary connection between a cause and
+  its effect. Hume concludes: it is not our inference that depends on the
+  necessary connection between cause and effect, but the necessary
+  connection that depends on the inference we draw from one to the other.
+  Our belief in necessary connection is not a matter of reasoning, but of
+  custom; and to wean us from the contrary doctrine Hume present his own
+  analysis of the relationship between reason and belief. He rounds off the
+  book on understanding with a part that places his novel skepticism in the
+  context of other versions of skepticism, ancient and modern. The part ends
+  with a celebrated section in which Human denies the existence of the self
+  as conceived by philosophers.
+* The much discussed conflicts between passions and reason is a
+  metaphysician's myth. Reason itself, Hume argues, is impotent to produce
+  any action: all voluntary behavior is motivated by passion. Passion can
+  never be overcome by reason, but only by a contrary passion. Since reason
+  cannot move us to action, moral judgments cannot be the product of reason
+  because the whole purpose of such judgments is to guide our behavior.
+  Reason is concerned either with relations of ideas or with matters of
+  fact, but neither of these leads on to action. Only passions can do that,
+  and reason can neither cause nor judge our passions. All that reason can
+  do is to determine the feasibility of the object sought by the passions
+  and the best methods of achieving them. An ‘ought’ cannot be derived from
+  an ‘is’ (what reason operates with) and the conclusion we must draw is
+  that distinctions between good and evil, right and wrong, are the product
+  not of reason but of a moral sense.
+* From this basis Hume goes on in the second part of the books to discuss
+  justice and injustice, and in the third book other natural virtues such as
+  benevolence and greatness of mind. He concludes that the chief source of
+  moral distinctions is the feeling of sympathy with others. Justice is
+  approved of because it tends to the public good; and the public good is
+  indifferent to us, except in so far as sympathy interests us in it.
+  ‘Virtue is considered as a means to an end. Means to an end are only
+  valued so far as the end is valued. But the happiness of strangers affects
+  us by sympathy alone.’
