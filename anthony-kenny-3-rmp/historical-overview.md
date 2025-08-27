@@ -924,3 +924,30 @@
   ‘Virtue is considered as a means to an end. Means to an end are only
   valued so far as the end is valued. But the happiness of strangers affects
   us by sympathy alone.’
+
+## Adam Smith (1723–1790)
+
+* In 1759 Smith published a *Theory of Moral Sentiments*. In this work he
+  carried further Hume's emphasis on the role of sympathy as a fundamental
+  element in our moral judgments, presenting a more complex analysis of
+  sympathy itself and of its relationship to morality. Whereas, for Hume,
+  sympathy was essentially a sharing of pleasure or pain with another, for
+  Smith sympathy has a broader scope and can arise from the sharing of any
+  passion. Because of the role of sympathy in generating moral judgment, the
+  motive of an action matters more to us than outcome; hence utility, though
+  of the first importance in economics, is not the ultimate criterion for
+  morality. Moral judgment, he insists, is essentially a social enterprise:
+  a person brought up on a desert island ‘could no more think of his own
+  character, of the propriety or demerit of his own sentiments and conduct,
+  of the beauty or deformity of his own mind than of the beauty or deformity
+  of his own face’. We need the mirror of society to show us ourselves: we
+  cannot form any judgment of our own sentiments or motives unless we can
+  somehow distance ourselves from them. Hence:
+
+  > I divide myself, as it were, into two persons… The first is the
+  > spectator, whose sentiments with regard to my own conduct I endeavor to
+  > enter into, by placing myself in his situation, and by considering how
+  > it would appear to me, when seen from that particular point of view. The
+  > second is the agent, the person whom I properly call myself, and of
+  > whose conduct, under the character of a spectator, I was endeavoring to
+  > form some opinion.
