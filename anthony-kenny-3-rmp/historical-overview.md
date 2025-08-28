@@ -951,3 +951,52 @@
   > second is the agent, the person whom I properly call myself, and of
   > whose conduct, under the character of a spectator, I was endeavoring to
   > form some opinion.
+
+## Thomas Reid (1710–1796)
+
+* In 1764 Reid published an *Inquiry into the Human Mind on the Principles
+  of Common Sense* in response to Hume's *Treatise* and he followed this up
+  in the 1780s with two essays on the intellectual and active powers of man.
+* Reid puts his finger accurately on the basic error of Descartes and Locke,
+  arising from the ambiguity of the word ‘idea’. In ordinary language ‘idea’
+  means an act of mind; to have an idea of something is to conceive it, to
+  have a concept of it. But philosophers have given it a different meaning,
+  Reid says, according to which ‘it does not signify that act of the mind
+  which we call thought or conception, but some object of thought’. Ideas
+  which are first introduced as humble images or proxies of things end up by
+  supplanting what they represent and undermine everything but themselves:
+  ‘Ideas seem to have something in their nature unfriendly to other
+  existences.’
+* Ideas in the philosophical sense—postulated intermediaries between the
+  mind and the world—are, in Reid's view, mere fictions. We do, of course,
+  have conceptions of many things, but conceptions are not images, and in
+  any case it is not conceptions that are the basic building blocks of
+  knowledge, but propositions. Followers of Locke think that knowledge
+  begins with bare conceptions (‘simple apprehensions’), which we then put
+  together to form beliefs and judgments. But that is the wrong way of
+  looking at things. ‘Instead of saying that the belief or knowledge is got
+  by putting together and comparing the simple apprehensions, we ought
+  rather to say that the simple apprehension is performed by resolving and
+  analyzing a natural and original judgment’. This thesis that concepts are
+  logically subsequent to propositions, and result from their analysis, was
+  an anticipation of a doctrine popular with some analytic philosophers in
+  the twentieth century.
+* The initial furniture of the mind is not a set of disconnected ideas, but
+  a set of ‘original and natural judgments’. These make up what Reid calls
+  ‘the common sense of mankind’. ‘Common sense’, before Reid, was commonly
+  used by philosophers as the name of an alleged inner sense which
+  discriminated between, and brought together, sense-data from different
+  exterior senses. It was Reid who gave the expression the meaning which it
+  has borne in modern times, as a repository of commonly shared unreasoned
+  principles.
+* ‘The vulgar have undoubted right to give names to things which they are
+  daily conversant about; and philosophers seem justly chargeable with an
+  abuse of language, when they change the meaning of a common word, without
+  giving warning.’
+* ‘In the unequal contest betwixt common sense and philosophy the latter
+  will always come off both with dishonor and loss.’ These should not be
+  taken as the words of a philistine Luddite opposed to science and
+  technology. Like the ordinary language philosophers of whom Reid was a
+  precursor, he thought that it was only with respect to the meaning of
+  words, not with respect to the truth or falsehood of propositions, that
+  the man in the street had the final say.
