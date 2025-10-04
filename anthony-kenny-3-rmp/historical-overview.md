@@ -1000,3 +1000,55 @@
   precursor, he thought that it was only with respect to the meaning of
   words, not with respect to the truth or falsehood of propositions, that
   the man in the street had the final say.
+
+## The Enlightenment
+
+* The high point of the French enlightenment was the publication of in the
+  1750s and 1760s of the seventeen volumes of *Encyclopédie, ou
+  Dictionnaire raisonné des arts et des métiers* edited by Denis Diderot and
+  Jean d'Alembert. But the ground for this manifesto had been prepared for
+  more than half a century by other French thinkers.
+* Pierre Bayle (1647-1706) had brought out a *Dictionaire Historique et
+  Critique* in which he showed, by detailed studies of biblical and
+  historical personages, the inconsistency and incoherence of much of
+  natural and revealed theology. The moral of his *tour d'horizon* was that
+  religious faith was only tenable if accompanied by general toleration, and
+  that the teaching of ethics should be made independent of religious
+  instruction. Belief in human immortality, or in the existence of God, was
+  not something necessary for virtuous living. Bayle's negative attitude to
+  religious authority set the tone for Enlightenment thinkers in Germany as
+  well as France.
+* The positive element in the Enlightenment—the attempt to achieve a
+  scientific understanding of the human social and political condition—owed
+  more to another, more systematic thinker, Charles de Secondat, Baron de
+  Montesquieu. Montesquieu spent a period in England and acquired a great
+  admiration for the English Constitution. His Anglophile passion was shared
+  by later Enlightenment philosophers, who saw themselves as heirs of Bacon,
+  Locke, and Newton rather than of Descartes, Spinoza, and Leibniz.
+* Voltaire is full of enthusiasm for the comparative freedom and moderation
+  of English political and ecclesiastical institutions. Locke, Voltaire
+  says, is the first philosopher to have given a sober account of the human
+  soul in place of the romantic fantasies woven by earlier philosophers.
+* While the Enlightenment philosophers were all anti-clerical, they were not
+  all atheists. Voltaire, for instance, thought that the world as explained
+  by Newton manifested the existence of God just as much as a watch shows
+  the existence of a watchmaker. If God did not exist, Voltaire famously
+  said, it would be necessary to invent him—otherwise the moral law would
+  carry no weight. But he did not himself believe in a God who had freely
+  created the world. Such a God would have to bear responsibility for
+  catastrophic evils similar to the earthquake which struck Lisbon in 1755.
+  The world was not a free creation, but a necessary, eternal, consequence
+  of God's existence.
+* Although they are often seen as precursors of the French Revolution, the
+  *philosophes* were not necessarily radical or even democratic. Diderot
+  accepted the patronage of Catherine the Great of Russia, and Voltaire was
+  for three years a chamberlain to Frederick II of Prussia. Their ideals of
+  liberty resembled those of the English revolutionaries of 1688 more than
+  those of the French revolutionaries of 1789. Freedom of expression was the
+  freedom they most treasured, and they had no objection to in principle to
+  autocracy, although each of them was to find their chosen despots were
+  less enlightened than they had hoped. At home, both men were willing to
+  take risks in protesting against abuses by government, but they did not
+  call for any fundamental political changes. Least of all did they want an
+  empowerment of the common people—the ‘rabble’, to use Voltaire's favorite
+  term.
