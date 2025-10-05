@@ -1052,3 +1052,21 @@
   call for any fundamental political changes. Least of all did they want an
   empowerment of the common people—the ‘rabble’, to use Voltaire's favorite
   term.
+
+## Jean-Jacques Rousseau
+
+* R. shocked the *philosophes* when in 1750 he published a prize essay which
+  gave a negative answer to the question whether the progress of the arts
+  and sciences had had a beneficial effect on morality. He followed this up
+  four years later by a *Discourse on the Origin and Foundation of
+  Inequality among Men*. The theme of both works was that humanity was
+  naturally good, and corrupted by social institutions. The ideal human
+  being was the ‘noble savage’ whose simple goodness put civilized man to
+  shame. All this was, of course, at the opposite pole from the
+  encyclopedists' faith in scientific and social progress.
+* R. wrote two philosophical treatises, one on education entitled *Émile*,
+  and one on political philosophy, *The Social Contract*. *Émile* narrated
+  the life of a child educated apart from other children, as an experiment;
+  *The Social Contract* began with the memorable words ‘Man is born free,
+  and is everywhere in chains.’ These works immediately caused an uproar
+  because of their inflammatory doctrines.
