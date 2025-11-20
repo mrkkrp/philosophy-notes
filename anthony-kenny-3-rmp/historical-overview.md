@@ -1070,3 +1070,74 @@
   *The Social Contract* began with the memorable words ‘Man is born free,
   and is everywhere in chains.’ These works immediately caused an uproar
   because of their inflammatory doctrines.
+
+## Christian Wolff (1679–1754)
+
+* There was little original in Wolff, except for the system which he imposed
+  upon his borrowings from earlier authors. He perceived it as his task, for
+  instance, to impose order on what he saw as the chaos of Aristotle's
+  metaphysics. He regimented the different branches of philosophy,
+  popularizing such distinctions as those between natural theology and
+  general metaphysics (‘ontology’), which had been absent from medieval
+  discussion. His definition of ontology as ‘the science of all possible
+  things insofar as they are possible’, which its emphasis on possible
+  essences rather than actual existents, was a continuation of a line begun
+  by Avicenna and Duns Scotus. He introduced a novel distinction between
+  physics (the experimental study of the contingent natural laws of this
+  world) and cosmology (an *a priori* investigation of every possible
+  material world).
+* Like Descartes, Wolff accepted the existence of a human soul that was a
+  simple substance available to self-consciousness; but the relation between
+  this soul and the body he explained by appeal to a Leibnizian
+  pre-established harmony. In Wolff's ethical system the key notion is that
+  of perfection. Good is what increases perfection, and evil what diminishes
+  it. The fundamental human motivation is self-perfection, which includes
+  the promotion of the common good and the service of God's honor. Although
+  living bodies, including human bodies, are machines, nonetheless we enjoy
+  free will: rational choice can, and should, overcome all the pressures of
+  sensibility.
+* Wolff is nowadays hardly ever read by English readers. His importance in
+  the history of philosophy is that his system became accepted in Germany as
+  the paradigm of a rationalist metaphysics, and that later writers defined
+  their own positions in relation to his. This is particularly true of
+  Immanuel Kant, who is his magisterial critique of metaphysics often has
+  Wolff's doctrines immediately in his sights.
+
+## Gotthold Ephraim Lessing (1729–1781)
+
+* Lessing was much closer to the Enlightenment as understood in France and
+  Britain. Like the *philosophes* he expressed his thoughts in essays and
+  dramas in preference to academic textbooks. He argued for separation of
+  philosophy and poetry as two quite different spiritual activities and
+  delineated a special, semi-prophetic role for the poet. In doing so he
+  foreshadowed one of the principal themes of Romanticism.
+* Like the Romantics, Lessing admired Spinoza. He regarded the world as a
+  single unified system whose components were identical with ideas in the
+  mind of God. He was willing to accept that determinism was true and that
+  freedom was an illusion; on the other hand, he was willing to admit
+  contingency in the world, with the consequence that some among God's ideas
+  were contingent also. He praised Spinoza for realizing that liberation
+  from anxiety is only to be achieved by accepting the inevitability of
+  destiny. ‘I thank my God,’ he said, ‘that I am under necessity, that the
+  best must be.’
+* Lessing's most important philosophical work was *The Education of the
+  Human Race* (1780). The human race, like the human individual, passes
+  through different stages, to which different kinds of instruction are
+  appropriate. The upbringing of a child is a matter of physical rewards and
+  punishment: the childhood of the human race was the era of the Old
+  Testament. In our youth, educators offer us more spiritual rewards for
+  good conduct; eternal rewards and punishments for an immortal soul. This
+  corresponds to the period of history dominated by the Christian religion.
+  However, as Lessing endeavored to show in a number of critical studies of
+  the New Testament, the evidence for the divine origin of Christianity is
+  uncompelling. Even the strongest historical evidence about contingent
+  facts, Lessing went on to argue, cannot justify any conclusion to
+  necessary truths about matters of divinity. The Christian religion,
+  therefore, can be no more than a stage in the education of the human race,
+  and its dogmas can have no more than symbolic value. Human nature, come of
+  age, must extract from Christianity a belief in the universal brotherhood
+  of man, and must pursue moral values for their own sake, not for the sake
+  of any reward here or hereafter.
+* Like the leaders of the French Enlightenment, Lessing was a passionate
+  advocate of religious toleration; he gave fullest expression to this
+  advocacy in his drama *Nathan the Wise* (1779).
