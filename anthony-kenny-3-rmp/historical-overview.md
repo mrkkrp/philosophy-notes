@@ -1141,3 +1141,63 @@
 * Like the leaders of the French Enlightenment, Lessing was a passionate
   advocate of religious toleration; he gave fullest expression to this
   advocacy in his drama *Nathan the Wise* (1779).
+
+## Immanuel Kant (1724–1804)
+
+* The first eleven years of his professorship were spent by Kant in
+  developing his own original system, which was published in 1781 in *The
+  Critique of Pure Reason*. This work established him as one of the greatest
+  philosophers of the modern age.
+* Kant distinguishes two modes of knowledge: knowledge *a priori* and
+  knowledge *a posteriori*. We know a truth *a posteriori* if we know it
+  through experience; we know it *a priori* if we know it independently of
+  all experience. Kant agreed with Locke that all our knowledge begins with
+  experience, but he did not believe that it all arose from experience. MK:
+  well, what exactly is the difference between “begin” and “arose” here?
+  There are some things that we know *a priori*, fundamental truths that are
+  not mere generalizations from experience. Among the judgments that we make
+  *a priori* some are analytic, and some are synthetic. In an analytic
+  judgment such as “all bodies are extended” we are merely making explicit
+  in the predicate something that is already contained in the concept of the
+  subject. But in a synthetic judgment the predicate adds something to the
+  content of the subject: Kant's example is ‘all bodies are heavy’. All *a
+  prosteriori* propositions are synthetic and all analytic propositions are
+  *a priori*. Can there be propositions that are synthetic and yet a *a
+  priori*? Kant believes that there are. For him, mathematics offers
+  examples of synthetic *a priori* truths. Most importantly, there must be
+  propositions that are both *a priori* and synthetic if it is ever going to
+  be possible to make a genuine science out of metaphysics.
+* The philosopher's first task is to make plain the nature and limits of the
+  powers of the mind. Like medieval and rationalist philosophers before him,
+  Kant distinguishes sharply between senses and intellect; but within
+  intellect he makes a new distinction of his own between understanding and
+  reason. The understanding operates in combination with the senses in order
+  to provide human knowledge: through the senses, objects are given to us;
+  through the understanding, they are made thinkable. Experience has a
+  content, provided by the senses, and a structure, determined by the
+  understanding. Reason, by contrast with understanding, is the intellect's
+  endeavor to go beyond what understanding can achieve. When divorced from
+  experience it is ‘pure reason’, and it is this which is the target of
+  Kant's criticism.
+* ‘Transcendental’ means something goes beyond and behind the deliverances
+  of actual experience, and in his dialectic Kant has three principal
+  targets: metaphysical psychology, metaphysical cosmology, and metaphysical
+  theology. ‘Pure reason’, he tells us, ‘furnished the idea for a
+  transcendental doctrine of the soul, for a transcendental science of the
+  world, and finally for a transcendental knowledge of God.’ In turn he
+  tests to destruction the three notions of an immaterial immortal soul, of
+  a surveyable cosmic whole, and of an absolutely necessary being.
+* In his sixties Kant turned his attention to ethics and aesthetics in three
+  seminal works: *Fundamental principles of the metaphysics of morals*
+  (1785), *The critique of practical reason* (1788), and *The Critique of
+  Judgment* (1790). In the first two of these he aimed to set out critically
+  the synthetic *a priori* principles of practical reason just as he had, in
+  his first *Critique*, set out the synthetic *a priori* principles of
+  theoretical reason.
+* In 1793 he published a semi-theological work, entitled *Religion within
+  the bounds of reason alone*, which offered a reinterpretation of several
+  Christian doctrines, and in 1795, in the midst of the French revolutionary
+  wars, he wrote a pamphlet *On perpetual peace*. In 1797 he published *The
+  conflict of the faculties* on the relationship between theology and
+  philosophy. In 1797 he amplified his moral system in *The metaphysics of
+  morals*.
