@@ -1201,3 +1201,27 @@
   conflict of the faculties* on the relationship between theology and
   philosophy. In 1797 he amplified his moral system in *The metaphysics of
   morals*.
+
+## Johann Gottlieb Fichte (1762–1814)
+
+* Fichte's philosophical reputation rests on his *Wissenschaftslehre*
+  of 1804. He saw the task of philosophy in Kantian terms as providing a
+  transcendental account of the possibility of experience. Such an account
+  could start either from pure objectivity (the thing in itself) or free
+  subjectivity (‘the I’). The former would be the path of dogmatism and the
+  latter the path of idealism. Fichte rejected the Kantian solution to the
+  Kantian problem, and abandoned any notion of a thing-in-itself. He sought
+  to derive the whole of consciousness from the free experience of the
+  thinking subject. Thus he made himself the uncompromising originator of
+  German idealism.
+
+## Friedrich Wilhelm Joseph (von) Schelling (1775–1854)
+
+* Schelling went on to develop his own less uncompromising form of idealism,
+  a ‘Nature Philosophy’, according to which an initial absolute gives rise
+  to two co-equal principles existing side by side: a spiritual
+  consciousness and a physical nature. S.'s system is rich but difficult and
+  his works are not much read nowadays in anglophone countries. In most
+  histories of philosophy S. is presented as a bridge between the idealism
+  of Fichte and that Hegel, who collaborated with him as editor of a
+  philosophical journal at Jena in 1802-3.
