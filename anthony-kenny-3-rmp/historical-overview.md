@@ -1225,3 +1225,38 @@
   histories of philosophy S. is presented as a bridge between the idealism
   of Fichte and that Hegel, who collaborated with him as editor of a
   philosophical journal at Jena in 1802-3.
+
+## Georg Wilhelm Friedrich Hegel (1770–1831)
+
+* Hegel's philosophy is not a disciplined inquiry into reality, but rather
+  an elaborate exercise in intellectual self-assertion—where the system
+  seems to generate its own “facts” rather than submit to them. From this
+  perspective Hegel's method—especially his use of dialectic—can look
+  suspiciously elastic. The famous movement from thesis to antithesis to
+  synthesis is often applied so loosely that it appears capable of
+  justifying almost any conclusion after the fact. Instead of being
+  constrained by empirical evidence or logical necessity, the progression of
+  ideas appears retrofitted: outcomes are predetermined, and the dialectical
+  steps are reconstructed to give them an air of inevitability.
+* Where a more disciplined philosophy would clarify distinctions and test
+  claims against experience, Hegel's writing often seems to dissolve
+  concrete realities into a haze of conceptual terminology—“Absolute
+  spirit”, “being-in-itself”, “negation of the negation”—that resists
+  verification or falsification. This makes it difficult to tell whether the
+  system is uncovering truths about the world or merely rearranging words
+  within a closed conceptual scheme.
+* Hegel presents history as the unfolding of Reason, culminating
+  (conveniently) in institutions resembling those of his own time. This
+  teleological narrative looks less like a discovery grounded in historical
+  facts and more like a projection of philosophical preferences onto the
+  past. Events are selectively interpreted to fit the grand story, giving
+  the impression that reality is being forced into the mold of the system
+  rather than the system being shaped by reality.
+* Finally, the sheep totalizing ambition of Hegel's philosophy invites
+  suspicion. By claiming to integrate logic, nature, mind, art, religion,
+  and politics into a single, self-contained system, it risks becoming
+  unfalsifiable. Any apparent counterexample can be absorbed as a “moment”
+  within the whole. In this sense, the system appear less like a rigorous
+  framework constrained by external checks and more like a self-sealing
+  structure—internally coherent perhaps (likely not!), but detached from the
+  discipline imposed by independent facts.
